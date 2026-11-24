@@ -1,0 +1,794 @@
+{
+ "category": "SEARCH_CALORIE_COUNTER",
+ "generatedAt": "2026-11-24T00:46:10.361Z",
+ "apps": [
+  {
+   "appId": "com.myfitnesspal.android",
+   "title": "MyFitnessPal: Calorie Counter",
+   "developer": "MyFitnessPal, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/iGPZDsKZoF58BABAEIebIQk_X1sdYHviEJAwUyoYyJO4L-bN8XA6yWiXuBJcVJwIEc4wHSvxWjbFU23Y7cn1sMo",
+   "url": "https://play.google.com/store/apps/details?id=com.myfitnesspal.android&hl=en&gl=us",
+   "rating": 4.41,
+   "installs": "100,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 169,
+   "opportunityScore": 67,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 54,
+     "share": 32,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "lots of ads, most of the ease of use features are paid",
+      "dislike the fact I have to pay for me to be able to track my macros (grams) behind a paywall. It only sets a percentage for the free version."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 33,
+     "share": 20,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "Syncing with MapMyWalk isn't working anymore. And exercise entries no longer work at all. I've rebooted the phone, cleared the cache, uninstalled the app and reinstalled... no fix. *update- it started working again but now not anymore",
+      "Not Longer Synicung with map my walk since last update despite disconnecting and reconnecting. No impresses at all having to manually enter exercise"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 24,
+     "share": 14,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "cursor on search bar when listing foods gets moved behind whatever I'm typing. This happens almost every time I log in. also stop signing me out for no reason",
+      "worked great for years, but for the past two or three months it will not keep me logged in. I have to log in every time I open the app. thought they would have fixed this by now"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 23,
+     "share": 14,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "New vibe coded interface, pure usability garbage. Also full of useless measurements \"portion/piece/serving\"...",
+      "keeps logging me out. super annoying"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 14,
+     "share": 8,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "MFP has been glitching really badly lately. I try to add a food and it keeps going back to the main screen. It's very frustrating.",
+      "Paywalled previously basic functionality (Barcode scanning) and now the app is broken entirely. Pain in the neck, have to give up on MFP and move to an alternative like Go Gym."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "I wish it would pair and communicate with more fitness apps",
+    "need to edit values",
+    "I wish I could downgrade to the app we had 3-4 years ago",
+    "Why doesn't MFP like Map My Walk anymore",
+    "should have been grandfathered into the \"premium\" features we enjoyed for free years ago",
+    "why can't it stay logged in",
+    "I wish the old app was still available",
+    "need to add a way to share recipies with other users"
+   ],
+   "pitch": "A Health & Fitness app like MyFitnessPal: Calorie Counter, but: generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.yazio.android",
+   "title": "Yazio: AI Calorie Tracker",
+   "developer": "Yazio",
+   "icon": "https://play-lh.googleusercontent.com/jSeq2o-n-t16bz9KiUQRkIArxspEPk6JAWidQb_mZ0SSfiC6t5BmVxkSpbKWeqUSpa9zrHJ5QGHTy10toVzb",
+   "url": "https://play.google.com/store/apps/details?id=com.yazio.android&hl=en&gl=us",
+   "rating": 4.45,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 154,
+   "opportunityScore": 58,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 54,
+     "share": 35,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "too much question wasting of time then you need to pay yearly payment first without trial.",
+      "waste of money. I take a photo of the nutrition list and the AI just takes different numbers. absolutely unusable"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 29,
+     "share": 19,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "The amount of ads and pop-ups has gotten so bad that I'm looking for an alternative. I used to like Yazio a lot but this is just beyond annoying. I'm really disappointed :(",
+      "great app but now we have ads if you don't pay !!"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 21,
+     "share": 14,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "it's do annoying 15 minutes survey!!!!!",
+      "The amount of ads and pop-ups has gotten so bad that I'm looking for an alternative. I used to like Yazio a lot but this is just beyond annoying. I'm really disappointed :("
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 14,
+     "share": 9,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "I contacted support weeks ago because the app isn't syncing with Google Health despite numerous reconnects and tries. It still doesn't.",
+      "lost a long streak because I wasn't connected to a network while working remotely - what a crock. no offline mode functionality - only a limited streak freeze that couldn't protect my run."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 8,
+     "share": 5,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "The amount of ads and pop-ups has gotten so bad that I'm looking for an alternative. I used to like Yazio a lot but this is just beyond annoying. I'm really disappointed :(",
+      "since the new update i can no longer create new recipes. very inconvenient. Will be finding a new tracking app as I do a lot of home cooking."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to pay yearly payment first without trial",
+    "need to manually turn all vendors off one by one, in order to receive the \"free gift\"",
+    "need to track each day due to meal prep), \"motivational\" messages that take 1-3 clicks each time",
+    "need an app to log my calories",
+    "need to buy a subscription again, and they didn’t refund the money for the lifetime subscription",
+    "need to buy pro just to check the calories than what's the point of using it",
+    "need to unlock with Pro, but since there is no trial phase you directly have to subscribe",
+    "I wish I hadn't paid for a year"
+   ],
+   "pitch": "A Health & Fitness app like Yazio: AI Calorie Tracker, but: generous free tier, fair one-time price instead of forced subscription; few or no ads (or a one-time \"remove ads\" purchase); clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.viraldevelopment.calai",
+   "title": "Cal AI - Food Calorie Tracker",
+   "developer": "Cal AI, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/g0xMrnRwjPBsbTfJxHoLsTOiMG6gCl0NP4JD1mlzz4F_co9AtNfX7j22Oehu0HxKl796RotrGAknM1KhgEXqLw",
+   "url": "https://play.google.com/store/apps/details?id=com.viraldevelopment.calai&hl=en&gl=us",
+   "rating": 4.54,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 225,
+   "opportunityScore": 49,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 98,
+     "share": 44,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "u have to pay money and I don't have that because I am a kid",
+      "I tried to install the app and I got into it gave it all my information and then it tried to make me pay for a FREE 3 day trial why do I have to pay to keep myself in shape?"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 33,
+     "share": 15,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "I like this app and how easy it is but the only thing that stops it from reaching a 5 star is how much it glitches and once it reset my macros goals",
+      "bought the family plan, people on the plan kept getting notifications to buy it, My login stopped working, support not helpfull, giving me then run around. suspect they delete accounts so you buy it again. trying to get a refund."
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 23,
+     "share": 10,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "please I subscribed for yor yearly services by mistake please can you refund my money sorry for the inconvenience",
+      "terrible! gets everything wrong. have to edit every piece of food. even if scanning barcodes"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 21,
+     "share": 9,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "SCAM. This app will charge you despite offering a free trial period, for which you have to provide a credit card, but they will charge you anyway even if you cancel the payment and delete your account the very same day. DISAPPOINTED.",
+      "absolute joke I hate this app, I bought a year with a different phone and it won't sign in with another phone"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 16,
+     "share": 7,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "Premium subscriber. App worked perfectly for months. Now repeatedly crashes and wipes out history. Achievement badges gone. Daily rings are always red event though actual in 500 calorie deficit. Disappointing end after a very good start",
+      "I lost my streak for no reason. I never skipped a day, the app has bugs"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to close it and open it again, the app takes time to load for any action you take, and the health score in the app is totally bonkers",
+    "needs a lot of work before it is worth $27 for the year",
+    "need to focus on the fundamentals of making the search better and the app itself less prone to breaking",
+    "would be nice if you didn't have to pay for a membership",
+    "I wish we could log food in advance even if it's just the next day eg",
+    "need to pay, which is sad",
+    "need to be logged",
+    "Needs an offline capability"
+   ],
+   "pitch": "A Health & Fitness app like Cal AI - Food Calorie Tracker, but: generous free tier, fair one-time price instead of forced subscription; rock-solid stability as the #1 selling point; content checked by native speakers."
+  },
+  {
+   "appId": "com.nutratech.app.android",
+   "title": "Calorie Counter +",
+   "developer": "Nutracheck",
+   "icon": "https://play-lh.googleusercontent.com/RI3SGi-cpC8xZKtOEPy9rU4evlebzv80AKHJJIHn5NxchSGfIRhbxYEHx_D-rclCwc0ZZ10B4fwaa3gjWge8",
+   "url": "https://play.google.com/store/apps/details?id=com.nutratech.app.android&hl=en&gl=us",
+   "rating": 4.34,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 71,
+   "opportunityScore": 38,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 34,
+     "share": 48,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "was really enjoying this app but it's charged extra for the year a month later. How do I get a refund for extra year subscription charge?",
+      "too expensive for what feels like a half formed app."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Good app interface that I would've continued to use if it wasn't for the cost of the app.",
+      "Too complicated and anxiety inducing, doesn't measure protein intake"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 4,
+     "share": 6,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "the latest update is a massive step backwards. why would you want to change an app that has worked very well for years",
+      "I like the app so far, and got a great offer for the year. The UI isn't the clearest but I'm getting used to it now. I like having a UK specific app, much better database than Myfitnesspal. I'd love if you could connect it to Google Health (fitbit)."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": []
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "Excellent app, it's paid but its better than MFP. Dropping a * purely as Health connect doesn't sync into this."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need a subscription",
+    "needs to be an offline feature where you can save the database to your phone so there's no delay when searching for stuff"
+   ],
+   "pitch": "A Health & Fitness app like Calorie Counter +, but: generous free tier, fair one-time price instead of forced subscription; clean, simple interface that does one thing well; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.fitnow.loseit",
+   "title": "Calorie Counter by Lose It!",
+   "developer": "FitNow, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/FSvMmSFbhs8vmtBzWt-px-dm_zthNTtOmPGQQ6bnCfPbTvnf1ostr0qFmDnx7NL8XL7cBrb4N659vIrBGJ4yPYk",
+   "url": "https://play.google.com/store/apps/details?id=com.fitnow.loseit&hl=en&gl=us",
+   "rating": 4.61,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 121,
+   "opportunityScore": 37,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 49,
+     "share": 40,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Not actually free, it gives you a 50 day free trial though. So if you want something completely free look elsewhere.",
+      "After purchase, the AI used for image process low cost.. nothing is recognized properly.. money wasted."
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 13,
+     "share": 11,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "very unorganized. it *works, but a lot of the times it's incorrect when I type foods in or cannot find the food by scanning. I wish it had a calendar instead of a constant thread running. ads are annoying as well, like all apps",
+      "Constantly hounding for more money. I paid for a year of premium and every other day I get a pop up telling me or a \"special limited time sale\" to buy the lifetime sub for $60. This has been happening for months."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 12,
+     "share": 10,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "the only thing the update on October 7th squashed was the apps ability to sync my exercise info from the Health app! thanks for nothing. Google Health excercise information WAS syncing to Lose It BEFORE the update recently. Male it make sense!",
+      "I used to really like this app but they made customizing daily calories a premium feature. in addition you used to be able to view your macros. Took that away too. Just make it a flat fee. Not everything has to be a subscription."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 11,
+     "share": 9,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "google health: please tell me you're working on the syncing issue. it didn't sync at all today and took half a day to sync yesterday. I did disconnect and reconnect several times. it worked completely fine up until Saturday",
+      "when it works its great but randomly will stop syncing to health connect platform leaving me to double input data between this app and my other fitness app."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 11,
+     "share": 9,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "very unorganized. it *works, but a lot of the times it's incorrect when I type foods in or cannot find the food by scanning. I wish it had a calendar instead of a constant thread running. ads are annoying as well, like all apps",
+      "I spent a lot of time for setup and then when I started inserting my dishes, I realized how awful it's UI and how little dishes in its database"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "I wish it had a calendar instead of a constant thread running",
+    "I wish it had a tracker for fluids in general",
+    "would be great for people for need a certain intake amount",
+    "need a certain intake amount",
+    "need to make money, but its not okay to suddenly lock previously accessible features behind a paywall",
+    "needs to be revamped to do UPCs instead of attempting to populate the nutrition label amounts",
+    "need to make sure I'm getting enough protein and they lock something as basic as that behind a paywall",
+    "need to see these"
+   ],
+   "pitch": "A Health & Fitness app like Calorie Counter by Lose It!, but: generous free tier, fair one-time price instead of forced subscription; few or no ads (or a one-time \"remove ads\" purchase); keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.fatsecret.android",
+   "title": "Calorie Counter by fatsecret",
+   "developer": "fatsecret",
+   "icon": "https://play-lh.googleusercontent.com/dVbMRKkDJvcMVNr9SjMjoEW9fFF1PAQakQ4eASAWORWcH1AsTwHMefo0xOFFmiGfvFk40hpPCG7ezbO0uH03",
+   "url": "https://play.google.com/store/apps/details?id=com.fatsecret.android&hl=en&gl=us",
+   "rating": 4.51,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 55,
+   "opportunityScore": 37,
+   "painPoints": [
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 16,
+     "share": 29,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "HORRIBLEEEE SCANNER!!!! Otherwise perfect app, if it gets fixed I will update to 5 stars.",
+      "Can't reply to comments anymore, can't comment at all, I am using a VPN and it used to work wonders, what happened?"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 8,
+     "share": 15,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "you need to pay to just monitore your water intake",
+      "forces you to sign in then take their test. only a 24 hour trial then a monthly or yearly fee. far too expensive for a calories tracker. they have a community where you can post and people can like and comment."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 8,
+     "share": 15,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "App is great but new UI is dreadful",
+      "For me it was a 4/5 with the other logging interface that was revoked because others disliked it."
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 6,
+     "share": 11,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "Wrong calorie values, gained weight although eating a calorie deficit. YOU NEVER CONTACTED ME. BEEN WAITING FOR WEEKS NOW",
+      "Every single food item I tried logging via barcode scan was either not recognized or inaccurate compared to the nutritional facts on the packaging"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "Works well enough but it deleted my weekly log three times in quick succession. The last time it did it in the same day before I even made it to dinner. Pretty hard to track my calories when it just randomly wipes the whole week on me before I finish it."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to pay to just monitore your water intake",
+    "NEED to make saved meals better",
+    "need to have my calorie information"
+   ],
+   "pitch": "A Health & Fitness app like Calorie Counter by fatsecret, but: keep the features users loved in the old version; generous free tier, fair one-time price instead of forced subscription; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.cronometer.android.gold",
+   "title": "Cronometer: Calorie Counter",
+   "developer": "Cronometer Software Inc.",
+   "icon": "https://play-lh.googleusercontent.com/8bWVHZIajvfmDnnwm0K64_aGoUZ86sZVFftpssiPUtOOBYlM-YnCYFZuMyFUv5VqDInp5a8hqJ2Q0f88OtKAnA",
+   "url": "https://play.google.com/store/apps/details?id=com.cronometer.android.gold&hl=en&gl=us",
+   "rating": 4.54,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 98,
+   "opportunityScore": 36,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 42,
+     "share": 43,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "They'll wait until you've ticked the food you want to add and slap you with an ad. 1 star.",
+      "I have seen 6 full-screen ads for Gemini today and it's not even dinner time yet."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 19,
+     "share": 19,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "this app stole my money. supposedly you get 7 days free trial before they charge you. I saw that they charged me right away, so I canceled my subscription. they won't give my money back.",
+      "THE ONLY feature I wanted to use was the photo logging to calculate my protein intake and it's paid. none of the other features were useful at all. I do wonder why people are expected to pay for apps they can't even fully use or see the point in."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 17,
+     "share": 17,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "Used to be a 5 star app but the new look as of Nov '26 is almost unbearable. The functionality of the app is fantastic, it's just the new look that is very bad.",
+      "used to be a great app and have been using it for years but the full screen ads are out of control. it's now a very frustrating app to use."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 15,
+     "share": 15,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "has a lot of data and health info but it is difficult to navigate and some goals and calculations are not visible or easily changeable",
+      "What the heck is up with the new update? Why are you making me do an extra step to get to what I want to do? The original interface lets me access all the steps the new feature offers. The new one makes me take an extra step!!"
+     ]
+    },
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 9,
+     "share": 9,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "Incessant full screen/sound on ads are back",
+      "What have they done with this update? Why is voice log the first option when you add an entry now? Gross."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to be fixed, and I will give five stars",
+    "need to quickly check your macros, evaluate calories/carbs of a specific food, or add water intake",
+    "need to have ads to support development but what's implemented currently is excessive",
+    "I wish there was a way to add more detail to the food items ex soluble vs insoluble fiber",
+    "need to let it run out",
+    "need to see usa restaurant fried chicken before I see a plain chicken breast",
+    "needs more variety on food products",
+    "need to count calories in food"
+   ],
+   "pitch": "A Health & Fitness app like Cronometer: Calorie Counter, but: few or no ads (or a one-time \"remove ads\" purchase); generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.pookies.food.ai",
+   "title": "BitePal: AI Calorie Counter",
+   "developer": "RefaceLithuania",
+   "icon": "https://play-lh.googleusercontent.com/8YMifPWhQwLrHC55dyLO_wRRAaeImvpq5wNKwCs-me01hg8oi31syN_WZta0y023K1btEH6ytpXfObqkct0OSiY",
+   "url": "https://play.google.com/store/apps/details?id=com.pookies.food.ai&hl=en&gl=us",
+   "rating": 4.59,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 88,
+   "opportunityScore": 32,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 37,
+     "share": 42,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I paid for the subscription and it won't find my user account I tried contacting them and they just stopped responding. seems like it might be a scam",
+      "was a great app tracking my food. then the update locked the ability to see the fat, protein and carbs behind a pay wall. then the app became useless to me. I would give zero stars if I could."
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 15,
+     "share": 17,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "used to be good? something about the food logging haa changed and its constantly wrong now despite being so good in the past, and always auto changes my stuff to gluten-free, plant-based etc options for god knows what reason. i have checked all settings",
+      "terrible app. I just wanted $35.99 on this AI only app. it is sooo annoying to use. I honestly give up. it's cute but you can't add so many things. it's incorrect a lot."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 11,
+     "share": 13,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "was a great app tracking my food. then the update locked the ability to see the fat, protein and carbs behind a pay wall. then the app became useless to me. I would give zero stars if I could.",
+      "used to be good? something about the food logging haa changed and its constantly wrong now despite being so good in the past, and always auto changes my stuff to gluten-free, plant-based etc options for god knows what reason. i have checked all settings"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 10,
+     "share": 11,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "terrible app. I just wanted $35.99 on this AI only app. it is sooo annoying to use. I honestly give up. it's cute but you can't add so many things. it's incorrect a lot.",
+      "good app annoying you have to pay for it though"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 8,
+     "share": 9,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "I paid for the subscription and it won't find my user account I tried contacting them and they just stopped responding. seems like it might be a scam",
+      "was a great app tracking my food. then the update locked the ability to see the fat, protein and carbs behind a pay wall. then the app became useless to me. I would give zero stars if I could."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to remove these scammers from the Play Store",
+    "need to make money but this is a core feature in every single calorie tracker app, has been for over a decade",
+    "would be nice is if we could take different pictures of our meals and group them together as one",
+    "should have like a 30 day period where people can try the damn app before you make it so they can't do anything",
+    "should have done the trial instead of getting the year",
+    "I wish it could measure the calories per table spoon or piece, not grams , not alot of people have a food scale and also measure the coreect amount of calories",
+    "need to type manually"
+   ],
+   "pitch": "A Health & Fitness app like BitePal: AI Calorie Counter, but: generous free tier, fair one-time price instead of forced subscription; content checked by native speakers; keep the features users loved in the old version."
+  },
+  {
+   "appId": "io.foodvisor.foodvisor",
+   "title": "Foodvisor - AI Calorie Counter",
+   "developer": "Foodvisor",
+   "icon": "https://play-lh.googleusercontent.com/EF7kwLiABmSdczLWS6dI6v1rvBnSYpS_I6wyuPSvve4sPYZFiKVF_R-dF_a8vm4oFGPhOspFlEn_C1UEhobBiA",
+   "url": "https://play.google.com/store/apps/details?id=io.foodvisor.foodvisor&hl=en&gl=us",
+   "rating": 4.7,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 112,
+   "opportunityScore": 30,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 46,
+     "share": 41,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "every useful tool is behind a pay wall. There is a long ad after everything you log. The app asks a lot of unnecessary information from the user to sell the data collected. 2 starts because of how interactive they made the app.",
+      "The app is great until you try to cancel it. Even with auto renew disabled they still charged my account. When email about steps to get a refund you are sent in circles with no real answer."
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 14,
+     "share": 13,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "every useful tool is behind a pay wall. There is a long ad after everything you log. The app asks a lot of unnecessary information from the user to sell the data collected. 2 starts because of how interactive they made the app.",
+      "Awful. Pop up after pop up. Want to log in your food? Here are 20 questions you need to answer first. Back after break? Here are another 10 questions."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 13,
+     "share": 12,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "good general tracker but I wish there was explanations as to why it rates meals good, ok, and careful. there is very little in the way of popular restaurants meal items. building a recipe is too complicated.",
+      "can we get rid of the quest thing? it's totally unnecessary and simply clutter on the UI."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 11,
+     "share": 10,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "The app is great until you try to cancel it. Even with auto renew disabled they still charged my account. When email about steps to get a refund you are sent in circles with no real answer.",
+      "You spend ages signing up, only to find that you can't actually use it unless you pay. I don't mind paying for an App, but that should be stated at the start. Don't waste people's time."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 7,
+     "share": 6,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "I wanted a refund immediately after purchasing and they would not give. The app and customer service sucks!!",
+      "After 5 minutes of answering questions (Does your family support you?) I gave up on this app. I just wanted to track my food."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "Please add a setting to turn off the plant game, treasure chests, and reward pop-ups",
+    "I wish there was explanations as to why it rates meals good, ok, and careful",
+    "Would be great if tablespoon and other measurements were added",
+    "add an option to skip all of that WHICH IS EASY TO SEE",
+    "Please add an option to skip or turn off animations",
+    "add an option to skip or turn off animations",
+    "I wish that you could favorite recipes",
+    "need to answer first"
+   ],
+   "pitch": "A Health & Fitness app like Foodvisor - AI Calorie Counter, but: generous free tier, fair one-time price instead of forced subscription; few or no ads (or a one-time \"remove ads\" purchase); clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.fourtechnologies.mynetdiary.ad",
+   "title": "Calorie Counter - MyNetDiary",
+   "developer": "MyNetDiary Inc",
+   "icon": "https://play-lh.googleusercontent.com/funA0HK3k5k1TLUsY71bMP8PeRwxaACfu-wR4iPDHSXa53lGwWKUjmnU027WjkXIlANA6wy19Irau646JPhJ",
+   "url": "https://play.google.com/store/apps/details?id=com.fourtechnologies.mynetdiary.ad&hl=en&gl=us",
+   "rating": 4.68,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 58,
+   "opportunityScore": 24,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 20,
+     "share": 34,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Not actually free, it gives you a 50 day free trial though. So if you want something completely free look elsewhere.",
+      "Pain to set up and constantly stops me to sell premium. I haven't even used it once because it constantly stops me at every step trying to sign me up for premium."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 8,
+     "share": 14,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "tons of annoying questions i just want to track my food and calories uninstalled",
+      "lots of annoying ads, on the fence, dont trust the resource to be long term useful...."
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 7,
+     "share": 12,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "Micronutrients are frequently incorrect. macro nutrients are occasionally incorrect. Just tried to copy and paste a recipe and the only ingredient it could find was the white rice.",
+      "calorie maintenance calculations are waaaay off. throws everything outta wack. very inaccurate."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 6,
+     "share": 10,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "The iPhone version is much better than the Android version. I constantly have to correct the date of my entries. I still appreciate the AI assistance for tracking my macros.",
+      "This app will try to scam you. during set up it will try multiple times to trick you into signing up for premium even after you've declined it. also the calories and nutritional info is wildly wrong for half the items I've looked up."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 5,
+     "share": 9,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "Updating a recipe and then saving it and apply the changes to your past meal results in the app marking all those recipes as (deleted) screwing your entire meal history. Do not use this app.",
+      "Lost exercise tracking feature? Otherwise five stars"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to opt into the premium version",
+    "needs an easy way to look up how to do things with the app",
+    "I wish I could give a higher rating because this is one of the best calorie counters I've tried, but the Health Connect syncing is terribly inconsistent"
+   ],
+   "pitch": "A Health & Fitness app like Calorie Counter - MyNetDiary, but: generous free tier, fair one-time price instead of forced subscription; clean, simple interface that does one thing well; content checked by native speakers."
+  }
+ ]
+}

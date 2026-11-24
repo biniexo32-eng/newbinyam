@@ -23,6 +23,14 @@
   "SEARCH_AMHARIC_FIDEL": {
    "generatedAt": "2026-11-24T00:41:00.229Z",
    "apps": 15
+  },
+  "SEARCH_CALORIE_COUNTER": {
+   "generatedAt": "2026-11-24T00:46:10.361Z",
+   "apps": 10
+  },
+  "SEARCH_AI_FOOD_SCANNER_CALORIES": {
+   "generatedAt": "2026-11-24T00:46:44.744Z",
+   "apps": 10
   }
  }
 }
