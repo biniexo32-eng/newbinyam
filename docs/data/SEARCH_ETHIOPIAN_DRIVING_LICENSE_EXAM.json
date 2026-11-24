@@ -1,0 +1,474 @@
+{
+ "category": "SEARCH_ETHIOPIAN_DRIVING_LICENSE_EXAM",
+ "generatedAt": "2026-11-24T00:54:54.541Z",
+ "apps": [
+  {
+   "appId": "com.mobisoft.menge.DriversQuestion",
+   "title": "3M Ethiopian Drivers Exam",
+   "developer": "3M Software Solutions (Menge)",
+   "icon": "https://play-lh.googleusercontent.com/eLpdTaYBDL_5O36-xkAOjJm5LXpp5z0UvNQtA4h1LZMdDdpzAAHJ12DaQH5WemcFU7ZURR8Bucgc9ZdZtxYrHVI",
+   "url": "https://play.google.com/store/apps/details?id=com.mobisoft.menge.DriversQuestion&hl=en&gl=us",
+   "rating": 4,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 122,
+   "lowStarReviews": 8,
+   "opportunityScore": 34,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "too expensive for temporary thing."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "needs a 300 birr payment"
+   ],
+   "pitch": "A Education app like 3M Ethiopian Drivers Exam, but: generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline."
+  },
+  {
+   "appId": "com.dmvwrittentest.android",
+   "title": "Driver Written Test: 2026 Test",
+   "developer": "DMV Written Test",
+   "icon": "https://play-lh.googleusercontent.com/DsKJ7jXgwhbrYasS2ospYA3YYYXepcHSiQ0k9-RXy4KLchWXe_crPmihyshXYMbu8xwmPHyTciTQQk8HS36zHZA",
+   "url": "https://play.google.com/store/apps/details?id=com.dmvwrittentest.android&hl=en&gl=us",
+   "rating": 4.7,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 107,
+   "opportunityScore": 26,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 27,
+     "share": 25,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "way too many ads pop up it's quite ridiculous and annoying makes you not even really want to use it",
+      "It's a very useful app, but hate the ads connected to it."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 12,
+     "share": 11,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "I cannot actually use the app. When it opens, it asks me to select a state and when I click New York it glitches and asks again",
+      "something is wrong with this app why is not working today 😒"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 3,
+     "share": 3,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": []
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 2,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "way too many ads pop up it's quite ridiculous and annoying makes you not even really want to use it"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 2,
+     "share": 2,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "app wont open. Loading and timeout."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "would be better if we push the answer and then enter",
+    "would be great to be able to use this app but there is no test for New Hampshire"
+   ],
+   "pitch": "A Education app like Driver Written Test: 2026 Test, but: few or no ads (or a one-time \"remove ads\" purchase); rock-solid stability as the #1 selling point; reliable local storage + easy backup/export."
+  },
+  {
+   "appId": "dto.ee.dmv.genius",
+   "title": "DMV Permit Practice Test Genie",
+   "developer": "Elegant E-Learning",
+   "icon": "https://play-lh.googleusercontent.com/V927ti72d-DN04PHbs-fvNEMyrL3RsBl4J9-cm9bcXlqHcXzO4lkrup40G0gW9fERsinoH_wUPu_QzfZ0Vj6cBg",
+   "url": "https://play.google.com/store/apps/details?id=dto.ee.dmv.genius&hl=en&gl=us",
+   "rating": 4.65,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 60,
+   "opportunityScore": 23,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 36,
+     "share": 60,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "paid for premium lifetime subscription when it was still called DMV genie or driving tests dot org. now it can't find my subscription and no one will get back to me.",
+      "the app makes you feel you're not ready to be tested yet just in order to make you buy subscriptions"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "the app needs to be updated i passed the tests on the app but half the questions on the test at the dmv were completely different and not covered on the app",
+      "Great app.. UPDATE.. I paid for lifetime use of this app when the logo was red and now it has me starting all over like I never paid! NEED HELP ASAP!!!"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I try to log in, but I don't see any option of logging in even though I paid already"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Crashes....will not let you move past first page"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "needs to retake the tests don't spend your time energie and money use CDL Prep app",
+    "needs to be updated i passed the tests on the app but half the questions on the test at the dmv were completely different and not covered on the app",
+    "need to pay a 40$ subscription for basic knowledge you can read for free in a handbook",
+    "need to pay in order to have access to more than 5 tests",
+    "need to pay to learn for the written test dont use this app",
+    "need a monthly subscription for a test"
+   ],
+   "pitch": "A Auto & Vehicles app like DMV Permit Practice Test Genie, but: generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.ProDataDoctor.DrivingLicencePracticeTests",
+   "title": "Driving Licence Practice Tests",
+   "developer": "Pro Data Doctor Pvt. Ltd.",
+   "icon": "https://play-lh.googleusercontent.com/_Xkt8HNSXF18pC4cQ500s-4v0Fla-_Fds6TkzxksUfd3rQ5br9YvwBWwso1uGtNJ-8QyaGM6Bi5zD_scrMai",
+   "url": "https://play.google.com/store/apps/details?id=com.ProDataDoctor.DrivingLicencePracticeTests&hl=en&gl=us",
+   "rating": 4.61,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 20,
+   "opportunityScore": 20,
+   "painPoints": [],
+   "featureRequests": [
+    "Should have added more practice questions"
+   ],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.rallsoftwares.dmvpracticetest",
+   "title": "Driver's License Practice Test",
+   "developer": "Rall Softwares",
+   "icon": "https://play-lh.googleusercontent.com/0GCVQPWjLIlxD8eJ9r07_tBuyCNC2w9y_pLUUHdbvlAOnOxU7V2FE3PVgwx3m-mW9BJ30ysbkdCKCpesiXqJyw",
+   "url": "https://play.google.com/store/apps/details?id=com.rallsoftwares.dmvpracticetest&hl=en&gl=us",
+   "rating": 4.67,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 55,
+   "opportunityScore": 18,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 15,
+     "share": 27,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "the tests are helpful for studying but there are way too many annoying ads interrupting the test",
+      "Too many ads that cannot be dismissed unless affirmative click received. Ad cheating. otherwise usable given that others are even worse."
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 4,
+     "share": 7,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "app is inaccurate, half of the questions don't have the right selections of answers plus when you get 1 wrong it sometimes counts it as 2-3. I do not recommend this app If you are trying to practice for your permit test.",
+      "I had numerous answers correct and it red line around my answer as it wouldn't let me choose it telling me to pick an alternative answer which was incorrect and the one they redlined that I chose originally was actually the correct answer"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Keeps shutting down while I'm in the middle of testing. Tried uninstalling and reinstalling and it's still happening. Starting to get annoying and I'm ready to look for a new app.",
+      "the tests are helpful for studying but there are way too many annoying ads interrupting the test"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I just got charged for this app.today for 19.99.I never authorized this transaction. I thought it was free.never used the app after downloading it last month. I want my money back and I'm installing this app.also"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "too slow to many adds leaves screen too much"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Driver's License Practice Test, but: few or no ads (or a one-time \"remove ads\" purchase); content checked by native speakers; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.godutechnique.ethiopiandrivinglicense",
+   "title": "Ethiopian Driving License Exam",
+   "developer": "Anwar Kedir Godu",
+   "icon": "https://play-lh.googleusercontent.com/QESTlT8xDE-vJ8609XESuTJRdGe2VDg9smnqolnKHKo07rrvefc1ZHDqHZZlb1uN4UHTWpNB5505kdLXb1gD52c",
+   "url": "https://play.google.com/store/apps/details?id=com.godutechnique.ethiopiandrivinglicense&hl=en&gl=us",
+   "rating": 4.2,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 49,
+   "lowStarReviews": 8,
+   "opportunityScore": 16,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "I've never seen an app like this that doesn't work. Don't download it."
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Ethiopian Driving License Exam, but: rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.mobisoft.menge.book",
+   "title": "3M Ethiopian Drivers Book",
+   "developer": "3M Software Solutions (Menge)",
+   "icon": "https://play-lh.googleusercontent.com/mRCGmBLH6KfyWppW5XqtPjtA0MYJDhiUghN14-wKuGtMT21-wpHXyYQFpnuHPCBTNxzCbnfQIz1xYjWmz785",
+   "url": "https://play.google.com/store/apps/details?id=com.mobisoft.menge.book&hl=en&gl=us",
+   "rating": 4.75,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 153,
+   "lowStarReviews": 22,
+   "opportunityScore": 14,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 3,
+     "share": 14,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Very bad app that is not for educational it is for profit money. When I download it, it says it would work when you send code via SMS. It is not free.",
+      "You have to pay to use after few days."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 1,
+     "share": 5,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": []
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 1,
+     "share": 5,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like 3M Ethiopian Drivers Book, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; privacy-first: minimal permissions, no tracking, works offline."
+  },
+  {
+   "appId": "com.hhhdeveloper.trafficquizapp",
+   "title": "Driving Test: Road Signs Quiz",
+   "developer": "Deesu Training & Education Network (D.TEN)",
+   "icon": "https://play-lh.googleusercontent.com/Md9pY1gX0yrc5zXe2vfOYsvaG1t_GFQ72YDYYGoaKNZU_bF4Ueqm2Lv4CSlySOCSde1h7NrtFGKymvk0iOm2PA",
+   "url": "https://play.google.com/store/apps/details?id=com.hhhdeveloper.trafficquizapp&hl=en&gl=us",
+   "rating": null,
+   "installs": "5,000+",
+   "free": true,
+   "reviewsSampled": 12,
+   "lowStarReviews": 0,
+   "opportunityScore": 3,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.hari.drivinglicenseexamnepal_",
+   "title": "Driving License Exam Nepal",
+   "developer": "sometimesIcode",
+   "icon": "https://play-lh.googleusercontent.com/ri6UQHyNVqwRcjTZrOcWCHOVTSRgV8WH-VtijiuWPNlWYELqY8PxMYbNSbuMdH56W0T6atrfFdkJwvsfx1MC8g",
+   "url": "https://play.google.com/store/apps/details?id=com.hari.drivinglicenseexamnepal_&hl=en&gl=us",
+   "rating": null,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 7,
+   "lowStarReviews": 0,
+   "opportunityScore": 1,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.elixierpub.setu",
+   "title": "Driving License: Likhit Trial",
+   "developer": "Pradeep Sapkota",
+   "icon": "https://play-lh.googleusercontent.com/RhLPwm2Wdh2xhCUP3VW4zwURLRAMoT4xOR5aj1WEz-RgnHKpTzJ9cahNkC7wGji8BwN_z7e9LjZ3Lw5oQt9SOmY",
+   "url": "https://play.google.com/store/apps/details?id=com.elixierpub.setu&hl=en&gl=us",
+   "rating": null,
+   "installs": "500+",
+   "free": true,
+   "reviewsSampled": 7,
+   "lowStarReviews": 0,
+   "opportunityScore": 1,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.binaryabyssinia.ethiopian.driving.license.exam",
+   "title": "Ethiopian Driving License Exam",
+   "developer": "BinaryAbyssinia™",
+   "icon": "https://play-lh.googleusercontent.com/jJ_wy83n-Tocr-voqrKm6_EhWZLdaX3irn-pj8AYvh30MSnd_6DToK7pr7nKE24teaNvpb0iMmLx5NRvFdd32A",
+   "url": "https://play.google.com/store/apps/details?id=com.binaryabyssinia.ethiopian.driving.license.exam&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.ethio.drive",
+   "title": "Ethio Driving License Exam",
+   "developer": "Nayo Labs",
+   "icon": "https://play-lh.googleusercontent.com/x-AfkZNwhpXpGfuhKlWGAHlkMdqVEL7aXMavMrdaIp-g56KJ_0U9N9TM0QIz3R-MKj6Pd9FxsnvOn3e7AgO55C8",
+   "url": "https://play.google.com/store/apps/details?id=com.ethio.drive&hl=en&gl=us",
+   "rating": 5,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 6,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.pulsaddis.ethiodrivinglicense",
+   "title": "Ethio Driving License Exam",
+   "developer": "Plusaddis",
+   "icon": "https://play-lh.googleusercontent.com/ts5th2iCyAQtR3mW0SMjbMfA5a3H6m-PROeK3OPPdZU20L4lxQDhpt7x9kNrfhsHtVYD12eUH217AWX9KcLZ",
+   "url": "https://play.google.com/store/apps/details?id=com.pulsaddis.ethiodrivinglicense&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.ethio.drivers2027",
+   "title": "Ethiopian Drivers Traings",
+   "developer": "Wgz apps",
+   "icon": "https://play-lh.googleusercontent.com/seImWM0EA0q6QwgKGUP7aGRwlAlm22wHlEFxbamenwT1F4JeNyT1D8nCdPCt8uSWCRQfFu_f-g95vZ89SEb_lw",
+   "url": "https://play.google.com/store/apps/details?id=com.ethio.drivers2027&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.shuvankar.rtoexam",
+   "title": "Driving License Exam Practice",
+   "developer": "Shuvankar Sarkar",
+   "icon": "https://play-lh.googleusercontent.com/tBabJrgo678NyVy-nxzBPv3AziQnKjlxahcYGLHH4aoIt0KPoUOhojxNk9IqyMq8bwdfVuLvpA2S13qCUrUSzA",
+   "url": "https://play.google.com/store/apps/details?id=com.shuvankar.rtoexam&hl=en&gl=us",
+   "rating": null,
+   "installs": "5,000+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  }
+ ]
+}

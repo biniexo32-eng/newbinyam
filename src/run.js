@@ -52,7 +52,10 @@ const groups = [
     fetch: () => gplay.list({ category: gplay.category[cat], collection: gplay.collection.TOP_FREE, num: NUM_APPS, fullDetail: true, requestOptions }),
   })),
   ...searches.map((term) => ({
-    key: 'SEARCH_' + term.toUpperCase().replace(/[^A-Z0-9]+/g, '_'),
+    // Non-Latin searches (e.g. Amharic) get a short hex id so file names stay safe.
+    key: 'SEARCH_' + (/[a-z0-9]/i.test(term)
+      ? term.toUpperCase().replace(/[^A-Z0-9]+/g, '_')
+      : Buffer.from(term).toString('hex').slice(0, 16).toUpperCase()),
     label: `search "${term}"`,
     fetch: () => gplay.search({ term, num: NUM_APPS, fullDetail: true, requestOptions }),
   })),

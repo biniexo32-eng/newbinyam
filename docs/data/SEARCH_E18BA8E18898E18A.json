@@ -1,0 +1,358 @@
+{
+ "category": "SEARCH_E18BA8E18898E18A",
+ "generatedAt": "2026-11-24T00:55:16.018Z",
+ "apps": [
+  {
+   "appId": "ethiomapps.com.menjaamharic",
+   "title": "Ethiopian Drivers Training",
+   "developer": "Kalid Studios",
+   "icon": "https://play-lh.googleusercontent.com/RbEOiFvIu2kfluq1THRYp2sz3qAj0hH3S_kyUBtB1eWleA5mosIyvoeXIKVIyFhKsgKBYwAza2T2mItyPvckbQ",
+   "url": "https://play.google.com/store/apps/details?id=ethiomapps.com.menjaamharic&hl=en&gl=us",
+   "rating": 3.17,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 45,
+   "lowStarReviews": 15,
+   "opportunityScore": 38,
+   "painPoints": [
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 2,
+     "share": 13,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "The signal request we know the instructions ourselves. It is good that we can change the next one. Apply the same. Without knowing the wrong word. Automatic changes automatically. That would be fine if it could be fixed. I personally think"
+     ]
+    },
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 1,
+     "share": 7,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Educational app like Ethiopian Drivers Training, but: content checked by native speakers; native-speaker audio for every letter, word and sentence."
+  },
+  {
+   "appId": "com.mobisoft.menge.DriversQuestion",
+   "title": "3M Ethiopian Drivers Exam",
+   "developer": "3M Software Solutions (Menge)",
+   "icon": "https://play-lh.googleusercontent.com/eLpdTaYBDL_5O36-xkAOjJm5LXpp5z0UvNQtA4h1LZMdDdpzAAHJ12DaQH5WemcFU7ZURR8Bucgc9ZdZtxYrHVI",
+   "url": "https://play.google.com/store/apps/details?id=com.mobisoft.menge.DriversQuestion&hl=en&gl=us",
+   "rating": 4,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 122,
+   "lowStarReviews": 8,
+   "opportunityScore": 34,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "too expensive for temporary thing."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "needs a 300 birr payment"
+   ],
+   "pitch": "A Education app like 3M Ethiopian Drivers Exam, but: generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline."
+  },
+  {
+   "appId": "com.biranaspace.menja_fikad",
+   "title": "መንጃ ፍቃድ መማሪያ Driving License",
+   "developer": "BiranaSpace Apps",
+   "icon": "https://play-lh.googleusercontent.com/-9NkT6apf2yc89zuOGQKeZumYdagYcsl__gnMRbFCU_ceGirV75HL-xlx_OkNcLK1MSx3FmY85aMv0EoniLuKQ",
+   "url": "https://play.google.com/store/apps/details?id=com.biranaspace.menja_fikad&hl=en&gl=us",
+   "rating": 3.88,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 35,
+   "lowStarReviews": 12,
+   "opportunityScore": 20,
+   "painPoints": [
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 1,
+     "share": 8,
+     "fix": "Content checked by native speakers",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like መንጃ ፍቃድ መማሪያ Driving License, but: content checked by native speakers."
+  },
+  {
+   "appId": "com.herma.apps.drivertraining",
+   "title": "የመንጃ ፈቃድ መማሪያ",
+   "developer": "Data S Trading PLC",
+   "icon": "https://play-lh.googleusercontent.com/h6pKb7iixa5jVgRpsWjs7OxbD88h8Rj9ZYm_254SN1IRAi_Ip5rZCEXPhKvdBM9AxVubb9_g-QeXP_vDJgyWOg",
+   "url": "https://play.google.com/store/apps/details?id=com.herma.apps.drivertraining&hl=en&gl=us",
+   "rating": 4.5,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 71,
+   "lowStarReviews": 11,
+   "opportunityScore": 16,
+   "painPoints": [
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 3,
+     "share": 27,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "You stole from Bunna Apps You can check it from Google. Anyone don't use this app because he or she stole from another company. I will report to Google. Anyways you don't know Amharic language. All users the answer also wrong don't use this ."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 9,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": []
+    },
+    {
+     "theme": "depth",
+     "label": "Too basic / not enough lessons",
+     "mentions": 1,
+     "share": 9,
+     "fix": "A full path from letters to real conversations",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Auto & Vehicles app like የመንጃ ፈቃድ መማሪያ, but: content checked by native speakers; rock-solid stability as the #1 selling point; a full path from letters to real conversations."
+  },
+  {
+   "appId": "com.godutechnique.ethiopiandrivinglicense",
+   "title": "Ethiopian Driving License Exam",
+   "developer": "Anwar Kedir Godu",
+   "icon": "https://play-lh.googleusercontent.com/QESTlT8xDE-vJ8609XESuTJRdGe2VDg9smnqolnKHKo07rrvefc1ZHDqHZZlb1uN4UHTWpNB5505kdLXb1gD52c",
+   "url": "https://play.google.com/store/apps/details?id=com.godutechnique.ethiopiandrivinglicense&hl=en&gl=us",
+   "rating": 4.2,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 49,
+   "lowStarReviews": 8,
+   "opportunityScore": 16,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "I've never seen an app like this that doesn't work. Don't download it."
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Ethiopian Driving License Exam, but: rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.bunnaapps.drivinglicenesstest",
+   "title": "Driving License Exam - Amharic",
+   "developer": "Bunna Apps",
+   "icon": "https://play-lh.googleusercontent.com/mHus5xnte19Ct2tTDHnXCKGuTDSBvkI5CYb18Twl-t_ndrdpegFjI62PqyG2RLZpK9r7O3jfQI4yWC2S_WQ-",
+   "url": "https://play.google.com/store/apps/details?id=com.bunnaapps.drivinglicenesstest&hl=en&gl=us",
+   "rating": 4.8,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 59,
+   "lowStarReviews": 35,
+   "opportunityScore": 13,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 3,
+     "share": 9,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "This a terrible app. It has got bugs and doesn't work at all. Useless and disappointing.",
+      "i installed this app , but it doesnt work at all after i tap install then open"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 6,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "To low user interface with limit number of future I don't recommend it for any don't try it",
+      "I have a bugs and it doesn't open up..so terribly annoying"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "it should have been out of 50"
+   ],
+   "pitch": "A Education app like Driving License Exam - Amharic, but: rock-solid stability as the #1 selling point; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.naridedrivingschool.naride",
+   "title": "N.A Ride የመንጃ ፈቃድ መማሪያ",
+   "developer": "N.A Ride",
+   "icon": "https://play-lh.googleusercontent.com/Cjw7LtPrSjOUDH_lwqh3jL2W8zoDy4fF95BL2YjdT5VVVTgwoeFX3Skk3a7GCwJtBI_Y-5Ypw9Pb0ks0eVPSDQ",
+   "url": "https://play.google.com/store/apps/details?id=com.naridedrivingschool.naride&hl=en&gl=us",
+   "rating": null,
+   "installs": "10,000+",
+   "free": true,
+   "reviewsSampled": 28,
+   "lowStarReviews": 0,
+   "opportunityScore": 7,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.dl.ethiopia",
+   "title": "የመንጃ ፍቃድ ፈተና | DL test",
+   "developer": "Ethiomega",
+   "icon": "https://play-lh.googleusercontent.com/IMgFfzkhCxda72jzA2MEmRshPY54MikhcHm0VXZdtPlMogf7de1jHSSB_EGtudUTfGm8yFPdGxqs8K-vT5XV-Cs",
+   "url": "https://play.google.com/store/apps/details?id=com.dl.ethiopia&hl=en&gl=us",
+   "rating": null,
+   "installs": "10,000+",
+   "free": true,
+   "reviewsSampled": 14,
+   "lowStarReviews": 1,
+   "opportunityScore": 4,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.ethiodrivingexam.app",
+   "title": "Ethio Driving Exam-መንጃ ፈቃድ ፈተና",
+   "developer": "Tuaf Tech",
+   "icon": "https://play-lh.googleusercontent.com/katloAqQfRGdeANTab_koFMKm4KIcWvsXUnyEzOYIXWmhmP09dIpsgcBUv0RYrFscaGyp2ow-DgG7IGZVy01PA",
+   "url": "https://play.google.com/store/apps/details?id=com.ethiodrivingexam.app&hl=en&gl=us",
+   "rating": null,
+   "installs": "5,000+",
+   "free": true,
+   "reviewsSampled": 1,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.abenu.Mobile_latest",
+   "title": "SP የመንጃ ፈቃድ ፈተና",
+   "developer": "Specific Ethiopia Technologies",
+   "icon": "https://play-lh.googleusercontent.com/ENdP7mmIOoe91BSajojojiRJx6Xctiq4SvRRjSLhxvWRWYgerH9rDMhW6_3gy3hHr6SFm10m6qp7vMpEjAtutQ",
+   "url": "https://play.google.com/store/apps/details?id=com.abenu.Mobile_latest&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 4,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.ethio.drive",
+   "title": "Ethio Driving License Exam",
+   "developer": "Nayo Labs",
+   "icon": "https://play-lh.googleusercontent.com/x-AfkZNwhpXpGfuhKlWGAHlkMdqVEL7aXMavMrdaIp-g56KJ_0U9N9TM0QIz3R-MKj6Pd9FxsnvOn3e7AgO55C8",
+   "url": "https://play.google.com/store/apps/details?id=com.ethio.drive&hl=en&gl=us",
+   "rating": 5,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 6,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.amir.menjafikadtest",
+   "title": "መንጃ ፍቃድ ፈተናዎች  - Ethiopian 3M",
+   "developer": "AMIR SIRAJ ALI",
+   "icon": "https://play-lh.googleusercontent.com/8FwPeyHvDzPSAtRSvNJUoqiQCDTrQWMDr0-sH89tJTq83CVf1Ow4DbhAScmTGcq7r-kTHbUIAq90_B7uQBHVz40",
+   "url": "https://play.google.com/store/apps/details?id=com.amir.menjafikadtest&hl=en&gl=us",
+   "rating": null,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 2,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.mobisoftmenge.drivingbook",
+   "title": "3M Driver's Manual In English",
+   "developer": "3M Software Solutions (Menge)",
+   "icon": "https://play-lh.googleusercontent.com/AQiwuf-UV42GQqQuknxYCZnjhlqTmg6mTj1HdG9kCnlue5ejEsSPDJwR4xhIBd-sC_fqb8jo9IN8e3yiisrHIzE",
+   "url": "https://play.google.com/store/apps/details?id=com.mobisoftmenge.drivingbook&hl=en&gl=us",
+   "rating": null,
+   "installs": "500+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.binaryabyssinia.ethiopian.driving.license.exam",
+   "title": "Ethiopian Driving License Exam",
+   "developer": "BinaryAbyssinia™",
+   "icon": "https://play-lh.googleusercontent.com/jJ_wy83n-Tocr-voqrKm6_EhWZLdaX3irn-pj8AYvh30MSnd_6DToK7pr7nKE24teaNvpb0iMmLx5NRvFdd32A",
+   "url": "https://play.google.com/store/apps/details?id=com.binaryabyssinia.ethiopian.driving.license.exam&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.pulsaddis.ethiodrivinglicense",
+   "title": "Ethio Driving License Exam",
+   "developer": "Plusaddis",
+   "icon": "https://play-lh.googleusercontent.com/ts5th2iCyAQtR3mW0SMjbMfA5a3H6m-PROeK3OPPdZU20L4lxQDhpt7x9kNrfhsHtVYD12eUH217AWX9KcLZ",
+   "url": "https://play.google.com/store/apps/details?id=com.pulsaddis.ethiodrivinglicense&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  }
+ ]
+}
