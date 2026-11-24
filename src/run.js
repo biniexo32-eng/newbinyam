@@ -1,5 +1,7 @@
-// Usage: node src/run.js [CATEGORY ...] [--apps 20] [--reviews 300]
-// Example: node src/run.js PRODUCTIVITY HEALTH_AND_FITNESS --apps 15
+// Usage: node src/run.js [CATEGORY ...] [--search "words"] [--apps 20] [--reviews 300]
+// Examples:
+//   node src/run.js PRODUCTIVITY HEALTH_AND_FITNESS --apps 15
+//   node src/run.js --search "learn amharic" --apps 15
 import fs from 'node:fs';
 import { gplay, requestOptions, sleep } from './play.js';
 import { analyzeApp } from './analyze.js';
@@ -11,7 +13,9 @@ const opt = (name, def) => {
 };
 const NUM_APPS = opt('--apps', 20);
 const NUM_REVIEWS = opt('--reviews', 300);
-const categories = args.length ? args : ['PRODUCTIVITY'];
+const searches = [];
+for (let i; (i = args.indexOf('--search')) >= 0; ) searches.push(args.splice(i, 2)[1]);
+const categories = args.length || searches.length ? args : ['PRODUCTIVITY'];
 
 for (const cat of categories) {
   if (!gplay.category[cat]) {
@@ -40,11 +44,23 @@ async function fetchLowStarReviews(appId) {
 
 const index = fs.existsSync('docs/data/index.json') ? JSON.parse(fs.readFileSync('docs/data/index.json', 'utf8')) : { categories: {} };
 
-for (const cat of categories) {
-  console.log(`\n== ${cat}: fetching top ${NUM_APPS} free apps`);
-  const list = await gplay.list({
-    category: gplay.category[cat], collection: gplay.collection.TOP_FREE, num: NUM_APPS, fullDetail: true, requestOptions,
-  });
+// Each "group" is either a Play category (top free chart) or a search phrase.
+const groups = [
+  ...categories.map((cat) => ({
+    key: cat,
+    label: `top ${NUM_APPS} free apps`,
+    fetch: () => gplay.list({ category: gplay.category[cat], collection: gplay.collection.TOP_FREE, num: NUM_APPS, fullDetail: true, requestOptions }),
+  })),
+  ...searches.map((term) => ({
+    key: 'SEARCH_' + term.toUpperCase().replace(/[^A-Z0-9]+/g, '_'),
+    label: `search "${term}"`,
+    fetch: () => gplay.search({ term, num: NUM_APPS, fullDetail: true, requestOptions }),
+  })),
+];
+
+for (const { key: cat, label, fetch } of groups) {
+  console.log(`\n== ${cat}: ${label}`);
+  const list = await fetch();
 
   const reports = [];
   for (const app of list) {

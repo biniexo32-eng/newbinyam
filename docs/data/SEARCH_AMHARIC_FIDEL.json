@@ -1,0 +1,384 @@
+{
+ "category": "SEARCH_AMHARIC_FIDEL",
+ "generatedAt": "2026-11-24T00:41:00.229Z",
+ "apps": [
+  {
+   "appId": "com.banuchanderjj.tracer.amharic",
+   "title": "Learn Amharic Letter Writing",
+   "developer": "AppChant",
+   "icon": "https://play-lh.googleusercontent.com/A3-8VPtGun3jGq2PiG-r739KyUNefibIrEhiuQBESwE4a0si2dfG-5C6m8YGJ3YRv0oW0wfKfrTlmMitiazeEHs",
+   "url": "https://play.google.com/store/apps/details?id=com.banuchanderjj.tracer.amharic&hl=en&gl=us",
+   "rating": 3.91,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 46,
+   "lowStarReviews": 13,
+   "opportunityScore": 23,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 2,
+     "share": 15,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "it was so good but it doesn't work at all now pls fix 🙏"
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 1,
+     "share": 8,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "This app is inaccurate everything is \"and\" that is not correct. I have Uninstaller the app and (lol) download it again to recieve the same result."
+     ]
+    },
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 1,
+     "share": 8,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Educational app like Learn Amharic Letter Writing, but: rock-solid stability as the #1 selling point; content checked by native speakers; native-speaker audio for every letter, word and sentence."
+  },
+  {
+   "appId": "amharic.keyboard.english.typing",
+   "title": "Amharic Keyboard Write",
+   "developer": "o16i Apps",
+   "icon": "https://play-lh.googleusercontent.com/y7jSY2c3raYWv-JhdUD9rJ_Dy7xfLUQNPuV5TOHtF6zWpzSnECZ6swTiaOehJyCuOC1CCYZxY6U56dyWL7R5TQ",
+   "url": "https://play.google.com/store/apps/details?id=amharic.keyboard.english.typing&hl=en&gl=us",
+   "rating": 4.69,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 53,
+   "opportunityScore": 21,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": []
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Productivity app like Amharic Keyboard Write, but: few or no ads (or a one-time \"remove ads\" purchase); clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "learn.amharic.alphabet.keys.feedel",
+   "title": "Amharic Alphabet, Fidäl / ፊደል",
+   "developer": "Holy Quran Apps",
+   "icon": "https://play-lh.googleusercontent.com/HKQABd0Eydgl-idcHgZYu_jh9zXAWssEeY04YEKgnpXUU64QuY4ZERqXJS-o875AS-3A4AMFFmunOphyP02oSA",
+   "url": "https://play.google.com/store/apps/details?id=learn.amharic.alphabet.keys.feedel&hl=en&gl=us",
+   "rating": 4.31,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 59,
+   "lowStarReviews": 14,
+   "opportunityScore": 19,
+   "painPoints": [
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 4,
+     "share": 29,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "It I has sound when I touch it, but not better to add spell the letters when touched.",
+      "Sometimes we don't hear each other."
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 1,
+     "share": 7,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "Not exactly what I thought. Doesn't need the amount of ads that it has. although the issues, it is still very useful"
+     ]
+    },
+    {
+     "theme": "depth",
+     "label": "Too basic / not enough lessons",
+     "mentions": 1,
+     "share": 7,
+     "fix": "A full path from letters to real conversations",
+     "quotes": [
+      "this app is not suitable for beginners"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 7,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Difficult to navigate and no sound"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Amharic Alphabet, Fidäl / ፊደል, but: native-speaker audio for every letter, word and sentence; few or no ads (or a one-time \"remove ads\" purchase); a full path from letters to real conversations."
+  },
+  {
+   "appId": "com.selamsoft.fidel",
+   "title": "Amharic Fidel (ፊደል)",
+   "developer": "SelamSoft",
+   "icon": "https://play-lh.googleusercontent.com/7hV3linXpfKOrnSSXsKL9cS1akpTyN3pt26JyLafNlyJoqdvmDyWAIlrAw6Jh5sNcKyuEGeLtvKnsMgsXAZ2GFw",
+   "url": "https://play.google.com/store/apps/details?id=com.selamsoft.fidel&hl=en&gl=us",
+   "rating": 3.88,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 36,
+   "lowStarReviews": 7,
+   "opportunityScore": 17,
+   "painPoints": [
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 1,
+     "share": 14,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "It was good when the audio worked. What happened to the sound? 🤔"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 1,
+     "share": 14,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Amharic Fidel (ፊደል), but: native-speaker audio for every letter, word and sentence; few or no ads (or a one-time \"remove ads\" purchase)."
+  },
+  {
+   "appId": "com.biranaspace.kidsapp",
+   "title": "Amharic Alphabet Jemari",
+   "developer": "BiranaSpace Apps",
+   "icon": "https://play-lh.googleusercontent.com/mJw0ysBbYbiRa0KckjIwFYC9fSWbhE5aeQqWZtMR5GlOG-Nd4RPkEoMxtpwI1g_uWiUuMRhSaT76VgP9PE9X",
+   "url": "https://play.google.com/store/apps/details?id=com.biranaspace.kidsapp&hl=en&gl=us",
+   "rating": null,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 8,
+   "lowStarReviews": 2,
+   "opportunityScore": 4,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.fidelgebeta.fidelhahu",
+   "title": "Fidel HaHu | ፊደል ሀሁ",
+   "developer": "Esubalew Kifle Beyene",
+   "icon": "https://play-lh.googleusercontent.com/4__HPXZlPj260z59Bo_eIkw66QI-5vpJm9uqy1JD9BtSgVm776pVsjqoOW_TN2KW1UJygJoL4cLDNnUTXZmGLsg",
+   "url": "https://play.google.com/store/apps/details?id=com.fidelgebeta.fidelhahu&hl=en&gl=us",
+   "rating": null,
+   "installs": "10,000+",
+   "free": true,
+   "reviewsSampled": 12,
+   "lowStarReviews": 0,
+   "opportunityScore": 3,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.selamsoft.fidel2",
+   "title": "Amharic Fidel Tracing - ሰላምሶፍት",
+   "developer": "SelamSoft",
+   "icon": "https://play-lh.googleusercontent.com/gjGa-3LvinlLZ42aQ0XWU10huMks2B3C3RgAG7xxYRHJoHYx3AkGOz-faAGP_ApPCrS93Eo0PSjrJ5e4j6ZBYT4",
+   "url": "https://play.google.com/store/apps/details?id=com.selamsoft.fidel2&hl=en&gl=us",
+   "rating": 4.75,
+   "installs": "10,000+",
+   "free": true,
+   "reviewsSampled": 29,
+   "lowStarReviews": 3,
+   "opportunityScore": 3,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 33,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "The audio was not working so i was tracing but not really knowing what. The interface is very simplistic, i had a hard time to leave the application because my \"back\" button would no longer be active on the screen."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 33,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "The audio was not working so i was tracing but not really knowing what. The interface is very simplistic, i had a hard time to leave the application because my \"back\" button would no longer be active on the screen."
+     ]
+    },
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 1,
+     "share": 33,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "The audio was not working so i was tracing but not really knowing what. The interface is very simplistic, i had a hard time to leave the application because my \"back\" button would no longer be active on the screen."
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Amharic Fidel Tracing - ሰላምሶፍት, but: rock-solid stability as the #1 selling point; clean, simple interface that does one thing well; native-speaker audio for every letter, word and sentence."
+  },
+  {
+   "appId": "com.learn_amharic_fidel",
+   "title": "Amharic Fidel",
+   "developer": "إيثان هارتزل",
+   "icon": "https://play-lh.googleusercontent.com/3Osum7WtQ2P49Ph_zkr64_mF-cGLKh9iHZY9TwhZ2yqqAytswpcfMeXjRU1gEB6KyRb3DqckxeJj8YgoQJyjHQ",
+   "url": "https://play.google.com/store/apps/details?id=com.learn_amharic_fidel&hl=en&gl=us",
+   "rating": null,
+   "installs": "10,000+",
+   "free": true,
+   "reviewsSampled": 3,
+   "lowStarReviews": 0,
+   "opportunityScore": 1,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.noirtech.fidel",
+   "title": "FIDEL",
+   "developer": "NoirTech",
+   "icon": "https://play-lh.googleusercontent.com/CnA6mBnsU1mgPEvdNaq23Uy6bqa80M2dD6wTw-DqPvjFTPw8dPXqUOEPNJ5CcyQoJmU7XTqq4A039tw8hgsrRTU",
+   "url": "https://play.google.com/store/apps/details?id=com.noirtech.fidel&hl=en&gl=us",
+   "rating": null,
+   "installs": "10,000+",
+   "free": true,
+   "reviewsSampled": 6,
+   "lowStarReviews": 0,
+   "opportunityScore": 1,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.y4redmechanics.Fidel",
+   "title": "Learn Amharic Fidel Writing",
+   "developer": "Dima Creative",
+   "icon": "https://play-lh.googleusercontent.com/0vusvFjUsrGsHjvBL-5n1o5N54CgnDlT_HjVDzwrykolmTqqbxrQlEleyNw21UKwsenk2bIyPVcM-I8LpiDI",
+   "url": "https://play.google.com/store/apps/details?id=com.y4redmechanics.Fidel&hl=en&gl=us",
+   "rating": null,
+   "installs": "500+",
+   "free": true,
+   "reviewsSampled": 3,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.tedyapps.feeduhl",
+   "title": "FEE-DUHL Sounds: Amharic Fidel",
+   "developer": "TEDYAPPS",
+   "icon": "https://play-lh.googleusercontent.com/9Ile7KO9tBkUwRzKQ-ZaKNhifGhKlqMQyB266TNbhCN604VWJo8R_iO1e1gaebEjneT2c2OVUqYok27d7uKbHA",
+   "url": "https://play.google.com/store/apps/details?id=com.tedyapps.feeduhl&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 1,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.bilih.fidel",
+   "title": "Fidel Amharic Keyboard",
+   "developer": "Bilih Digital",
+   "icon": "https://play-lh.googleusercontent.com/1Uo5kDQKLsfso31U-0kDOANk7DsckTfOpnGTFPacR7LYtLUo9AHZbheDzoj7uvRtSMC4GA05v20uUzdj9qwpxeg",
+   "url": "https://play.google.com/store/apps/details?id=com.bilih.fidel&hl=en&gl=us",
+   "rating": null,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.geezapps.fidelboard",
+   "title": "Fidel Keyboard: Geez, Amharic",
+   "developer": "GeezApps",
+   "icon": "https://play-lh.googleusercontent.com/Vi2i-Hyc-plABzVMK25i2wCxq-TvaLGnOH0IHx6lYHJ79KghkMSoLjClo6Xr1PxxlFuI8ClU8MYH781BDc3F",
+   "url": "https://play.google.com/store/apps/details?id=com.geezapps.fidelboard&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.yotor.amharickeyboard",
+   "title": "Fidel ፊደል Amharic(ግእዝ keyboard",
+   "developer": "Yotor Apps",
+   "icon": "https://play-lh.googleusercontent.com/BsjAYCqCyRwmlWCZ--q68X-Rp88WnRJ3PyPWMkO_qM4EATH5j5bALkgvOTwJiEZkw3rNh7kcof5EewsPFP2yDnQ",
+   "url": "https://play.google.com/store/apps/details?id=com.yotor.amharickeyboard&hl=en&gl=us",
+   "rating": null,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 2,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.eyasuberhane.amharicwordconnect",
+   "title": "Amharic Word Game",
+   "developer": "Eyasu IT solution",
+   "icon": "https://play-lh.googleusercontent.com/0z5zmNy1d67j0McLelIye3DB8yItxjMWF7Wl6cp1eF17eEzKvEnId51LoNytk1svUk1uy4-Rz_DuWQWS1WJ1iw",
+   "url": "https://play.google.com/store/apps/details?id=com.eyasuberhane.amharicwordconnect&hl=en&gl=us",
+   "rating": null,
+   "installs": "50+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  }
+ ]
+}

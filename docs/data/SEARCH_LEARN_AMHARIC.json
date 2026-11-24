@@ -1,0 +1,514 @@
+{
+ "category": "SEARCH_LEARN_AMHARIC",
+ "generatedAt": "2026-11-24T00:40:38.762Z",
+ "apps": [
+  {
+   "appId": "anthai.com.amharic",
+   "title": "Speak Amharic - Learn Amharic",
+   "developer": "An Thai",
+   "icon": "https://play-lh.googleusercontent.com/-hgaDZleI02JVr5dUYJqh7QRc2MEpSkRJS1Av6vcWC7nS9Vf3r3Vgllf76tKsE-5jU8Myfh9Q3xThCn2S2AcY7w",
+   "url": "https://play.google.com/store/apps/details?id=anthai.com.amharic&hl=en&gl=us",
+   "rating": 3.95,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 102,
+   "lowStarReviews": 30,
+   "opportunityScore": 50,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 8,
+     "share": 27,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "The app is fun to use and simple however it has been crashing so frequently that it's becoming frustrating. It crashes within a few minutes of use. Please fix this issue.",
+      "Crashes consistently... Do not install... You're wasting your time..."
+     ]
+    },
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 5,
+     "share": 17,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "The English part makes u pronounce wrong. Baaaaaaad app",
+      "😢 No sound. I checked my device audio but, I set the sound on in this \napp's settings and there is NO AUDIO heard. 😞NO copying EITHER.. An Thai, \nWhat's💭😮 wrong?"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 4,
+     "share": 13,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I got a monthly subscription but the categories are still locked?",
+      "It was available to access all the categories, but now, it has become locked and needs a premium subscription."
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 4,
+     "share": 13,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "The English part makes u pronounce wrong. Baaaaaaad app",
+      "😢 No sound. I checked my device audio but, I set the sound on in this \napp's settings and there is NO AUDIO heard. 😞NO copying EITHER.. An Thai, \nWhat's💭😮 wrong?"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 2,
+     "share": 7,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "The app crashes, it never used to.. even after uninstall and reinstall, otherwise it would be 5 star!!"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs a premium subscription"
+   ],
+   "pitch": "A Education app like Speak Amharic - Learn Amharic, but: rock-solid stability as the #1 selling point; native-speaker audio for every letter, word and sentence; generous free tier, fair one-time price instead of forced subscription."
+  },
+  {
+   "appId": "com.learnAmharic.AmharicLanguage",
+   "title": "Learn Amharic phrases: Amharic",
+   "developer": "EthioLab",
+   "icon": "https://play-lh.googleusercontent.com/I7tQ2uHYeWO3M9RYTlIgVVBUPhuFyaAekwJpt-X660uDsh5uBRlBSRsGkOdiQI76rpeSVdsLsbqOXQcd3aMrS1o",
+   "url": "https://play.google.com/store/apps/details?id=com.learnAmharic.AmharicLanguage&hl=en&gl=us",
+   "rating": 4.13,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 164,
+   "lowStarReviews": 19,
+   "opportunityScore": 33,
+   "painPoints": [
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 9,
+     "share": 47,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "Please add an audio feature when I talk using my microphone it automatically translates as some people can't read Also please add Dark theme because if my phone is already in Dark mode I can't see the translated text as the letters color are also black",
+      "Good app with exceptions of few errors. Sound for Stopper and Rope have been interchanged."
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 2,
+     "share": 11,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "the only app so far to have sound on the translation in Amharic. i would encourage the creators to include more comprehensive words and sentences too.",
+      "This can be a great app if all sounds work consistently and they include phonetic sounds to amharic translation of words or phrases."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 5,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Good app with exceptions of few errors. Sound for Stopper and Rope have been interchanged."
+     ]
+    },
+    {
+     "theme": "depth",
+     "label": "Too basic / not enough lessons",
+     "mentions": 1,
+     "share": 5,
+     "fix": "A full path from letters to real conversations",
+     "quotes": [
+      "Audio stops after listening to few words. You must exit the application and restart it to be able to listen to few words again. Is this a feature?"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs Amharic letters",
+    "should add a search box"
+   ],
+   "pitch": "A Education app like Learn Amharic phrases: Amharic, but: native-speaker audio for every letter, word and sentence; content checked by native speakers; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.lomolsoft.language.learnamharic",
+   "title": "Learn Amharic | Amharic Transl",
+   "developer": "Lomol Tool Group",
+   "icon": "https://play-lh.googleusercontent.com/0Q6rdRsobZeRWHcg5h74tjoYed7wUIoe8jrvY2nIfjHSTeQOpZhve7jbbBn92WmS287HT6TWFF2ZaX9G_CgP",
+   "url": "https://play.google.com/store/apps/details?id=com.lomolsoft.language.learnamharic&hl=en&gl=us",
+   "rating": 4.47,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 107,
+   "lowStarReviews": 19,
+   "opportunityScore": 25,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 4,
+     "share": 21,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "Pop ups are too annoying. Can only be of little use.",
+      "useless for beginners. more ads than content"
+     ]
+    },
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 2,
+     "share": 11,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": []
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 2,
+     "share": 11,
+     "fix": "Content checked by native speakers",
+     "quotes": []
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 11,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Pop ups are too annoying. Can only be of little use."
+     ]
+    },
+    {
+     "theme": "depth",
+     "label": "Too basic / not enough lessons",
+     "mentions": 1,
+     "share": 5,
+     "fix": "A full path from letters to real conversations",
+     "quotes": [
+      "useless for beginners. more ads than content"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "Why doesn't it translate in both Letters and Amharic Symbols"
+   ],
+   "pitch": "A Education app like Learn Amharic | Amharic Transl, but: few or no ads (or a one-time \"remove ads\" purchase); native-speaker audio for every letter, word and sentence; content checked by native speakers."
+  },
+  {
+   "appId": "com.banuchanderjj.tracer.amharic",
+   "title": "Learn Amharic Letter Writing",
+   "developer": "AppChant",
+   "icon": "https://play-lh.googleusercontent.com/A3-8VPtGun3jGq2PiG-r739KyUNefibIrEhiuQBESwE4a0si2dfG-5C6m8YGJ3YRv0oW0wfKfrTlmMitiazeEHs",
+   "url": "https://play.google.com/store/apps/details?id=com.banuchanderjj.tracer.amharic&hl=en&gl=us",
+   "rating": 3.91,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 46,
+   "lowStarReviews": 13,
+   "opportunityScore": 23,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 2,
+     "share": 15,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "it was so good but it doesn't work at all now pls fix 🙏"
+     ]
+    },
+    {
+     "theme": "accuracy",
+     "label": "Wrong translations / mistakes",
+     "mentions": 1,
+     "share": 8,
+     "fix": "Content checked by native speakers",
+     "quotes": [
+      "This app is inaccurate everything is \"and\" that is not correct. I have Uninstaller the app and (lol) download it again to recieve the same result."
+     ]
+    },
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 1,
+     "share": 8,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Educational app like Learn Amharic Letter Writing, but: rock-solid stability as the #1 selling point; content checked by native speakers; native-speaker audio for every letter, word and sentence."
+  },
+  {
+   "appId": "com.haleta.am",
+   "title": "Haleta: Amharic Learning App",
+   "developer": "Read21",
+   "icon": "https://play-lh.googleusercontent.com/_WvOp8W6VEOoguKK0BETb8boaaqD3JEe0_cs_L0Lq4S7jqizySBGteYRPsNFKlvdutQLswPwPEfSaVcXTedG5Q",
+   "url": "https://play.google.com/store/apps/details?id=com.haleta.am&hl=en&gl=us",
+   "rating": 3.38,
+   "installs": "10,000+",
+   "free": true,
+   "reviewsSampled": 26,
+   "lowStarReviews": 8,
+   "opportunityScore": 15,
+   "painPoints": [
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "app was good however for the past couple months I've been unable to open the app and get past the loading screen which is disappointing"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": []
+    },
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": []
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 1,
+     "share": 13,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "In order to use this app, you will need to allow access to your microphone and give permission to the app to save recordings. Why? Please allow for better privacy settings"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to allow access to your microphone and give permission to the app to save recordings"
+   ],
+   "pitch": "A Education app like Haleta: Amharic Learning App, but: lightweight, fast app that works on cheap phones; clean, simple interface that does one thing well; native-speaker audio for every letter, word and sentence."
+  },
+  {
+   "appId": "io.ivoca.conversationamharic",
+   "title": "Amharic - Listening Speaking",
+   "developer": "ivoca.io",
+   "icon": "https://play-lh.googleusercontent.com/LV-d9MSABso4Y1wJKqplNWWzAK4bFBr9aQ9kFbdpFRi-Z-so2MsE8s3KBNG8EBYgqAZIobrDBppPkQtppezz",
+   "url": "https://play.google.com/store/apps/details?id=io.ivoca.conversationamharic&hl=en&gl=us",
+   "rating": null,
+   "installs": "5,000+",
+   "free": true,
+   "reviewsSampled": 5,
+   "lowStarReviews": 3,
+   "opportunityScore": 2,
+   "painPoints": [
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 2,
+     "share": 67,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "The app has no transliteration for the beginners to pronounce the Fidel text"
+     ]
+    },
+    {
+     "theme": "depth",
+     "label": "Too basic / not enough lessons",
+     "mentions": 1,
+     "share": 33,
+     "fix": "A full path from letters to real conversations",
+     "quotes": [
+      "The app has no transliteration for the beginners to pronounce the Fidel text"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "would be great to be able to practice speaking amharic while just starting to learn it but the AI can never hear or understand me"
+   ],
+   "pitch": "A Education app like Amharic - Listening Speaking, but: native-speaker audio for every letter, word and sentence; a full path from letters to real conversations."
+  },
+  {
+   "appId": "com.lingo.play.amharic",
+   "title": "Learn Amharic with LinGo Play",
+   "developer": "Lingo Play",
+   "icon": "https://play-lh.googleusercontent.com/xB-xOIh63rZtjA116Gk_OGQRkZq1LVs311fBx-t5sTPOsmBstsfN1O3uYOPenU2tmPpLU0oegsl__UWdE_qkww",
+   "url": "https://play.google.com/store/apps/details?id=com.lingo.play.amharic&hl=en&gl=us",
+   "rating": null,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 6,
+   "lowStarReviews": 3,
+   "opportunityScore": 2,
+   "painPoints": [
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 1,
+     "share": 33,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "This looks great but i want to hear the words as well. Please add vpice clips."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "Please add vpice clips"
+   ],
+   "pitch": "A Education app like Learn Amharic with LinGo Play, but: native-speaker audio for every letter, word and sentence."
+  },
+  {
+   "appId": "com.sentence.language_learn_am",
+   "title": "Learn Amharic",
+   "developer": "ZewApps",
+   "icon": "https://play-lh.googleusercontent.com/dMwuFnWHrieAwmtOGPXjGuQKeO_53ZqZXD4In4uZwH58_7TgKNMisawz1bI5ns4guRGQFn-WC8wv-bBC3eHgwA",
+   "url": "https://play.google.com/store/apps/details?id=com.sentence.language_learn_am&hl=en&gl=us",
+   "rating": null,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 1,
+   "lowStarReviews": 1,
+   "opportunityScore": 1,
+   "painPoints": [
+    {
+     "theme": "audio",
+     "label": "No audio / bad pronunciation",
+     "mentions": 1,
+     "share": 100,
+     "fix": "Native-speaker audio for every letter, word and sentence",
+     "quotes": [
+      "There is no audio, it says I have to download it separately"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Learn Amharic, but: native-speaker audio for every letter, word and sentence."
+  },
+  {
+   "appId": "com.weynilo.app",
+   "title": "Learn Tigrinya and Amharic",
+   "developer": "TEdev",
+   "icon": "https://play-lh.googleusercontent.com/PA13O7noYjPYFExrHMi8Vn7HtJIxsWpM8GPYtFrRPowlT2SHlFBk-YPaZrJzwBHljdOXZceP09FOcLNWpgI9Ngs",
+   "url": "https://play.google.com/store/apps/details?id=com.weynilo.app&hl=en&gl=us",
+   "rating": null,
+   "installs": "1,000+",
+   "free": true,
+   "reviewsSampled": 1,
+   "lowStarReviews": 1,
+   "opportunityScore": 1,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.learnamharic.qal",
+   "title": "Learn Amharic: Speak Amharic",
+   "developer": "Yunna_Labs",
+   "icon": "https://play-lh.googleusercontent.com/efaPo4gOh9bAn0qetRQRZ3duejqPUW-12Hnv3fC3K5G4URraIi-3fDY87EkNq2Nkg5r7S7yT7uRR9cuesS-W284",
+   "url": "https://play.google.com/store/apps/details?id=com.learnamharic.qal&hl=en&gl=us",
+   "rating": null,
+   "installs": "500+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.amharicacademy.app",
+   "title": "Amharic Academy",
+   "developer": "Amharic Academy",
+   "icon": "https://play-lh.googleusercontent.com/KBuXvKUjXVe5UjmdByNHGQyDq-JtvZGoMjUe8sQKF-7W-Ywmpn_atn11_-GlL95JNhKCOo5yxBa9vJxDdVp5kw",
+   "url": "https://play.google.com/store/apps/details?id=com.amharicacademy.app&hl=en&gl=us",
+   "rating": 5,
+   "installs": "500+",
+   "free": true,
+   "reviewsSampled": 18,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.japhethhirpa.kubayaapp",
+   "title": "Kubaya - Learn Amharic",
+   "developer": "Dr Dev",
+   "icon": "https://play-lh.googleusercontent.com/Cx7_sBFtaZhoxbMlDUpXdrwodv4nUgoPjKMiC3doz3y_XCC0OyAyGpc7YO8UYdJmm0PeLH8_r0vhb5_UcjPXCBs",
+   "url": "https://play.google.com/store/apps/details?id=com.japhethhirpa.kubayaapp&hl=en&gl=us",
+   "rating": null,
+   "installs": "50+",
+   "free": true,
+   "reviewsSampled": 2,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.tewachew.learnamharicfidel",
+   "title": "Learn Amharic ፊደል",
+   "developer": "Smart Name List",
+   "icon": "https://play-lh.googleusercontent.com/uEeNtHLhTxLTbHnZw-DPjidYtqm6xMSMHyCOxEdUkURyiVbLbnG3sin9n9T_vjXYPns1AnMx82VE4x-vCNsJPw",
+   "url": "https://play.google.com/store/apps/details?id=com.tewachew.learnamharicfidel&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 0,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.heydobo.app",
+   "title": "Dobo: Learn Amharic",
+   "developer": "Dobo Studios",
+   "icon": "https://play-lh.googleusercontent.com/lExI2NXhrwkHot9D_0UhX0PaBxmzoCqDOyLfBfaDAgmeCQP4iPM8BuQ9-0Nm6Fp08vGxDooUTKmIR3wmAB8o",
+   "url": "https://play.google.com/store/apps/details?id=com.heydobo.app&hl=en&gl=us",
+   "rating": null,
+   "installs": "100+",
+   "free": true,
+   "reviewsSampled": 3,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  },
+  {
+   "appId": "com.y4redmechanics.Fidel",
+   "title": "Learn Amharic Fidel Writing",
+   "developer": "Dima Creative",
+   "icon": "https://play-lh.googleusercontent.com/0vusvFjUsrGsHjvBL-5n1o5N54CgnDlT_HjVDzwrykolmTqqbxrQlEleyNw21UKwsenk2bIyPVcM-I8LpiDI",
+   "url": "https://play.google.com/store/apps/details?id=com.y4redmechanics.Fidel&hl=en&gl=us",
+   "rating": null,
+   "installs": "500+",
+   "free": true,
+   "reviewsSampled": 3,
+   "lowStarReviews": 0,
+   "opportunityScore": 0,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  }
+ ]
+}

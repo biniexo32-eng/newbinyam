@@ -61,6 +61,22 @@ export const THEMES = {
     fix: 'Full offline mode',
     words: ['offline', 'internet', 'wifi', 'connection', 'network'],
   },
+  // Themes that matter most for learning / education apps
+  audio: {
+    label: 'No audio / bad pronunciation',
+    fix: 'Native-speaker audio for every letter, word and sentence',
+    words: ['audio', 'pronunciation', 'pronounce', 'sound', 'voice', 'speaker', 'hear', 'listen'],
+  },
+  accuracy: {
+    label: 'Wrong translations / mistakes',
+    fix: 'Content checked by native speakers',
+    words: ['wrong', 'incorrect', 'mistake', 'not accurate', 'inaccurate', 'translation', 'misspel', 'typo'],
+  },
+  depth: {
+    label: 'Too basic / not enough lessons',
+    fix: 'A full path from letters to real conversations',
+    words: ['too basic', 'only basic', 'not enough', 'more lessons', 'more words', 'limited', 'few words', 'beginner', 'repetitive'],
+  },
 };
 
 // Phrases that usually introduce a feature request.
