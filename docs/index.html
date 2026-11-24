@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>App Gap Finder</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #ffffff; --text: #1b1f24; --muted: #5f6b7a; --line: #e3e7ec;
+    --accent: #2f6fdf; --accent-soft: #e8f0fd; --bar: #2f6fdf; --hot: #d24b3c; --hot-soft: #fdecea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12151a; --card: #1b2027; --text: #e7ebf0; --muted: #98a3b1; --line: #2c333d;
+      --accent: #7aa7ff; --accent-soft: #1f2b40; --bar: #7aa7ff; --hot: #ff8a7a; --hot-soft: #3a2220;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 24px 16px 64px; }
+  header h1 { margin: 0 0 4px; font-size: 26px; }
+  header p { margin: 0; color: var(--muted); }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 8px; align-items: center; }
+  .tab { border: 1px solid var(--line); background: var(--card); color: var(--text); padding: 6px 12px; border-radius: 999px; cursor: pointer; font: inherit; }
+  .tab[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  input[type=search] { flex: 1; min-width: 180px; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); font: inherit; }
+  .meta { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
+  .app { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin-bottom: 12px; }
+  .top { display: flex; gap: 12px; align-items: center; cursor: pointer; }
+  .top img { width: 48px; height: 48px; border-radius: 10px; flex: none; }
+  .name { flex: 1; min-width: 0; }
+  .name b { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .name span { color: var(--muted); font-size: 13px; }
+  .score { text-align: center; flex: none; }
+  .score b { display: block; font-size: 22px; color: var(--hot); line-height: 1; }
+  .score span { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  .pitch { margin: 12px 0 0; padding: 10px 12px; background: var(--accent-soft); border-radius: 8px; }
+  .details { display: none; margin-top: 12px; }
+  .app.open .details { display: block; }
+  .pp { margin: 10px 0; }
+  .pp-head { display: flex; justify-content: space-between; gap: 8px; font-weight: 600; }
+  .pp-head span { color: var(--muted); font-weight: 400; font-size: 13px; white-space: nowrap; }
+  .bar { height: 6px; background: var(--line); border-radius: 3px; margin: 4px 0; }
+  .bar i { display: block; height: 100%; background: var(--bar); border-radius: 3px; }
+  .fix { font-size: 13px; color: var(--muted); }
+  .fix b { color: var(--text); }
+  blockquote { margin: 6px 0 0; padding: 6px 10px; border-left: 3px solid var(--line); color: var(--muted); font-size: 13px; }
+  h4 { margin: 16px 0 6px; font-size: 14px; }
+  ul.wish { margin: 0; padding-left: 18px; color: var(--muted); font-size: 13px; }
+  a { color: var(--accent); }
+  .empty { color: var(--muted); padding: 40px 0; text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>App Gap Finder</h1>
+    <p>Top Google Play apps, what their unhappy users complain about, and how a better version could win.</p>
+  </header>
+  <div class="controls" id="tabs"></div>
+  <div class="controls"><input type="search" id="q" placeholder="Search apps or complaints…"></div>
+  <div class="meta" id="meta"></div>
+  <div id="list"><div class="empty">Loading…</div></div>
+</div>
+<script>
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const nice = (c) => c.toLowerCase().replace(/_/g, ' ').replace(/\b\w/g, (m) => m.toUpperCase());
+let current = null;
+
+async function init() {
+  let index;
+  try { index = await (await fetch('data/index.json')).json(); }
+  catch { $('#list').innerHTML = '<div class="empty">No data yet. Run <code>npm start</code> first.</div>'; return; }
+  const cats = Object.keys(index.categories);
+  $('#tabs').innerHTML = cats.map((c) => `<button class="tab" data-c="${c}">${nice(c)}</button>`).join('');
+  $('#tabs').onclick = (e) => e.target.dataset.c && load(e.target.dataset.c);
+  $('#q').oninput = render;
+  load(cats[0]);
+}
+
+async function load(cat) {
+  document.querySelectorAll('.tab').forEach((b) => b.setAttribute('aria-pressed', b.dataset.c === cat));
+  current = await (await fetch(`data/${cat}.json`)).json();
+  render();
+}
+
+function render() {
+  if (!current) return;
+  const q = $('#q').value.toLowerCase();
+  const apps = current.apps.filter((a) => !q || JSON.stringify([a.title, a.developer, a.painPoints.map((p) => p.label)]).toLowerCase().includes(q));
+  $('#meta').textContent = `${apps.length} apps · updated ${new Date(current.generatedAt).toLocaleString()} · sorted by opportunity score`;
+  $('#list').innerHTML = apps.length ? apps.map(card).join('') : '<div class="empty">No matches.</div>';
+  document.querySelectorAll('.top').forEach((t) => (t.onclick = () => t.parentElement.classList.toggle('open')));
+}
+
+function card(a) {
+  const max = Math.max(1, ...a.painPoints.map((p) => p.share));
+  return `<div class="app">
+    <div class="top">
+      <img src="${esc(a.icon)}" alt="" loading="lazy">
+      <div class="name"><b>${esc(a.title)}</b>
+        <span>${esc(a.developer)} · ★ ${a.rating ?? '–'} · ${esc(a.installs ?? '')} installs · ${a.lowStarReviews}/${a.reviewsSampled} recent reviews ≤3★</span></div>
+      <div class="score"><b>${a.opportunityScore}</b><span>opportunity</span></div>
+    </div>
+    <p class="pitch">💡 ${esc(a.pitch)}</p>
+    <div class="details">
+      <h4>Top complaints</h4>
+      ${a.painPoints.map((p) => `<div class="pp">
+        <div class="pp-head">${esc(p.label)} <span>${p.mentions} reviews · ${p.share}%</span></div>
+        <div class="bar"><i style="width:${(p.share / max) * 100}%"></i></div>
+        <div class="fix">Your fix: <b>${esc(p.fix)}</b></div>
+        ${p.quotes.map((q) => `<blockquote>“${esc(q)}”</blockquote>`).join('')}
+      </div>`).join('') || '<p class="fix">No clear complaint themes.</p>'}
+      ${a.featureRequests.length ? `<h4>What users are asking for</h4><ul class="wish">${a.featureRequests.map((w) => `<li>${esc(w)}</li>`).join('')}</ul>` : ''}
+      <p class="fix"><a href="${esc(a.url)}" target="_blank" rel="noopener">Open on Google Play ↗</a></p>
+    </div>
+  </div>`;
+}
+init();
+</script>
+</body>
+</html>

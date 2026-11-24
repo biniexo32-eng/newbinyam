@@ -1,0 +1,20 @@
+{
+ "categories": {
+  "PRODUCTIVITY": {
+   "generatedAt": "2026-11-24T00:25:01.342Z",
+   "apps": 20
+  },
+  "HEALTH_AND_FITNESS": {
+   "generatedAt": "2026-11-24T00:25:54.024Z",
+   "apps": 20
+  },
+  "EDUCATION": {
+   "generatedAt": "2026-11-24T00:26:49.491Z",
+   "apps": 20
+  },
+  "FINANCE": {
+   "generatedAt": "2026-11-24T00:27:50.274Z",
+   "apps": 20
+  }
+ }
+}

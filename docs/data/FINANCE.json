@@ -1,0 +1,1546 @@
+{
+ "category": "FINANCE",
+ "generatedAt": "2026-11-24T00:27:50.274Z",
+ "apps": [
+  {
+   "appId": "com.venmo",
+   "title": "Venmo",
+   "developer": "PayPal Mobile",
+   "icon": "https://play-lh.googleusercontent.com/s267iqvFKVUycSszMaLy6sbcmKa8iKtodrOB60cuKj13U4BKpgKIxmiknUEmaORMbV-yBXCeEL9ybIZSw1qu",
+   "url": "https://play.google.com/store/apps/details?id=com.venmo&hl=en&gl=us",
+   "rating": 3.97,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 203,
+   "opportunityScore": 111,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 77,
+     "share": 38,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "terrible support. froze my business account for no reason. can't unfreeze it. no help",
+      "venmo is not a good service not only will it not let me transfer money back into my bank account it won't tell me how to do it it says you can but it won't let you"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 77,
+     "share": 38,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "venmo is not a good service not only will it not let me transfer money back into my bank account it won't tell me how to do it it says you can but it won't let you",
+      "The Venmo app would not allow my bank or my bank card to attach to the app, making it impossible to transfer money to or from my bank account. If I want a useless app, there are better ones than this."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 44,
+     "share": 22,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "terrible support. froze my business account for no reason. can't unfreeze it. no help",
+      "less than a star, horrible customer service.... if you enjoy waiting on hold.... app for you!!"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 18,
+     "share": 9,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "keep getting an error message. Don't use👎",
+      "they make it impossible to cancel a account, they steal from my social security and when I tap the link they provide to cancel a account I've never used it takes me to a error they are thieves"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 13,
+     "share": 6,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "changed my review I don't like the app update",
+      "New Update is Needlessly Flashy. Do you like dynamic icons, bubbles everywhere and text windows that aren't actually free form? Well good news that's Venmo now, might as well just go back to handing people cash. Worst update I've seen all year."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "NEED TO PAY MY RENT FOR 2 MONTHS ASAP",
+    "would be better if you could actually spend the money without having to have a card or bank account attached to the app",
+    "Need a way to disable \"flashbang\" effect",
+    "Would be great if it allowed me to add my card so I can start using it",
+    "should have left it the way it was",
+    "I wish I could give it zero Stars",
+    "need to verify myself to get it off my card then I am deleting venmo cashapp is so much better",
+    "need to update their system and give their staff more power to help users"
+   ],
+   "pitch": "A Finance app like Venmo, but: works without an account, or simple one-tap login; generous free tier, fair one-time price instead of forced subscription; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.paypal.android.p2pmobile",
+   "title": "PayPal - Pay, Send, Save",
+   "developer": "PayPal Mobile",
+   "icon": "https://play-lh.googleusercontent.com/9SeHb3IaNFm7sXRQmWZaL5MHqVn4qcBGz12sPgjBisZCFMyZPOCXUFOZIttUu-CiTqQz3alXL7jxxGW1Y4fn",
+   "url": "https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile&hl=en&gl=us",
+   "rating": 4.19,
+   "installs": "500,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 172,
+   "opportunityScore": 95,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 67,
+     "share": 39,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "After 2-3 transactions, you can not pay with your bank account anymore . Onli with card mastercard/visa . i contacted tgem and thee say wait 72 hours without trying to do pauments . after some time will be blocked again , is not a provlem of the bank .",
+      "cannot login .... tried almost 8 time"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 40,
+     "share": 23,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "After 2-3 transactions, you can not pay with your bank account anymore . Onli with card mastercard/visa . i contacted tgem and thee say wait 72 hours without trying to do pauments . after some time will be blocked again , is not a provlem of the bank .",
+      "PayPal has charged my account with unauthorized charges because of that I had to cancel my Visa debit card with Wells Fargo which means I had to change Google wallet and all of my online accounts it was a big hassle shame on you PayPal"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 20,
+     "share": 12,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "i am strugling open maybe this was mistake? what sa you paypal. your not working",
+      "I keep getting a error message when I input the text message code"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 17,
+     "share": 10,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "After 2-3 transactions, you can not pay with your bank account anymore . Onli with card mastercard/visa . i contacted tgem and thee say wait 72 hours without trying to do pauments . after some time will be blocked again , is not a provlem of the bank .",
+      "the app is not letting me create a new account and also way to contact real support, some stupid resolution center"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 14,
+     "share": 8,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "won't let me update my phone number",
+      "It is a very slow app, it needs to be made a bit faster and the interface should also be updated a bit."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to be made a bit faster and the interface should also be updated a bit",
+    "NEED TO PAY THE BILLS AND THIS IS GENUINELY AN ISSUE",
+    "need any AP do track my packages",
+    "need to enter the totp after biometrics, EVERY time I open the app"
+   ],
+   "pitch": "A Finance app like PayPal - Pay, Send, Save, but: works without an account, or simple one-tap login; generous free tier, fair one-time price instead of forced subscription; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.google.android.apps.walletnfcrel",
+   "title": "Google Wallet",
+   "developer": "Google LLC",
+   "icon": "https://play-lh.googleusercontent.com/zd5pb7c2r_TXGBPSQyNN_Kq_WzsjhEqX8sdyl0CkEAjshnbscd71SmLPh1L_xVCcckP2LOC2ZpB1n23Q8NuRvA",
+   "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&hl=en&gl=us",
+   "rating": 4.31,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 158,
+   "opportunityScore": 82,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 36,
+     "share": 23,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "How do I send money to another person?",
+      "no safe notice from gmail or other named subscriptions. so I can't find the right bill now"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 33,
+     "share": 21,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "Has worked well for years but after latest update it's slow and currently not showing any bank cards, just loyalty ones. Something has broken.",
+      "Stop producing updates which ruin everything. Stop requesting users to contact when there are mass complains. Fire 100 dimbass programmers and find one good."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 26,
+     "share": 16,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Newly installed, doesn't work at all. There is an error when I try to add a card, despite restarting the app, clearing the app cache, restarting the device, and reinstalling the app.",
+      "Has worked well for years but after latest update it's slow and currently not showing any bank cards, just loyalty ones. Something has broken."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 13,
+     "share": 8,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "the ..... have changed the interface recently to smth uglier and less intuitive. now every time I need to change the default card, I have to find from scratch where to do it.",
+      "Google wallet keeps crashing. I'm trying to add a new payment method and it keeps crashing on me. Extremely annoying and it does not need an update."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 7,
+     "share": 4,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "Stop producing updates which ruin everything. Stop requesting users to contact when there are mass complains. Fire 100 dimbass programmers and find one good.",
+      "it isn't supported with my Motorola cellphone and my google wallet for tap to pay doesn't work, no NFC which is absolutely frustrating as I needed it yet it isn't compatible or something so this app is useless."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to change the default card, I have to find from scratch where to do it",
+    "need to complete a task immediately",
+    "need to add a Scan button at the top right corner to pay those Businesses who use Barcode",
+    "need to now open my phone using a four digit pin number which is very annoying",
+    "need to move on from Google Pay and choose another app or",
+    "need to pay fast, and even worse the NFC contact with the POS doesn't work reliably, needing a second try from time to time",
+    "need to restart my phone to get it working again",
+    "Please add the wallet in all huwaei devices"
+   ],
+   "pitch": "A Finance app like Google Wallet, but: generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "de.empfohlen",
+   "title": "Testerup: Test & Earn Rewards",
+   "developer": "aestimium GmbH",
+   "icon": "https://play-lh.googleusercontent.com/DWF5quyxE-FjgPODNEIhfpvc3eIvxZK0SI7_vjDzo1kgosPN27IJ4uqufdfG2MkOqiDTHSn0x9XBs80Rh0KFxDU",
+   "url": "https://play.google.com/store/apps/details?id=de.empfohlen&hl=en&gl=us",
+   "rating": 4.21,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 185,
+   "opportunityScore": 77,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 58,
+     "share": 31,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "requires a review before actually experiencing the app. Will update once ive used it more. Edit to add. One year later and this app has paid out less than any other survey app. ABSOLUTE WASTE OF TIME!",
+      "Doesn't Pay Out until $70 which is not easy and you don't even get the full 70."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 29,
+     "share": 16,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "app seems to be a scam, as soon as I hit $1.00 I completed multiple tasks in the apps and do not receive the rewards. support is a joke, sent all the necessary information about this issue and it's been 5 days with no response to the issue.",
+      "$55 to be able to make your first withdrawal, and half the games don't want to be downloaded through the app. Can we say SCAMMY and DANGEROUS FOR YOUR PHONE any louder??"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 22,
+     "share": 12,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I said the verification keeps failing. I've already submitted a request. The verification doesn't work.",
+      "was asked to leave a trust pilot review and when I left 4 stars they blocked my account, a joke"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 18,
+     "share": 10,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "The daily prize is always a penny and support doesn't respond fast enough when a game doesn't track.",
+      "app seems to be a scam, as soon as I hit $1.00 I completed multiple tasks in the apps and do not receive the rewards. support is a joke, sent all the necessary information about this issue and it's been 5 days with no response to the issue."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 12,
+     "share": 6,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "requires a review before actually experiencing the app. Will update once ive used it more. Edit to add. One year later and this app has paid out less than any other survey app. ABSOLUTE WASTE OF TIME!",
+      "UPDATE: THERE ARE NEVER ANY GAMES. all games have vanished, ive tried uninstalling and reinstalling the app and all there is is surveys. so sad, this WAS truly the most fun app, but now, its horrible!!!!"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need more people to respond to us on here and in your messages to submit issues",
+    "need to play for to earn money from that game",
+    "need to get to $70 to be able to withdraw",
+    "should have enough to cash out by now but been stuck on 26",
+    "I wish I didn't have to give it even one star",
+    "need to vary not alot of offers",
+    "need to pay you , never used a vpn or cheated",
+    "need to get to before you can withdraw anything to PayPal"
+   ],
+   "pitch": "A Finance app like Testerup: Test & Earn Rewards, but: generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.konylabs.capitalone",
+   "title": "Capital One Mobile",
+   "developer": "Capital One Services, LLC",
+   "icon": "https://play-lh.googleusercontent.com/FhU7kvb6c-GS7x4wXOR-Cfkx7q6nzwgOAhdNJgByxTg6nPOd7QgB6wSxaqtLaP8u8akLSCW_HLtaFX-I_wsFaqk",
+   "url": "https://play.google.com/store/apps/details?id=com.konylabs.capitalone&hl=en&gl=us",
+   "rating": 4.52,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 102,
+   "opportunityScore": 44,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 26,
+     "share": 25,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "Since Cap one took over Discover, it's next to impossible to find account info for each individual account! I can never tell the status of my accounts!!",
+      "App has gone down hill. Account payments do not update like they used to; your balance also doesn't update quickly. This all started a couple days after the big FAA ground-stop that happened in Nov 2026. and no word of what could be the problem."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 18,
+     "share": 18,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Really annoying to get advertised to every time I open my banking app. update: will start evaluating moving my money out of capital one shortly if the ads do not stop in the app.",
+      "I am now required to use the Capital One app to manage my Discover card. The Discover app interface was way better. I hate the Capital One app and will be looking for alternative credit services next chance I get."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 16,
+     "share": 16,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Really annoying to get advertised to every time I open my banking app. update: will start evaluating moving my money out of capital one shortly if the ads do not stop in the app.",
+      "I pay everything on time NEVER Late and You Decided to Decrease my Credit Line?? Should I go with another Credit Card company!!!! Is this my Reward for paying my bills on time!!!"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 8,
+     "share": 8,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "Really annoying to get advertised to every time I open my banking app. update: will start evaluating moving my money out of capital one shortly if the ads do not stop in the app.",
+      "Had to update to keep using it. now I'm receiving ads."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 8,
+     "share": 8,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "My Discover card is now Capital One. Ok, so I remove the Discover card app and download the Capital One app. I open it, it crashes. I reinstall it, open it, it crashes. Ok, so I remove the app and access it only through the website.",
+      "Please stop banning this app from running on GrapheneOS. Its much more secure than public android releases and there is no reason it should crash and not run, especially when downloaded directly from Google Play and allowed to use the API."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to be dismissed and go back to school",
+    "needs a different UI experience, because it seems this is just a basic layout, I say it's time for an update to the UI",
+    "should have kept the discover app instead of forcing me into this mess",
+    "Need to be able to report a fraudulent charge from the app, as it does NOT work seemlessly with the website",
+    "need to wait 7 days to use money post deposit",
+    "Needs a dark mode, the ability to filter credit card transactions by current statement period, and a running balance for current period"
+   ],
+   "pitch": "A Finance app like Capital One Mobile, but: works without an account, or simple one-tap login; clean, simple interface that does one thing well; generous free tier, fair one-time price instead of forced subscription."
+  },
+  {
+   "appId": "com.freecash.app2",
+   "title": "Freecash: Get Rewarded",
+   "developer": "Freecash",
+   "icon": "https://play-lh.googleusercontent.com/MqMKh5WAFtznYbtdHRKpihRnD8buqRvt2FS7mZkIHy0Yetxp4knXhruByOkjluyW8_-E7-6XqRVdQnwgzaBXfg",
+   "url": "https://play.google.com/store/apps/details?id=com.freecash.app2&hl=en&gl=us",
+   "rating": 4.55,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 124,
+   "opportunityScore": 42,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 48,
+     "share": 39,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "They pay but a lot of surveys you do get disqualified from.",
+      "Got 90$ stole from me and they never helped me get it back when they can clearly see who stole it. The pay is too low and way too many adds and spin the wheel always gives you 1¢"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 30,
+     "share": 24,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "This game is a scam, don't waste your time. Gives a penny here and there and wants to hold on to the money you make forever. Makes payouts hard to get and spend money to make pennies! Do not waste your time!!! 👎🏽",
+      "NOT worth it at all. I have had $5 pending for a month. Their explanation is, I have to earn more money to get the five dollars. I already earned playing their games. They are scam artists and THIEVES OF YOUR TIME"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 29,
+     "share": 23,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "my account has been suspended and I couldn't withdraw money from my account please fix this problem for me!",
+      "what a bunch of bs I get to the first £20 to make my first ever withdrawal, soon as I verify my account gets suspended so I cant make a withdrawal, what absolute bs"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 12,
+     "share": 10,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "Was credited for completing level 1000 of an app. When I tried to put in a ticket for missing rewards for completing levels 150 and 700, they were both rejected. Customer support stated closed tickets can never be reopened in any circumstance.",
+      "what a waste of my time seriously do not waste your time. I tried to get help from customer service and got zero help just like the advertisement bar that was supposed to go up . their tracking is off and they wish to do nothing about it"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 6,
+     "share": 5,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "game actually shows u got the reward requirements but u dont get it when u open a ticket it gets closed without a answer ow and u have to get to 35euro first before u can cashout which takes forever if u dont get your rewards"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to verify my account and would be sent a link",
+    "should have been able to get a pay out but I never got anything",
+    "need to try again",
+    "need to give an explanation as to why"
+   ],
+   "pitch": "A Finance app like Freecash: Get Rewarded, but: generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.creditkarma.mobile",
+   "title": "Intuit Credit Karma",
+   "developer": "Credit Karma, LLC",
+   "icon": "https://play-lh.googleusercontent.com/Bhcn3OFrDS7mp6-Xt_kk13tz8GOLWhLsnc_S90MPgYqX5THa6OWfVxwBu73XLfyGL6dIO2TaM3tJevgmVz80oQ",
+   "url": "https://play.google.com/store/apps/details?id=com.creditkarma.mobile&hl=en&gl=us",
+   "rating": 4.72,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 137,
+   "opportunityScore": 35,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 39,
+     "share": 28,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I've tried everything possible and I still can't and, the system won't let me log in. I've tried to recover my acct , change my phone #, on this app and it still won't let me in.",
+      "Haven't been able to get my account"
+     ]
+    },
+    {
+     "theme": "notifications",
+     "label": "Spammy notifications",
+     "mentions": 17,
+     "share": 12,
+     "fix": "Quiet by default, fully controllable notifications",
+     "quotes": [
+      "this app does not respect your notification settings. they will blow up your email and push notifications even if you turn everything off and unsubscribe",
+      "suddenly getting spammed with notifications and emails about problems that are normal things... all in app notifications are disabled, still getting them"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 15,
+     "share": 11,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "I can no longer see all my accounts when I click on debt. Not sure what the new update did with them. They were there before it.",
+      "This app is a great tool to use for your credit score. However... if you need help with their banking services then they won't help you. Use it for the credit updates but don't trust their banking options."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 10,
+     "share": 7,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "Won't let me log in keeps saying can't contact Credit Karma try again later:(",
+      "Loan companies will spam you!!! No way to stop these loan companies from spamming you all hours of the day and weekend. I block every single one and they call from different numbers. so annoying. customer service is a chat box that does not understand."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 7,
+     "share": 5,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "your website and app for some reason are being very rediculous in not letting me log in and when I try it states an error, are you serious, scam.",
+      "Fake! Shows Credit score 650 ish LETTER FROM CREDIT BUREAU SAYS ITS ACTUALLY 613..BIG DIFFERENCE .. ITS A SCAM!!"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "would be better if u could put ur monthly 🏠rent in ur credit score bc everyone can't get/afford a 🏡mortgage🤔🤞🏾",
+    "need to find a way to make it easy to change email address or phone number on app due to lost email or phone number ,thank you",
+    "need to fix the issue of sending me a text everytime about a code when I open the app from a Galaxy S23 Ultra",
+    "should have existed in the first place, so my concern is that someone had some kind of access to create a new card",
+    "Why can't you select \"use this category for future transactions\"",
+    "I wish I could delete that off of My specific app",
+    "need a Dark mode, your App page is too bright and blinding, I adjusted my brightness but it doesn't help, it just becomes less visible",
+    "need to make recovering app more easy and fix these issues, seriously"
+   ],
+   "pitch": "A Finance app like Intuit Credit Karma, but: works without an account, or simple one-tap login; quiet by default, fully controllable notifications; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.phonevalley.progressive",
+   "title": "Progressive",
+   "developer": "Progressive Insurance",
+   "icon": "https://play-lh.googleusercontent.com/D8FzIGZsEKgEqeTwopON-RWn8oX1ySNjUdfiUQqIXN_Q6O4yorD7s7NezQZ1drLImBhvm9cb3fKR_45Q7RP6",
+   "url": "https://play.google.com/store/apps/details?id=com.phonevalley.progressive&hl=en&gl=us",
+   "rating": 4.62,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 104,
+   "opportunityScore": 35,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 25,
+     "share": 24,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "dogshit they couldn't even follow through with a proper auto pay.",
+      "Progressive refuses to honor their side of my policy after I used Roadside assistance for a covered accident and paid the deductible including a rental vehicle. Even though I have met the terms of use. Use them if you want to waste money."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 12,
+     "share": 12,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "haven't seen a drop on my account yet.",
+      "It says my password is incorrect when I try to log in, but then claims the new password cannot be the same as the old one when I attempt to reset it—what a rubbish app."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 9,
+     "share": 9,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "my app is not working I wonder why.same issue different day on top of that I took apps off my phone for this.",
+      "I never get close to other drivers all thar hard breaking are lies. This app is glitching."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 5,
+     "share": 5,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "Drains my battery and requires permissions that are unnecessary",
+      "The app is always running in the background no matter what the settings say, so it's always using up my battery life. Why is it always running while I sleep? What purpose does that serve? I need to frequently stop the app just to maintain battery life."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 5,
+     "share": 5,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "cannot update or asdd vehicles to policy on app, whats the use even having the app if you always have to end up calling to make any changes thsats BS",
+      "No option to mail ID cards. I have to login to the desktop website to have progressive mail cards to me. I used to be able to, I'm not sure why they removed this functionality."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to do anything that is at all complex, it will just take you to the browser",
+    "Why can't I get my app to load so I can login",
+    "need to frequently stop the app just to maintain battery life",
+    "needs to be more informative and user-friendly",
+    "need to fix the app drive safe"
+   ],
+   "pitch": "A Finance app like Progressive, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.chase.sig.android",
+   "title": "Chase Mobile",
+   "developer": "JPMorgan Chase",
+   "icon": "https://play-lh.googleusercontent.com/bSFyXPG1BXKpq8uxZQBezTtiLFQjAAOJEgBovw9UQ8LxWbbK9n16oz7wvSkU2mLJvDcxodsQrKKYeT1qkYkJ",
+   "url": "https://play.google.com/store/apps/details?id=com.chase.sig.android&hl=en&gl=us",
+   "rating": 4.75,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 146,
+   "opportunityScore": 34,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 49,
+     "share": 34,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "The app has a bug if you use two accounts like personal and business and then try to switch between them it just keeps trying to load and saying loading but never changes over and you have to kill the app and reload it.",
+      "the links to external accounts never work. of the third party Clearinghouse is not effective then go with a different vendor. no point having a feature that doesn't work."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 28,
+     "share": 19,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "keeps running into an error stating that my google play app needs to be updated. my play app is the most updated version. please fix this error",
+      "new phone, and still says update needed. doesn't work"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 22,
+     "share": 15,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "The app has a bug if you use two accounts like personal and business and then try to switch between them it just keeps trying to load and saying loading but never changes over and you have to kill the app and reload it.",
+      "the links to external accounts never work. of the third party Clearinghouse is not effective then go with a different vendor. no point having a feature that doesn't work."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 9,
+     "share": 6,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Makes you lie and say that you're sending money to friends and family because it blocks you if you try to Zelle it to anyone else.",
+      "y do i get charge extra i try pay but chase bank try to charge my buisness acount i wana pay from my td bank acount like i used to pay all the time but now chase dont give me option to pay from my td bank"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 6,
+     "share": 4,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "A new bug when switching tabs between business and personal throws an infinite loading loop, forcing me to quit and re-enter the app, which is very annoying.",
+      "doesn't mirror the website. confusing, where is everything at? Time is valuable. Love the website layout! Do not like the app."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to be notified",
+    "need to update Google Play Store",
+    "need an app to verify my identity",
+    "needs to be updated",
+    "needs to verify my age",
+    "needs to verify my age or update my Google play ( which everything is updated)",
+    "need to be a world class sniper for a good capture",
+    "needs to be updated no matter how I try to fix it"
+   ],
+   "pitch": "A Finance app like Chase Mobile, but: works without an account, or simple one-tap login; keep the features users loved in the old version; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.squareup.cash",
+   "title": "Cash App",
+   "developer": "Block, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/pBe5_NoQ0uojR_XLb_5f2mMxVOnFczommOo5Ho297TYnkqt6I26YM3X2cpKtowkLsxe27IdhP1gQz-Mq4OSQ",
+   "url": "https://play.google.com/store/apps/details?id=com.squareup.cash&hl=en&gl=us",
+   "rating": 4.71,
+   "installs": "100,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 76,
+   "opportunityScore": 30,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 24,
+     "share": 32,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I'm not very happy because I tried to get some money from my account and it wouldn't let me. I want to know how am I supposed to get money from it, also I have it connected to my bank account so 🤔 what the heck 😫",
+      "the messages telling me i have money in my account are getting old i know i have it. no i don't want to spend it so stop with the texts"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 20,
+     "share": 26,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "They won't let money go in the correct places they lie and make people feel bad for doing business with them",
+      "I'm not very happy because I tried to get some money from my account and it wouldn't let me. I want to know how am I supposed to get money from it, also I have it connected to my bank account so 🤔 what the heck 😫"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 11,
+     "share": 14,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "cash app support didn't help for nothing",
+      "Sent $30 to a family member. They never got it but it was taken out of my account. Tried customer service and was denied the refund. Made an appeal and still denied. Done with Cashapp for this reason. Never had a problem before, but this is inexcusable."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": []
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 4,
+     "share": 5,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "need to put back the old interface",
+    "need to copy paste it"
+   ],
+   "pitch": "A Finance app like Cash App, but: works without an account, or simple one-tap login; generous free tier, fair one-time price instead of forced subscription; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.kinetic.payme.app",
+   "title": "PayMe - Claim Your Money",
+   "developer": "Prove It",
+   "icon": "https://play-lh.googleusercontent.com/EKwCtoiJyRJbn6AIgIEvOuNmWAEBcvgk52rhm2C3wvpX0iI8nibTBXmYAMXLiYcuz46SNVK_CZTA6DCDZ3WInDQ",
+   "url": "https://play.google.com/store/apps/details?id=com.kinetic.payme.app&hl=en&gl=us",
+   "rating": 4.58,
+   "installs": "500,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 84,
+   "opportunityScore": 28,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 25,
+     "share": 30,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "all I did was download the app. I didn't buy anything and would like my unauthorized $2.99 charge put back on my card.",
+      "Canceled this app and uninstalled it from my phone and they're still trying to charge my card for $49.95 every other day. Seeking legal representation if this continues."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 14,
+     "share": 17,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "this is a scam. they're data harvesters.",
+      "scam don't pay don't download. gets you to pay then poof nothing. never actually submits you for any claims. simply takes your money and information then sells it."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 9,
+     "share": 11,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "it's interesting how i can sign up or make an account.",
+      "This app not only has horrible support but they do not delete your data nor can you delete your account"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 6,
+     "share": 7,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Just loads to a white screen and sits there forever... Nothing I can do. Doesn't work.",
+      "this app is broken n doesn't work. just keeps going in a loop to connect my email, over n over again!"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 6,
+     "share": 7,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "Thank you for 1 star reviews don't feel bad contact a lawyer or wait for the class action lawsuit s",
+      "This app not only has horrible support but they do not delete your data nor can you delete your account"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to be debugged"
+   ],
+   "pitch": "A Finance app like PayMe - Claim Your Money, but: generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.kalshi.mobile",
+   "title": "Kalshi: Trade Sports & Events",
+   "developer": "KalshiEX LLC",
+   "icon": "https://play-lh.googleusercontent.com/xqqztHYjICcovxgfuUeVvD-nrTrJS3xHisZXn7fycgdfm-D7RYxwFeu0jGBjp1rUm_X57YryaotZD-IBLuQdqjg",
+   "url": "https://play.google.com/store/apps/details?id=com.kalshi.mobile&hl=en&gl=us",
+   "rating": 4.71,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 79,
+   "opportunityScore": 25,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 25,
+     "share": 32,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "downgrade in interface, at first it would ask me after I put the money before actually settling it to confirm the pick, now it just does it by itself. Also, combo pick screen doesnt show live anymore and its interface is now not the best",
+      "everything takes forever . for contracts to settle and hit you accout in the app. to transfer money out of your account is an absolute headache, thr only thing that doesnt take long is for the app to take your money. there are much better choices out there"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 12,
+     "share": 15,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "can't withdraw money need to verify identity but camera doesn't focus on app so can't get a valid picture even though my normal camera works fine all permissions are granted (pixel 9a up to date os). I want my funds",
+      "They posted a game that ended a long time ago, which appears to be a scam designed to encourage players to buy the dip."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 10,
+     "share": 13,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "posted one thing to sell and got banned the next day this is a waste of time",
+      "everything takes forever . for contracts to settle and hit you accout in the app. to transfer money out of your account is an absolute headache, thr only thing that doesnt take long is for the app to take your money. there are much better choices out there"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 6,
+     "share": 8,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "Be careful ! The app cuts out and doesn't update you on your bet. I lost money twice because of the app. I will give it one more chance before deleting the app. Hopefully you have better luck than I did.",
+      "so I had a Kelsey account I lost my money on my old phone now I'm on a new phone same Gmail Google account and now it's telling me that it can't allow me to trade and I have no history same info but no history but lost every penny"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 5,
+     "share": 6,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "downgrade in interface, at first it would ask me after I put the money before actually settling it to confirm the pick, now it just does it by itself. Also, combo pick screen doesnt show live anymore and its interface is now not the best",
+      "Platform is designed to take as much from you as possible (fees) . insider trading is 100% happening with certain markets. beware. you are 96% likely to u lose your money."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "should have a chat"
+   ],
+   "pitch": "A Finance app like Kalshi: Trade Sports & Events, but: generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.og.app.android",
+   "title": "OG.com: Rip, Trade, Predict",
+   "developer": "OG Markets Limited",
+   "icon": "https://play-lh.googleusercontent.com/yfhDJUA5yHEJVqE7zTkacap3shhKLZlShyyYIjs4RvOHomzasH04XosY2mqZXu15Wvsk50bF_77BYQv2NUERNAo",
+   "url": "https://play.google.com/store/apps/details?id=com.og.app.android&hl=en&gl=us",
+   "rating": 4.72,
+   "installs": "500,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 108,
+   "opportunityScore": 24,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 22,
+     "share": 20,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "no option to login besides Google. big red flag for monitoring",
+      "New account bonus is convoluted and predatory in nature. prepare to simply lose money"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 20,
+     "share": 19,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "New account bonus is convoluted and predatory in nature. prepare to simply lose money",
+      "No Stars. because your identity verification software can't even recognize letters when you try to pull out your name heck a lame way to keep your money"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 16,
+     "share": 15,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "It used to be better when positive spread bets were possible. The app has been extremely glitchy with the last few updates. Often fails to detect my internet connection, portfolio & prediction tabs are frequently blank recently & support doesn't know why.",
+      "bad customer service and your better off with draft kings or prize picks where they actually carry all the games"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 9,
+     "share": 8,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "Scam app that never paid out when I withdrew my winnings.",
+      "Scam company, holds back on customer support until promos expire, makes it hard to withdraw money. I am not sure if I've ever left a review on an app but I am today."
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 8,
+     "share": 7,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "never even opened the app your ads are trash. Y'all should feel bad",
+      "awful repetitive braindead AI slop ads that repeat ad nauseam and don't respect people's time."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "NEED TO REVAMP YOUR SUPPORT AND GIVE LIVE PEOPLE THERE JOBS BACK",
+    "should have not been able to have the account",
+    "need a refund for my transaction since I should have not been able to have the account",
+    "need an option to turn haptics off",
+    "should have the ads say \"only if you invite friends and they sign up on the app too\" I don't have any friends to invite so this was a waste",
+    "would be great if it doesn't take them a life time to help resolve an issue",
+    "needs to add venmo as a withdrawal methods",
+    "would be better if you could pick a sport so you dont get Pokemon"
+   ],
+   "pitch": "A Finance app like OG.com: Rip, Trade, Predict, but: works without an account, or simple one-tap login; generous free tier, fair one-time price instead of forced subscription; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.onedebit.chime",
+   "title": "Chime – Fee-Free Banking",
+   "developer": "Chime",
+   "icon": "https://play-lh.googleusercontent.com/ysk1XY2hntv7HgmU8tqLgZChmXAjqOOdvmI_XLh71YuyZ_D0kVwVgrQL4v_rlJhfdcGaH0DXIAvgbhkice9C",
+   "url": "https://play.google.com/store/apps/details?id=com.onedebit.chime&hl=en&gl=us",
+   "rating": 4.74,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 76,
+   "opportunityScore": 24,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 29,
+     "share": 38,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "Never use the my pay. they do not honor the payment plan. I've been with chime since about 2018 and finally closing my account due to this. I reached out to customer service before this review only to be told sorry for the inconvenience",
+      "I basically put my whole check in and now it says I need to verify to access my account. the verification process is not working. customer service just keeps sending me to the verification service. Is there no other option that a human can help with anymore?"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 29,
+     "share": 38,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Never use the my pay. they do not honor the payment plan. I've been with chime since about 2018 and finally closing my account due to this. I reached out to customer service before this review only to be told sorry for the inconvenience",
+      "I hate that I can't get my money in cash. it stays on the card."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 11,
+     "share": 14,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "Never use the my pay. they do not honor the payment plan. I've been with chime since about 2018 and finally closing my account due to this. I reached out to customer service before this review only to be told sorry for the inconvenience",
+      "I basically put my whole check in and now it says I need to verify to access my account. the verification process is not working. customer service just keeps sending me to the verification service. Is there no other option that a human can help with anymore?"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 8,
+     "share": 11,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "seriously upset that I can't access my own chime app because someone stole my wallet and I cannot provide them with my id to update my new phone number. but they would allow me to change my pin number without id 🤔 so dumb.",
+      "Clicking \"sign up\" throws a 414 error. Previous update also threw the same error. Big day?"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 7,
+     "share": 9,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "It's a scam bank account. direct deposit set up is nearly impossible and when I tried to link things which STILL had problems, I get charged 16 bucks to my paypal. Time to go to Atlas",
+      "they bank bancorp holds deposits even even my other banks pay early, early pay with chime a scam."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to verify to access my account",
+    "need to sign up for overdraft protection with them",
+    "need to call customer support and then you can't understand customer support",
+    "need to completely and immediately stop the promotional popups",
+    "should have taken money to cover the balance from my previous 6 days ago paycheck"
+   ],
+   "pitch": "A Finance app like Chime – Fee-Free Banking, but: works without an account, or simple one-tap login; generous free tier, fair one-time price instead of forced subscription; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.exto.arrow",
+   "title": "Atlas - Rewards Credit Card",
+   "developer": "Exto Inc.",
+   "icon": "https://play-lh.googleusercontent.com/7MGzs-QeIkltBPMMhL_VIde3jpwBEtdEKs-PBEvJFL_g3MW5zfvb85gpoNbCrjuaR69KwhZnbFGsPL-uDytyknA",
+   "url": "https://play.google.com/store/apps/details?id=com.exto.arrow&hl=en&gl=us",
+   "rating": 4.64,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 69,
+   "opportunityScore": 24,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 38,
+     "share": 55,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I like the app would like to have more contest and videos to get more money",
+      "do not install this app, it's absolute nonsense, I was trying to purchase a subscription, and it locked my account and now I have to wait around 24 hours? absolute nonsense"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 30,
+     "share": 43,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "do not install this app, it's absolute nonsense, I was trying to purchase a subscription, and it locked my account and now I have to wait around 24 hours? absolute nonsense",
+      "scam scam scam scam. they just automatically pull money from your accounts then cant access it. scam scam scam"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 9,
+     "share": 13,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "scam scam scam scam. they just automatically pull money from your accounts then cant access it. scam scam scam",
+      "DO NOT WASTE YOUR TIME W THESE PPL ! THEY LIE AS WELL AS FALSE ADVERTISE BIG TIME !!!! SAVE YOURSELF THE AGGRAVATION AND STEER CLEAR OF THESE SCAMMERS"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 6,
+     "share": 9,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "I didn't want a credit building account. well they forced one any way. customer service sucks and everybody keeps playing games. I don't even think these are real people. just AI using photos. WORST APP EVER!!!!!"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "Shows that it accepts Venmo accounts on loading page, then does not accept it while linking your bank.",
+      "this app takes foreverrr to load onto my Gmail."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need assistance with"
+   ],
+   "pitch": "A Finance app like Atlas - Rewards Credit Card, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; privacy-first: minimal permissions, no tracking, works offline."
+  },
+  {
+   "appId": "com.onefinance.one",
+   "title": "OnePay – Mobile Banking",
+   "developer": "ONE Finance, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/OAaTPPNOLRXsREaKs3Lale1w2aIslpnadyCe21yrMWjvG0WxpgT9ikAW51Nlrq_u5__zKGFm6T9p3hZZRUm0_2g",
+   "url": "https://play.google.com/store/apps/details?id=com.onefinance.one&hl=en&gl=us",
+   "rating": 4.76,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 67,
+   "opportunityScore": 22,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 25,
+     "share": 37,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "this sucks and it's easy for others to hack your money from this app and accounts with this app",
+      "my money has been stuck in pay autosave for a week and I havent gotten any help. I have over $300 stuck and nobody can help me. Please don't bank with them if you do, DO NOT TURN ON PAY AUTOSAVE."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 19,
+     "share": 28,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "they kept my account under review for weeks with no explanation and they still won't let me have access to my paychecks terrible app",
+      "I don't like it at all I've never been able to sign into my account after I created it. I deleted it"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "closed my account with no reason given. and support has been super unhelpful.",
+      "Major problems with my cards and getting my old accounts linked and setting up direct deposit. Some of the customer service agents love to talk over you and they do not listen to what you are trying to tell them."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "I don't like it at all I've never been able to sign into my account after I created it. I deleted it",
+      "It sucks ! I paid to put $50 on this card at Walmart when I purchased the card. It shows $0.00 on it.. (No one purchases a card without putting money on it) My niece got one same time. It shows no money on her's either. So together we lost $100."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "very confusing. pushes sell stuff on you like crazy. would not have it if I wasn't spark driver. because Walmart forces it down your throat. when are the worst stops I've ever seen. would give it less Stars if I could."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to stick with a regular Bank",
+    "Why can't I just do this with Synchrony Bank"
+   ],
+   "pitch": "A Finance app like OnePay – Mobile Banking, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.myklarnamobile",
+   "title": "Klarna: Smarter everyday money",
+   "developer": "Klarna Bank AB (publ)",
+   "icon": "https://play-lh.googleusercontent.com/B0A7tuj9KZrPM8BwVOIf6uvAMceRFHBQQxD3PYPRUGbJGXC5j9X6Cy6A2oha_Y0seMCnDyXV0r22VrAqsGvGEg",
+   "url": "https://play.google.com/store/apps/details?id=com.myklarnamobile&hl=en&gl=us",
+   "rating": 4.81,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 70,
+   "opportunityScore": 22,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 15,
+     "share": 21,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "App just does not work, I keep being told that flexible payments are not available to me, and then requests I pay in full. If I wanted to pay in full, I'd rather just use google pay 🫩",
+      "I was transferred from Pricerunner which was apparently bought by Klarna. So now I have this ridiculous mega app with functionality I don't care for and never wanted, and the functions I actually want are hidden or not there. Uninstalled."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 10,
+     "share": 14,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "frequent app crashes and malfunctions. Really poor customer service. Poorly conceived verification process asks you to scan a qr code on your phone screen using the same phone with no screenshots allowed. How?!?!",
+      "does not work got approved but it took the whole amount from my checking account"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 9,
+     "share": 13,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "frequent app crashes and malfunctions. Really poor customer service. Poorly conceived verification process asks you to scan a qr code on your phone screen using the same phone with no screenshots allowed. How?!?!",
+      "An absolute joke. A support team that doesn't support. Repeated myself numerous times. They try to shut you up with a gift card rather than listen and do their jobs. Ongoing issues since July!"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "too slow to load, doesn't load offline, no bulk export feature,",
+      "so slow to open my rewards cards. don't want to use it"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "after recent updates this app is so annoying to use. & why can't I adjust the amount to pay a specified amount rather than having to make multiple payments. Will never use klarna to purchase again.",
+      "unreliable, non friendly interface, asks for MFA time and again randomly, doesnt take me to cards. I will uninstall soon."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "why can't I adjust the amount to pay a specified amount rather than having to make multiple payments",
+    "need all the other stuff they're pushing at me",
+    "Why can't I take a screenshot or share my loyalty cards with somebody"
+   ],
+   "pitch": "A Finance app like Klarna: Smarter everyday money, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.wf.wellsfargomobile",
+   "title": "Wells Fargo Mobile®",
+   "developer": "Wells Fargo Mobile",
+   "icon": "https://play-lh.googleusercontent.com/xcX4XKIBmuMuKFzZ0kLOi1QFFzROgKLI4nIHmOLm8m3Cv2GDWnuWrznTmJSW9t6HNohW8bnyE3kvjQ6MvsS-Gg",
+   "url": "https://play.google.com/store/apps/details?id=com.wf.wellsfargomobile&hl=en&gl=us",
+   "rating": 4.84,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 105,
+   "opportunityScore": 22,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 35,
+     "share": 33,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "always bugs. often can't log in because of bugs. this app is clunky and wells Fargo is the Dane cook of banks and if apps. awful. maybe spend more time reading correspondence from your clients rather than counting your money and responding to bad reviews.",
+      "The new update has tiny font. Totally botched the refresh guys. Accounts and balances need to take center stage."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 18,
+     "share": 17,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "always bugs. often can't log in because of bugs. this app is clunky and wells Fargo is the Dane cook of banks and if apps. awful. maybe spend more time reading correspondence from your clients rather than counting your money and responding to bad reviews.",
+      "9/12/2024 Not supported with my phone anymore. Seriously? I rely on this app to pay bills. How're you gonna not be supported anymore? 11/22/2026 Happened again. Might as well just uninstall this time."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 16,
+     "share": 15,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "Usually works perfect BUT since the last update on 11/18 I have to do a force stop in order to open the app. Fix it PLEASE!! 🥺",
+      "This update is terrible change it back"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 14,
+     "share": 13,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "using same OS app stopped working no options available Samsung S8",
+      "biometrics suddenly stopped working. it takes 3-4 attempts to log in now. I had no problems with this app until recently. Just deleted the app and redownloaded it. The biometric sign on is still messing up. It keeps saying \"check internet connection\"."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 5,
+     "share": 5,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "9/12/2024 Not supported with my phone anymore. Seriously? I rely on this app to pay bills. How're you gonna not be supported anymore? 11/22/2026 Happened again. Might as well just uninstall this time.",
+      "Credit card customer service is bad, they do not have the information about the transactions that are made and they do not have updates on the calls that one makes."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to be shut down for fraud",
+    "need to take center stage",
+    "should have a Dark mode",
+    "needs a Dark mode especially for the elderly with poor vision their app is too bright and lettering are too light",
+    "need to see my balance that's all I care about",
+    "need to chage for a new one",
+    "Need to find someone else to do business with",
+    "need to pay off my balance so I never have to use the card again"
+   ],
+   "pitch": "A Finance app like Wells Fargo Mobile®, but: works without an account, or simple one-tap login; generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.remitly.androidapp",
+   "title": "Remitly: Money transfer app",
+   "developer": "Remitly",
+   "icon": "https://play-lh.googleusercontent.com/25iUvnmhlVAP1J0dpM1awdRewYayphMPkyVEA1Ro-lpzraA152QveKU18Fq49eConPpxI_u8mns8f-tJ0_5w3g",
+   "url": "https://play.google.com/store/apps/details?id=com.remitly.androidapp&hl=en&gl=us",
+   "rating": 4.84,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 61,
+   "opportunityScore": 18,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 22,
+     "share": 36,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "they deleted my account for no reason, I should be able to send money to where, when , who i want too",
+      "Worst application Don't use because your loved one will never get money when they need it. It's not UK based company."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 11,
+     "share": 18,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "they deleted my account for no reason, I should be able to send money to where, when , who i want too",
+      "Garbage app. I was using it to send money to family overseas and one day they just closed my account. No explanation or anything just closed it for nothing. I emailed support and they said it's closed. No duh morons!"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 5,
+     "share": 8,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "Garbage app. I was using it to send money to family overseas and one day they just closed my account. No explanation or anything just closed it for nothing. I emailed support and they said it's closed. No duh morons!",
+      "Disapointed Remitly my send money was cancel and it should be refund but they not refund my money and i chat help center ai said my ref number have no record they scam me.. 470Au dollar"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 5,
+     "share": 8,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "Disapointed Remitly my send money was cancel and it should be refund but they not refund my money and i chat help center ai said my ref number have no record they scam me.. 470Au dollar",
+      "frustrating. zero trust. almost scam.."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "very very slow app take alot of time to send money not recommend if you want to send emergency don't use this"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to spend 30 minutes explanation to there customer care team",
+    "need to put your Family name as First name therefore John Doe to Doe John",
+    "should have asked before taking money, un necessary delay, no feedback of delay, no proper answer upon inquiry of delay, dont trust their fairness in dealing"
+   ],
+   "pitch": "A Finance app like Remitly: Money transfer app, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.kikoff.theseus",
+   "title": "Grant Cash Advance",
+   "developer": "Kikoff Inc.",
+   "icon": "https://play-lh.googleusercontent.com/Jao53Si8mnsmwDnB3WCQkCAuuqSluYJWxvnpaBt_YuvF4pu5ccWyUpTi3AMAOBXyjuGpre9loOFbqZdF-wgQ",
+   "url": "https://play.google.com/store/apps/details?id=com.kikoff.theseus&hl=en&gl=us",
+   "rating": 4.79,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 58,
+   "opportunityScore": 17,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 28,
+     "share": 48,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "got 75 dollars my first advance I paid on time my next advance was 25 dollars and I paid that on time now I'm trying to get my 3rd advance and now they can't find my paycheck trash app",
+      "used them for a couple of years but the problems occurred when I changed bank accounts and they aggressively continued to charge my old account, sending it into the negative even though the balances were settled."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 17,
+     "share": 29,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "used them for a couple of years but the problems occurred when I changed bank accounts and they aggressively continued to charge my old account, sending it into the negative even though the balances were settled.",
+      "Good cash advances, but no flexibility on repayment dates and will overdraft your account if you dont hsve enough funds to cover the repayment."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 9,
+     "share": 16,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "I had an extra withdrawal from my debit card and have provided proof of this transaction. Their support are not real humans, when using the email thread. I am disputing this transaction as fraudulent with my bank in order to get my money back.",
+      "worst loan app ive ever dealt with customer service is completely useless algorithm almost always wrong pay on time just for them to offer 1/4 of what they offered before smh 10$ a month for what?"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 6,
+     "share": 10,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "you pay 9.99 a month to borrow 20$ after 3 months you're just giving them money. you're not borrowing anything anymore. these people are pathetic with how they constantly take advantage of the poor. don't fall for this scam."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "fairly easy was recommended by a family member only reason Im trying it. Will update once iv used it a bit more"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Finance app like Grant Cash Advance, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; fast, human support and a public roadmap."
+  }
+ ]
+}

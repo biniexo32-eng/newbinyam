@@ -1,0 +1,24 @@
+{
+  "name": "app-gap-finder",
+  "version": "1.0.0",
+  "description": "Find trending Google Play apps, analyze their bad reviews, and get ideas for a better version.",
+  "scripts": {
+    "start": "node src/run.js",
+    "report": "node src/run.js PRODUCTIVITY HEALTH_AND_FITNESS EDUCATION FINANCE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biniexo32-eng/newbinyam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biniexo32-eng/newbinyam/issues"
+  },
+  "homepage": "https://github.com/biniexo32-eng/newbinyam#readme",
+  "dependencies": {
+    "google-play-scraper": "^10.1.4",
+    "hpagent": "^1.2.0"
+  },
+  "type": "module"
+}

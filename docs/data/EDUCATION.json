@@ -1,0 +1,1348 @@
+{
+ "category": "EDUCATION",
+ "generatedAt": "2026-11-24T00:26:49.491Z",
+ "apps": [
+  {
+   "appId": "com.ixl.ixlmath",
+   "title": "IXL",
+   "developer": "IXL Learning",
+   "icon": "https://play-lh.googleusercontent.com/1zlIcUG2q2lNT0-xakYWXmdE7SKQuKf5kai_ZpUGT72C30lruzQ6leAMqk4HgX_p1F4dsia_f_cbV86InGIhxg",
+   "url": "https://play.google.com/store/apps/details?id=com.ixl.ixlmath&hl=en&gl=us",
+   "rating": 3.89,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 205,
+   "opportunityScore": 104,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 15,
+     "share": 7,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "The app keeps glitching. Math will not even load and when it does it will not let you type in answers.",
+      "Very glitchy app. It regularly crashes for no reason and sometimes it's impossible to submit answers."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 12,
+     "share": 6,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I'm paying all this money for learning app and I'm not even allowed to use the app... after the update",
+      "it's good overall but I hate how it makes you pay for the 3rd lesson and it gets more expensive so you can try it out but I do not recommend"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 12,
+     "share": 6,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I hate this app. I can't even sign in",
+      "this app doesn't work it let me put my username and my password"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 11,
+     "share": 5,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Eddy is so annoying in math coach",
+      "to pay to learn and without IXL life would be way better 😌 and 0/10 and soooo bad 👎 and you only get a little bit of time to learn and it is so annoying"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 7,
+     "share": 3,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "I'm paying all this money for learning app and I'm not even allowed to use the app... after the update",
+      "was the worst app ever the new update so much worse than it already if I could I would give it a 0 star"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to delete itself",
+    "need to fix this, it won't help",
+    "I wish this stupid app would js stop",
+    "need to uninstall and install again bc it's loading and can't go to new ones",
+    "need to talk about it, DONT download it",
+    "needs to go up 10 points each time you get it right like the first time you get an answer right I hate this app it sucks",
+    "need a specific tip of account",
+    "need to stop at telling people to sign up"
+   ],
+   "pitch": "A Education app like IXL, but: rock-solid stability as the #1 selling point; generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.getepic.Epic",
+   "title": "Epic: Kids' Books & Reading",
+   "developer": "Epic Kids Inc.",
+   "icon": "https://play-lh.googleusercontent.com/sk6Aa-h578gTTNLynITakkAh1g7yZDQ6CppwPCSWjvz7MXYsCeLZFl9BWqOJMKxR_rr_YnVlV071WmvLTyOj",
+   "url": "https://play.google.com/store/apps/details?id=com.getepic.Epic&hl=en&gl=us",
+   "rating": 3.88,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 163,
+   "opportunityScore": 96,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 91,
+     "share": 56,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "All of the epic you had to pay for besides my teacher, she's already had epic.All we had to do is choose our profile",
+      "THIS WAS THE WORST APP EVER!! when I wanted to read Big Nate: silent but deadly a stupid family trial comes up! and when I wanted to read another book it's still comes up for no stupid reason! please remove this family trial!"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 21,
+     "share": 13,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "friends PLZZZZZ 🙏😡🙏😡🙏 can u add friends 2 this also i can't remember my class code can u make another way 2 log in ur class code the main topic ADDD FRIENDSSSS",
+      "BUG on My Tablet: I can't touch or select my profile account to switch to parents control or downloaded book. Fix this error ASAP"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 13,
+     "share": 8,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Bug on my tablet, I cant select my profile acount!",
+      "BUG on My Tablet: I can't touch or select my profile account to switch to parents control or downloaded book. Fix this error ASAP"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 5,
+     "share": 3,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "you have to freaking pay for it just to go in a freaking reading app it's a scam I literally had to pay for it and nope get epic please make it free😭✌️🥀",
+      "this is so bad I cant even enter without paying? it said read free but I need to pay! 😠 yall are scammer"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 4,
+     "share": 2,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "the moment I logged in there came the subscription pop up there was no × to make it dissappear I trusted it but it disappointed me .😡",
+      "I like how this can track the time of the books you read but there are random books that pop up on your screen and there are books that have which craft on them plus sum books are weird"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "I wish there's a trial option, without giving payment info",
+    "need to pay for a 7 day free trial when it's a \"free\" 7 day trial",
+    "why doesn't work for me 😔",
+    "need to pay to read at home fix it",
+    "PLEASE add an exit button for the monthly subscription jumpscare",
+    "need a subscription,and I have a September reading log that's due oct",
+    "I wish it was free cause at school",
+    "need to pay for a book to continue"
+   ],
+   "pitch": "A Education app like Epic: Kids' Books & Reading, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.mojang.minecraftedu",
+   "title": "Minecraft Education",
+   "developer": "Mojang",
+   "icon": "https://play-lh.googleusercontent.com/JbaRbEMRaS8-9MT-jS7P_iiqgJZq1OVh6VM-OEaMuHj6em7JV3ZvuBHoFhg6z8lHCIG81d66boVJl7LUTQZJ",
+   "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftedu&hl=en&gl=us",
+   "rating": 4.13,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 73,
+   "opportunityScore": 61,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 20,
+     "share": 27,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I couldnt sign in, and when i did it was really laggy and not like the original minecraft. DO NOT DOWNLOAD IT! (one of the worst mistakes ever, and it wastes your time.)",
+      "it is not good it crash and says sign in 100 times"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "it is not good it crash and says sign in 100 times",
+      "login doesn't work and I don't know why."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "does helped my kid learnt that the only limit is your creativity and he is a bit mentally slow so thank you",
+      "Runs very slow and refuses to let me sign in sometimes. Very fun to play when it works though."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "it says I'm not connected to WIFI but I am I restarted my computer and re-installed it 5 times it still wont work this was really annoying. and does not update like the normal game",
+      "It's a bit laggy sometimes and doesn't get the new updates when they release but it's a good nock-off version and something educational and fun to do at school. I wish it supported mods better but otherwise it's fine."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "it says I'm not connected to WIFI but I am I restarted my computer and re-installed it 5 times it still wont work this was really annoying. and does not update like the normal game",
+      "this game worked for a while now my friend and I are stuck on the sign in thing its so annoying fix ur game"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "why can't I sign in this game",
+    "need a school account just a credit account",
+    "need to Sign in it's just Mine",
+    "I wish it supported mods better but otherwise it's fine"
+   ],
+   "pitch": "A Education app like Minecraft Education, but: works without an account, or simple one-tap login; rock-solid stability as the #1 selling point; lightweight, fast app that works on cheap phones."
+  },
+  {
+   "appId": "es.monkimun.lingokids",
+   "title": "Lingokids: Games & Shows",
+   "developer": "Lingokids - Games, Shows & Songs for Kids",
+   "icon": "https://play-lh.googleusercontent.com/0o0McSNq7R1Mj2ybgLQ1Zbzbrh3m2n_AfqmQpHqX-DjIyrtbKieifGRowq5GOOXTeIOPo2_VNpjgzW59PVD1",
+   "url": "https://play.google.com/store/apps/details?id=es.monkimun.lingokids&hl=en&gl=us",
+   "rating": 4.31,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 85,
+   "opportunityScore": 54,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 29,
+     "share": 34,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "to much money just for a year and learning games no way.sorry but I deleted the app",
+      "my money got deducted automatically even though I don't want to subscribe"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "to much money just for a year and learning games no way.sorry but I deleted the app",
+      "This just charged me $15 for devices I dont even have it on anymore. To a card that wasn't even in the ACCOUNT until 2 days ago AND the phone my son was checking it out on has been lost for over a month."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "This just charged me $15 for devices I dont even have it on anymore. To a card that wasn't even in the ACCOUNT until 2 days ago AND the phone my son was checking it out on has been lost for over a month.",
+      "I hate this game I'm a kid trying to sign in"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 2,
+     "share": 2,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": []
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 1,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "annoying music that can't be turned off!!!! unfortunately this will be cancelled."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "I wish there was more games for the price",
+    "need to be like need subcribtion to have unlimited access",
+    "need to provide card and details"
+   ],
+   "pitch": "A Education app like Lingokids: Games & Shows, but: generous free tier, fair one-time price instead of forced subscription; reliable local storage + easy backup/export; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.polywise.lucid",
+   "title": "Imprint: Learn Visually",
+   "developer": "Polywise",
+   "icon": "https://play-lh.googleusercontent.com/JeirJ5vgIDpiLGDI6e-jgo2dRWTlUDF3-WTmbmyRi6UGbkRVtSvKrdBUb0rQoUrZyK6VDEmqCJHlYAbWSGqOcjw",
+   "url": "https://play.google.com/store/apps/details?id=com.polywise.lucid&hl=en&gl=us",
+   "rating": 4.49,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 180,
+   "opportunityScore": 47,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 125,
+     "share": 69,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "you have to pay to use it, the app is free to download, but it is not free to use. I'm not paying for something that I can just go on youtube and look up for free. i may have to watch ads, but at least it's free.",
+      "I was charged on my google account for an anual subscription without any consent after installing this app. Do not Install! Still waiting to hear back about a refund!"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 12,
+     "share": 7,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I was charged on my google account for an anual subscription without any consent after installing this app. Do not Install! Still waiting to hear back about a refund!",
+      "I tried for 3 hours on and off to login, delete the app, re-download it, update it, etc. I was able to do 1 lesson and no others would load. Super frustrating as now I can't even use my 7 day trial to see if I would keep the app."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 12,
+     "share": 7,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "Scams your money even after canceling the subscription",
+      "DO NOT DOWNLOAD! You cannot use the app without credit card info. Likely SCAM"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 9,
+     "share": 5,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "you have to pay to use it, the app is free to download, but it is not free to use. I'm not paying for something that I can just go on youtube and look up for free. i may have to watch ads, but at least it's free.",
+      "Gave up after minutes of ads for the app just getting started abs then it constantly trying to push me into a trial or premium before I even had a chance to truly try it."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 6,
+     "share": 3,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Great learning tool. Good content for anyone. I really didnt like the interface or lack of customization of how things were presented. im used to seeing pictures above words so you can relate what you are seeing to text.",
+      "Very Basic knowledge on here. well designed and looks good but not for those wanting to build on a decent knowledge base."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "I wish they'd add a student plan that was cheaper",
+    "need to pay developers or whatnot but its just not the angle",
+    "need to work hard to motivate myself to log on every day and I've never entered a state of flow accessing content",
+    "need to pay in order to access the app",
+    "need to contact your customer service department",
+    "need to pay for a subscription to even use the app LOL",
+    "needs to remember to opt out of it they don't want or can't afford that"
+   ],
+   "pitch": "A Education app like Imprint: Learn Visually, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; privacy-first: minimal permissions, no tracking, works offline."
+  },
+  {
+   "appId": "org.pbskids.video",
+   "title": "PBS KIDS Video",
+   "developer": "PBS KIDS",
+   "icon": "https://play-lh.googleusercontent.com/_3Y88Z1U9qWcPCH19tpTcFgbK2pBdxh2S0O1Qt4YfcUPfkWwW3bh9Xnp53JcCHFKtCbc6iY7x-3ObQzitmAkZQ",
+   "url": "https://play.google.com/store/apps/details?id=org.pbskids.video&hl=en&gl=us",
+   "rating": 4.34,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 80,
+   "opportunityScore": 46,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 11,
+     "share": 14,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "App no longer works. Error code over and over. I have a mad, non-verbal kiddo who misses PBS kids, lol. Please fix it. .........",
+      "suddenly stopped working altogether"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 5,
+     "share": 6,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "App isn't working after recent update",
+      "Used to love. Not working now. Error GA-100."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 5,
+     "share": 6,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "not very user friendly interface, can't download episodes but have the option.?",
+      "starts playing annoying video as soon as tou start the app"
+     ]
+    },
+    {
+     "theme": "offline",
+     "label": "Needs internet / no offline mode",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Full offline mode",
+     "quotes": [
+      "now all of a sudden when i enter the app thier is a network issue",
+      "It would be a great app if actually worked. It keeps saying i need to fix the wifi. My wifi is always connected"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 1,
+     "share": 1,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "I wish the app has lock on it where the child doesn't press any buttons to exit the app and go I",
+    "need to auto play while I'm scrolling to find the show my kids want",
+    "PLEASE ADD THE FUNCTIONALITY TO DISABLE AUTO PLAY 😭",
+    "need to fix the wifi",
+    "Needs a search feature"
+   ],
+   "pitch": "A Education app like PBS KIDS Video, but: rock-solid stability as the #1 selling point; keep the features users loved in the old version; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "aitutor.ailanguagelearn.ailearning",
+   "title": "Langla: AI Language Tutor",
+   "developer": "Aquaworld Infotech",
+   "icon": "https://play-lh.googleusercontent.com/R3EEk58yLKZwEX4aglqR-rdJsaPnawNFpb8I2zbafZZfIymV8G6M3vvmrr8-s3PWz9OPI_kqXYwoCWC6tQnXNw",
+   "url": "https://play.google.com/store/apps/details?id=aitutor.ailanguagelearn.ailearning&hl=en&gl=us",
+   "rating": 4.56,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 133,
+   "opportunityScore": 42,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 60,
+     "share": 45,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "so much ads, I couldn't even get in the app once I downloaded it. it just keeps popping out ads non stop. I can't even press the next button.",
+      "unplayable with ads... at least 10 ads before I could even get into the real chat. it was absolutely horrible. more ads than on a super cheap dumb game...so so so many ads"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 4,
+     "share": 3,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "fraud, 1st said free and after download asking the money",
+      "Fake App, Making fool Ads more then practice Premium purchase charges 19k+ If you want to rate the app below 4* they will not forward your rating to play store it is better use duolingo"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 3,
+     "share": 2,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "please don't download wasteful app I just installed this app & got a bunch of ads from the beginning & too slow app just by clicking once any button you will get another ads back to back",
+      "faltu app aisa lag raha hai sirf ads hai is mai 😏😒"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 3,
+     "share": 2,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": []
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 2,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "with every tap on my phone, an ad pops up which is extremely annoying."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to watch ads for 2 hours"
+   ],
+   "pitch": "A Education app like Langla: AI Language Tutor, but: few or no ads (or a one-time \"remove ads\" purchase); generous free tier, fair one-time price instead of forced subscription; lightweight, fast app that works on cheap phones."
+  },
+  {
+   "appId": "com.ellotechnology.learn",
+   "title": "Learn Math & Reading: Ello 2.0",
+   "developer": "Ello",
+   "icon": "https://play-lh.googleusercontent.com/3liytPSIsfz1yISmVpEM7CrGlN3GZJC6S1_nrR3yqxgT-tCSnQwO8vNxKy4C1IjBgqzALnAWSH6j_5XGkYcpQkg",
+   "url": "https://play.google.com/store/apps/details?id=com.ellotechnology.learn&hl=en&gl=us",
+   "rating": 4.07,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 141,
+   "lowStarReviews": 23,
+   "opportunityScore": 38,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 5,
+     "share": 22,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "While signing up, I have realised it doesn't accommodate children born from 2023. It's just from 2013-2022",
+      "l installed this app thinking it would help but as I was signing in,it kept on repeating the same process over and over again and it was really tiring"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 4,
+     "share": 17,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "I hate it i did the code and it is not working 😡"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 2,
+     "share": 9,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "This app made me put all my child's details including her likes then and then tells me that it doesn't support her at this age. I feel this feels like information harvesting, why not just tell me that upfront! THIS IS SO WRONG AND PATHETIC"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Learn Math & Reading: Ello 2.0, but: works without an account, or simple one-tap login; rock-solid stability as the #1 selling point; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "ai.mybuddy.talkingflashcards_new",
+   "title": "Buddy.ai: Kids Learning Games",
+   "developer": "AI Buddy Inc.",
+   "icon": "https://play-lh.googleusercontent.com/_IphkI0Jybo8xHP_L1RMSE9f4RvLVOGL-lxWPM3R168Vgf8gJjsYdY56Ih1Y0KFdbINWJpPSaqTjcsqZU8Hc",
+   "url": "https://play.google.com/store/apps/details?id=ai.mybuddy.talkingflashcards_new&hl=en&gl=us",
+   "rating": 4.58,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 70,
+   "opportunityScore": 35,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 24,
+     "share": 34,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "it's really bad and it's one star. I pick one star because it's really bad and cost money 💰💰💰",
+      "Awful. It was affordable and now really expensive for what it is. It wont even let you chat for 10mins now on trial mode. very dissapointing."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 6,
+     "share": 9,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "no support team after 20 hour ticket",
+      "BEWARE OF THIS APP!!!! Signed up for the free trial and they charged me $37.44. Refused to refund me even though I immediately canceled the subscription. Extremely poor customer service! Bait and switch tactics!"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I purchased the subscription but I cannot able to login . I cannot able to access the premium content. please help me how to login.",
+      "It's very interactive and keeps my child engaged; however, my daughter can't login with her tablet after using my phone to create the account. It gives us the run-around. I bought the 6 month plan and couldn't even use it. We switched to ABC Mouse."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "I don't like it because the app doesn't seem to have the drawing update YOU SCAMMER",
+      "Kiddo is super disappointed that she cant open the daily gift anymore. Is your app broken? Update: Every day she attempts to open the gift, buddy responds with, \" I dont have enough energy, let's try again tomorrow.\""
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "I don't like it because the app doesn't seem to have the drawing update YOU SCAMMER"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "should have to start a trial without seeing the subscription price clearly upfront",
+    "need to be more specific than that",
+    "needs to be fixed because it keeps this it keeps this"
+   ],
+   "pitch": "A Education app like Buddy.ai: Kids Learning Games, but: generous free tier, fair one-time price instead of forced subscription; fast, human support and a public roadmap; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.codeway.aitutor",
+   "title": "Learn English, Spanish: Learna",
+   "developer": "Codeway Technologies",
+   "icon": "https://play-lh.googleusercontent.com/XNk6uQwmWG9XJuLpYfPICi_blcfTIxkuWSEZDvr9PxbKRvym_oNMjaqf0mWYeOKT8GEcPZ1ijifQgP-lhcvh1hQ",
+   "url": "https://play.google.com/store/apps/details?id=com.codeway.aitutor&hl=en&gl=us",
+   "rating": 4.62,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 73,
+   "opportunityScore": 33,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 18,
+     "share": 25,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "priced way too high. not worth it",
+      "This app has misleading advertisements and is not actually free. After only three exercises, you have to pay. An app that uses false advertising will probably provide an even worse experience after you pay."
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "Misleading;it's paid while ads show its free",
+      "I seen an ad for this app saying that it was completely free but after you start the course you're forced to get a free trial for a membership don't believe it it is not free."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "Why you deduct Rs. 2800 from my bank account without permission. This is a wrong way and fraudulant method."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 1,
+     "share": 1,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": []
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 1,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "would be great if the app added Russian",
+    "need to pay money So i hate this dumb game"
+   ],
+   "pitch": "A Education app like Learn English, Spanish: Learna, but: generous free tier, fair one-time price instead of forced subscription; few or no ads (or a one-time \"remove ads\" purchase); works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.deepstash",
+   "title": "Deepstash: Smarter Every Day!",
+   "developer": "Smartheads",
+   "icon": "https://play-lh.googleusercontent.com/uUnPmZr57trcfcHtxJkrxpbwIUeUNnx0Xl28HzVFl9dbAZN7gxV__Ws862LxtOrB5W9EFYevT4d_mvTDpt_W",
+   "url": "https://play.google.com/store/apps/details?id=com.deepstash&hl=en&gl=us",
+   "rating": 4.67,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 120,
+   "opportunityScore": 32,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 71,
+     "share": 59,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Deleted it immediately when I got to the free trial screen. I'm not interested in a \"TikTok replacement\" that welcomes me with a Free Trial / subscription model.",
+      "advert saying is on offer but the actual price is 5times more than advertised"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 15,
+     "share": 13,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "It is 99% AI, but prices are for a 1000 people team, commercials are garbage, no permanent/forever option to buy.",
+      "too many ads it became annoying"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 9,
+     "share": 8,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "can't pass login screen, Google or Facebook, doesn't matter. it's just stuck!",
+      "can't view any content without creating an account"
+     ]
+    },
+    {
+     "theme": "notifications",
+     "label": "Spammy notifications",
+     "mentions": 7,
+     "share": 6,
+     "fix": "Quiet by default, fully controllable notifications",
+     "quotes": [
+      "It all looks good, until..... You give them all of your information, THEN you find out that you have to pay for it. Gee, thanks. Now they'll bombard me with unwanted emails.",
+      "app is fine but I never used it then it was nearly impossible to cancel it get my refund within the 30-day window. scammy. UPDATE: a week later company is ignoring my emails requesting refund. As a result, I started a dispute with my credit card company."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 7,
+     "share": 6,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "the app is not bad, would give 4 stars, but the company is tricky, automatically prolonging subscriptions and taking money from users. customer service is ignorant, not replying",
+      "Customer service never replies."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "I wish I could give a review based on the app content, on whether I liked it or not"
+   ],
+   "pitch": "A Education app like Deepstash: Smarter Every Day!, but: generous free tier, fair one-time price instead of forced subscription; few or no ads (or a one-time \"remove ads\" purchase); works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.aofl.abcmouse",
+   "title": "ABCmouse: Kids Learning Games",
+   "developer": "Age of Learning, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/EmIdsznf-pipDHZLifhSa0BAZJBoojVGea8_L-D2pzUAEl66uu4NPcr86BYAMUKgR1UifJ_eQI64zMK2KzUnFw",
+   "url": "https://play.google.com/store/apps/details?id=com.aofl.abcmouse&hl=en&gl=us",
+   "rating": 4.56,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 70,
+   "opportunityScore": 31,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 35,
+     "share": 50,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I am so frustrated. I've paid for this for 2 years on my laptop & can't figure out how to set the correct learning level. Please help!",
+      "kid can't play most games do to , premium games are more money.."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 11,
+     "share": 16,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "The crashing of the app constantly is very aggravating. I've done all I know how, and it still crashes",
+      "App keeps crashing. so upsetting for my 3yo. only goes 3 minutes before a crash at most, sometimes as fast as 20 secs"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "Absolutely no customer service or support. They will contact you via email regarding your experience but will not let you submit negative feedback. The new app is full of bugs and their advice is to exit the app and restart.",
+      "Someone used my card to pay for something from this website and i contacted to cancel and receive refund, but they were not helpful."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "so glitchy if this doesn't get fixed in going to ask for a refund. it used to be great when we could use classic this new one takes forever to load the videos are slow and it crashes constantly",
+      "Unable to cancel, I am being billed twice for this app and they make it impossible to cancel. I am still dealing with them wanting to cancel to no avail! Update: I was able to cancel but no refund was offered, I am just glad to be done with this app."
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "this ads getting app of this app I hate abc mouse 😭😭😭😭😭 someone ban abc mouse",
+      "Why so many ads and clicks before you even get to the learning section? I hate this for me."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to get rid of this or at least put the classic back on app stores",
+    "need to access it without having to call customer care"
+   ],
+   "pitch": "A Education app like ABCmouse: Kids Learning Games, but: generous free tier, fair one-time price instead of forced subscription; rock-solid stability as the #1 selling point; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "lingospeak.english.learnlanguage.speak",
+   "title": "EngLearn Speak: AI Tutor",
+   "developer": "DQL TechLab",
+   "icon": "https://play-lh.googleusercontent.com/IwagOQ5WQVwInojYyRu_jH5WR2lMPH7eMpwIs5QLjto2H99b7x46zCiV3GDiuVlnmnhfMtutSNZxRcrluVQuaQ",
+   "url": "https://play.google.com/store/apps/details?id=lingospeak.english.learnlanguage.speak&hl=en&gl=us",
+   "rating": 3.79,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 44,
+   "lowStarReviews": 15,
+   "opportunityScore": 31,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 9,
+     "share": 60,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "The worst app ever . Like it doesnt even let me in the app. Theres like a hundred's of ads popping up . I wish I could give half star",
+      "i couldnt even get past setting up. Ads keep getting in the way."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 1,
+     "share": 7,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "what absolute rubbish, don't install it, they are scammers! u cant even get to the real app they will just put bunch of useless ads u cant even register i am so pissed rubbish"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "I wish I could give half star"
+   ],
+   "pitch": "A Education app like EngLearn Speak: AI Tutor, but: few or no ads (or a one-time \"remove ads\" purchase); privacy-first: minimal permissions, no tracking, works offline."
+  },
+  {
+   "appId": "com.picoai.languageapp.android",
+   "title": "Language Learning: Pingo AI",
+   "developer": "Pingo AI, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/I0vdd_Q9a1ERwNgn9egMmkzD8R7a4wpTJoq0m-MqaHzDSTGKY_QPIKiXnWk78ajiI5qoRIB8cDT7we7ZYQC9",
+   "url": "https://play.google.com/store/apps/details?id=com.picoai.languageapp.android&hl=en&gl=us",
+   "rating": 4.62,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 81,
+   "opportunityScore": 30,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 25,
+     "share": 31,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I have to pay to even use the app, and at least have people pay for more advanced things not pay to learn in general, I think it would have helped me if I had money but I don't so I'd but thins isn't good for people with no money.(<3 duolango)",
+      "Looks good, but you have to pay?????? >:("
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 4,
+     "share": 5,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "the problem with this app is it doesn't have learning structure, it's not designed for beginners it's for people that already know chinese but doesn't have speaking partner.",
+      "verbose, annoying, and doesn't hear me correctly"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 2,
+     "share": 2,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "As others, free trial 7 days but as soon as you open its sign your payment details over, for the full year! no other options. Also no confirmation if you have closed the account or they will hit you account in 7 days."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 2,
+     "share": 2,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "This app used to be good. the AI now doesn't listen to you. you can get through conversations now without saying a word. you just get a scripted response regardless"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 1,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "glitch a lot don't waste your time I'll give this app a solid 0/10"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "why can't it talk and not type back",
+    "I wish there was alaskan native languages 😔",
+    "need to buy something like i hate it so much"
+   ],
+   "pitch": "A Education app like Language Learning: Pingo AI, but: generous free tier, fair one-time price instead of forced subscription; clean, simple interface that does one thing well; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.duolingo",
+   "title": "Duolingo: Learn Languages",
+   "developer": "Duolingo",
+   "icon": "https://play-lh.googleusercontent.com/pqFmHbv3xch90DSVOb5yPXiTSzhRUNeKwayFQog3ljIBfvDGyUBAJv7wX1ympc5mE__G6Mult5pd4siYXsp4Bg",
+   "url": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=us",
+   "rating": 4.75,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 48,
+   "opportunityScore": 27,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 6,
+     "share": 13,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "la desinstalé y di de baja al premium porque se unieron a la campaña anti argentina en twitter, fomentando el racismo y la xenofobia hacia nuestro país. no puedo permitir que mi dinero vaya a financiar esas cosas. una vergüenza que ni siquiera se disculparon."
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 6,
+     "share": 13,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "The last update removed the option of recharging energy with ads. Overall a very good app and it's fine to practice a bit of foreign languages, but the impossibility of recharging energy without paying is a downgrade for casual learners",
+      "very persistent notifications, too many ads, and very hard words. I often forget the words that is taught to me. my teacher teaches better than duolingo. if you want to get it, beware of the notification."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 3,
+     "share": 6,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "OK SO THIS ACTUALLY REAL AND I DID DO MY LESSON SO I WAS PLAYIG A GAME AND THEN GOT A NOTIFICATION OF CALNDER AND EVERY DAY IT DO MY DOULING LESSON LIKE WHAT I GOT SO SCAY I DELETED IT BUT THEN I WHENT BACK TO THE GAME MY HOMESCREEN WAS DIFFERENT",
+      "this app has more than 100 bags like today I need to get 3x XP for tomorrow for last quest and it has been deleted by the super Duolingo ad"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 3,
+     "share": 6,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "The last update removed the option of recharging energy with ads. Overall a very good app and it's fine to practice a bit of foreign languages, but the impossibility of recharging energy without paying is a downgrade for casual learners",
+      "No Thai, but has a fictional made up language you can learn LOL... Update: 2 years later, and still no Thai 👎​"
+     ]
+    },
+    {
+     "theme": "notifications",
+     "label": "Spammy notifications",
+     "mentions": 3,
+     "share": 6,
+     "fix": "Quiet by default, fully controllable notifications",
+     "quotes": [
+      "so much spam. every time you complete a lesson you have to sit there for a minute while it spams all these points stuff at you which are unskippable. I just close it and reopen after every lesson now to get around it",
+      "very persistent notifications, too many ads, and very hard words. I often forget the words that is taught to me. my teacher teaches better than duolingo. if you want to get it, beware of the notification."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to get 3x XP for tomorrow for last quest and it has been deleted by the super Duolingo ad"
+   ],
+   "pitch": "A Education app like Duolingo: Learn Languages, but: generous free tier, fair one-time price instead of forced subscription; few or no ads (or a one-time \"remove ads\" purchase); reliable local storage + easy backup/export."
+  },
+  {
+   "appId": "com.hellosimply.simplydraw",
+   "title": "Simply Draw: Learn to Draw",
+   "developer": "Simply Ltd",
+   "icon": "https://play-lh.googleusercontent.com/RuQeWU_LnBVvAzjLp2xpAd40nthXg0-QvlP9gtS0SjHFfgvCWv_ly4ev9D_vNzzEKFiWNCRuOhGrnMaOiV9gRQ",
+   "url": "https://play.google.com/store/apps/details?id=com.hellosimply.simplydraw&hl=en&gl=us",
+   "rating": 4.72,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 91,
+   "opportunityScore": 27,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 58,
+     "share": 64,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "just not that good i cant draw anything without having to pay it says its free but i cant do stuff because it makes me buy mebership",
+      "it's good but once you finish your fixh for your starter drawing you have to pay money : don't download if your rich maybe you can"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 3,
+     "share": 3,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": []
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 2,
+     "share": 2,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "has to pay and in the ads no need to pay but it lied"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 1,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "It Is s the best app And it Lets You take Time and your Own Designs But When Free Trail Is Over You Have To Pay"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 1,
+     "share": 1,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "need to pay for how to drop",
+    "need to pay only for drawing it's unfair",
+    "need to pay but it lied",
+    "I wish it was free I did the intro they told me to pay",
+    "needs to pay don't trust this app it always fake let's just do YouTube step by step drawing posts without using this",
+    "need to pay money one for the games 😞🙎🙎🙎🙎🙎🙎🙎",
+    "need to press the path thing and I have pay thing idk what to do so I deleted it 😭🤬",
+    "need to pay and it's not letting me go on my other acc 😭"
+   ],
+   "pitch": "A Education app like Simply Draw: Learn to Draw, but: generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline; few or no ads (or a one-time \"remove ads\" purchase)."
+  },
+  {
+   "appId": "teaching_com.reading_com",
+   "title": "Learn to Read: Reading.com",
+   "developer": "Teaching.com",
+   "icon": "https://play-lh.googleusercontent.com/OkR0zZ3w-U734hzA5HVBxc4HCevqDBBH3SRj5JmvG7Z4pZmWmLvmMgyI6p-6Gi_BQKW2PJBJJ3Z6-ptpJSGy",
+   "url": "https://play.google.com/store/apps/details?id=teaching_com.reading_com&hl=en&gl=us",
+   "rating": 4.71,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 78,
+   "opportunityScore": 22,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 24,
+     "share": 31,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "signed up for a free week trial and they charged me for the year!! ridiculous",
+      "makes you answer a billion questions, then tries to sell itself to you, then at the end tries to sign you up for a 7 day trial -AFTER ASKIMG FOR YOUR EMAIL. just be honest about your apo ffs."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 8,
+     "share": 10,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "started with lesson 1 and feel like it should be more clear which parts the parents are supposed to read etc. Nervous I spent money on something that doesn't work",
+      "horrible it doesn't work ! glitch freezes"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 4,
+     "share": 5,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "app got some updated lessons and open stopped opening. its stuck at white startup screen. i wouldn't uninstall and install it again because then app will lose my kid's progress"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "terrible app, useless, misrepresented, videos are awful, no audio support. waste of time and space",
+      "No support. I have emailed 3 times."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "need to give my phone number 🤬🤬",
+    "I wish I'd gone with another app",
+    "need more challenging games for my kid",
+    "need to ask for more than the kid's age and reading level to get started",
+    "needs to be more pare tal guidance for using app",
+    "need to spen $70/yr"
+   ],
+   "pitch": "A Education app like Learn to Read: Reading.com, but: generous free tier, fair one-time price instead of forced subscription; rock-solid stability as the #1 selling point; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.classdojo.android",
+   "title": "ClassDojo",
+   "developer": "ClassDojo",
+   "icon": "https://play-lh.googleusercontent.com/SpKDuWLr9hiZag2aUsm8JxkTGHMK-iK96qNc7NVpiit0KWPpkVmXP0dN8T8B-kzYI0jH1E-wjE6kT5lNOyaF",
+   "url": "https://play.google.com/store/apps/details?id=com.classdojo.android&hl=en&gl=us",
+   "rating": 4.83,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 73,
+   "opportunityScore": 21,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 20,
+     "share": 27,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "This year is the worst it won't let you login you have to now pay for dimple messages",
+      "constant money grabbing spam, even with optional notifications turned off, the apps just beg for money through messages, which you cant filter"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 8,
+     "share": 11,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "it was bad I cond not log in to it",
+      "This year is the worst it won't let you login you have to now pay for dimple messages"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 6,
+     "share": 8,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Dear ClassDojo: when I always like play then when I go up it's just going down even if it's literally perfect and I would like penguins cats and more animals that can walk and in Ramadan design and eid design when they come",
+      "its ok but the new update is just trash. Whenever I scroll, it sorta glitches and messes up wherever i am. Adding tutors and design is also pretty bad. It was better before when it was simpler."
+     ]
+    },
+    {
+     "theme": "notifications",
+     "label": "Spammy notifications",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Quiet by default, fully controllable notifications",
+     "quotes": [
+      "going down to 1 star. now it has me logged in, i get emails telling me about my kid, but somehow i need to reconnect to the class and indicate who i am. this is a useless app. super buggy and glitchey. slow and unresponsive every time you use the app.",
+      "constant money grabbing spam, even with optional notifications turned off, the apps just beg for money through messages, which you cant filter"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "need to reconnect to the class and indicate who i am",
+    "need a bhavey thing",
+    "should have to pay for something out child is in",
+    "needs to have the feature of showing or informing us that the teacher has SEEN the messages we sent",
+    "needs to be better on uploading pictures",
+    "would be better if I or parents could Pay for it monthly or weekly not only a year not every one can afford that",
+    "needs a deleted system ONE STAR 😔",
+    "needs additional guidance on the day"
+   ],
+   "pitch": "A Education app like ClassDojo, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "de.knowunity.app",
+   "title": "Knowunity: AI Study & Homework",
+   "developer": "Knowunity",
+   "icon": "https://play-lh.googleusercontent.com/NeHR1NWpXxXgN3y9nLZUeJu3HFL3OAD3pHg56xDD39eGZ9egECK1AaGHz3162L--Fn2TA4vNC7y3k1sT_2ffKQ",
+   "url": "https://play.google.com/store/apps/details?id=de.knowunity.app&hl=en&gl=us",
+   "rating": 4.77,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 19,
+   "opportunityScore": 17,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 6,
+     "share": 32,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "the \"pay to get\" is really difficult for students we don't have money",
+      "too much payment, and as a student, I don't have money of my own"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 1,
+     "share": 5,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "it actually bad I don't want other people to see my account"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Education app like Knowunity: AI Study & Homework, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.lingtutor.language.learn",
+   "title": "Lingtutor: AI English",
+   "developer": "MTD TECHNOLOGY COMPANY LIMITED",
+   "icon": "https://play-lh.googleusercontent.com/lKJguDLvUgxjabMvLH7CbKATBaL42co2O3ibvxxFht2PKYtQhKF00wnMv-Xj_lKlNuPpSIkTtBV_2YkC_wwA",
+   "url": "https://play.google.com/store/apps/details?id=com.lingtutor.language.learn&hl=en&gl=us",
+   "rating": 3.92,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 5,
+   "lowStarReviews": 0,
+   "opportunityScore": 2,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  }
+ ]
+}

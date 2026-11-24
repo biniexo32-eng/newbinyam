@@ -1,0 +1,1429 @@
+{
+ "category": "HEALTH_AND_FITNESS",
+ "generatedAt": "2026-11-24T00:25:54.024Z",
+ "apps": [
+  {
+   "appId": "com.fitbit.FitbitMobile",
+   "title": "Google Health (Fitbit)",
+   "developer": "Google LLC",
+   "icon": "https://play-lh.googleusercontent.com/W1N5QAjSPsNwmwLo135MWqTnlCpkULVTVvf4eN_FekTOJ3gV53vi_lhxd3pk8oVXdUuqKPU8SkhA1iRnPzJeng",
+   "url": "https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile&hl=en&gl=us",
+   "rating": 3.6,
+   "installs": "100,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 239,
+   "opportunityScore": 166,
+   "painPoints": [
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 47,
+     "share": 20,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "doesn't sync with the things fitbit did in the past. including my capital one cards",
+      "Not syncing with other apps or takes hours to sync"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 46,
+     "share": 19,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "downloading the update for my Versa 4 and Samsung Versa has been a nightmare. let's download and install the latest and appropriate software for my phone/watch before any more rating instalation recommendations, please!",
+      "since the update my connected apps are still not syncing. My steps and exercise activities are missing. I disconnected, reconnected, uninstalled, reinstalled and still not synching. After years with Fitbit/Google Health I will switch to another smart watch."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 27,
+     "share": 11,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "improved from one star but a long way to go. the UI is still bad.",
+      "I miss the old fitbit app. this app is so cluttered and unreadable now. looking for a new app/watch because I just can't use this one anymore. Google really broke a good product"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 21,
+     "share": 9,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "please roll out all the features in Nepal as well. its frustrating not to have all the features even when using premium account.",
+      "Google don't care about old watches like the Fitbit Charge 2... Ever since Google took over the watch no longer syncs on it's own or tells me if it's on low power, thank you for ruining this app Google👍👍👍👍👍😮‍💨😮‍💨😮‍💨😮‍💨"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 18,
+     "share": 8,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "I linked this to the Vitality app as advised before 31st October, but now it seems to have unlinked itself and I'm missing out on all my Vitality points! Instructions are not working to relink it. I'm just going round in circles. Very frustrating!",
+      "The app is not working properly. I've followed all the help instructions and still can't see my sleep, plus it's not recording my steps"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs and doesn't shove the AI coach in my face",
+    "need a credit card",
+    "needs to me user friendly and give practical, understandable data analysis",
+    "NEED TO GET IT TOGETHER",
+    "would be great if we could get an update that allows for time ranges to be adjusted",
+    "should have simply copied the program and changed the name and then added improvements (if they had any)",
+    "Needs ability to add notes",
+    "I wish I could give a negative stars"
+   ],
+   "pitch": "A Health & Fitness app like Google Health (Fitbit), but: reliable local storage + easy backup/export; keep the features users loved in the old version; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.weward",
+   "title": "WeWard - Walk & Earn Rewards",
+   "developer": "WeWard",
+   "icon": "https://play-lh.googleusercontent.com/Z6tFQJDixN_5u_U_nJK9HMTmr0AkWKm-m8ZeQ837Attyd_sirYvG_AcdB1_MTNBwqSt69nBMtxdJjbcoB7Lpdw",
+   "url": "https://play.google.com/store/apps/details?id=com.weward&hl=en&gl=us",
+   "rating": 4.18,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 158,
+   "opportunityScore": 73,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 21,
+     "share": 13,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "this app tricks you into paying $50 for premium by offering a \"free week\" but makes it impossible to cancel before forcing you to pay kind of stupid to pay anything for an app that you installed to earn money",
+      "this app along with the help of Google made a unauthorized charge on my card and I want my money back now"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 19,
+     "share": 12,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "don't bother they are a scam I guess I can report them to the FBI the 8th time",
+      "to get 15 EUR u need 300000 points which u won't get in a lifetime.anpther scam I deleted"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 14,
+     "share": 9,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "does not count all your steps does a lot of glitching my watch counts every single step, this app is annoying needs tweeting, plus u have to carry phone every where with u.",
+      "Glitches a lot and doesn't count steps even after troubleshooting with phone's health app and this app. Which is a shame, I was hoping this one would work."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 14,
+     "share": 9,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "I was playing one of the games on there to rank up coins and when I went back after playing it for hours it was gone and I made no coins",
+      "so far im not impressed. the widget isnt even working and I somehow lost 1,000 steps while im still currently walking."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 12,
+     "share": 8,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "The customer service is non-existent. I have a major problem with my points being deducted unfairly, and I have contacted support several times without any response. I expect a solution and a reply.",
+      "This app are scam even what they claim to be a support team are not helping issues at all, they are all scammers"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "would be nice to have a phone number or an online chat to be able to talk to someone and getting it working like it did before",
+    "would be great if it synched with my Garmin as my watch tells me i have walked more steps than the app itself",
+    "need to do a lot of walking",
+    "NEED TO LOG 4 OUT OF THE 7 STEP GOAL THAT I ENROLLED IN THAT I SPENT 50 WARDS ON",
+    "need to remember every time at midnight to convert it",
+    "need a minimum of $10 to do so",
+    "why doesn't it track distance anymore",
+    "should have earned at milestones reached"
+   ],
+   "pitch": "A Health & Fitness app like WeWard - Walk & Earn Rewards, but: generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.planetfitness",
+   "title": "Planet Fitness",
+   "developer": "Planet Fitness",
+   "icon": "https://play-lh.googleusercontent.com/hl886xdFkA1n5IeSHFXVnzsqsaAlG0sMn-XLLH9hfPeoT_Tcg4XpL4a32iAAojIpxowlu4EMkmwUCY7wifX-",
+   "url": "https://play.google.com/store/apps/details?id=com.planetfitness&hl=en&gl=us",
+   "rating": 4.51,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 239,
+   "opportunityScore": 62,
+   "painPoints": [
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 90,
+     "share": 38,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "Update was trash and the ads are annoying.",
+      "11/19 Update- issuse is still not resolved. The app sucks still. The update is horrible. The app is no longer tracking my check-ins and all past data is gone too. Of course no one knows the solution or can be bothered to fix it."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 30,
+     "share": 13,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "App won't let me login. They get rid of cards but won't make sure the app functions. Dumb.",
+      "this new update is bad who ever came up with the idea needs to be fired. took forever to log in my account and still directs me to website I couldn't work out as scheduled definitely canceling this going to a different gym"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 28,
+     "share": 12,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "App is no longer compatible with my device. No one should be forced to upgrade their device To be included in services they already pay for. My device works just fine I'm not looking to upgrade it anytime soon. Goodbye PF.",
+      "WOULD MAKE ZERO STARS IF I COULD. i have a separate digital subscription but its asking me to upgrade to black card+ and i do not have access to the +features anymore even though i was charged!!! i have emailed repeatedly asking for a refund. total BS"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 25,
+     "share": 10,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "I can't even log in anymore?? What's going on??? I can't go to the gym without my barcode. Even the full website is glitching and won't let me log in!!",
+      "app not working, please fix this problem thanks Dee"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 21,
+     "share": 9,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "11/19 Update- issuse is still not resolved. The app sucks still. The update is horrible. The app is no longer tracking my check-ins and all past data is gone too. Of course no one knows the solution or can be bothered to fix it.",
+      "Is the crowd meter gone from the homepage? That is the only useful feature I use this app for, to check how busy my local gym is. I use this app for two reasons only: 1. Check-in, 2. Crowd meter. Bring back the crowd meter to the homepage."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "please add the cancellation on the app",
+    "NEEDS TO BE FIRED, NOW",
+    "needs to be fired",
+    "need to register two forms of payment",
+    "need an internet connection for the app to open my pass",
+    "Why can't I delete or edit an entered activity anymore",
+    "would be nice to have that back",
+    "need an animation telling me to have a good workout"
+   ],
+   "pitch": "A Health & Fitness app like Planet Fitness, but: keep the features users loved in the old version; works without an account, or simple one-tap login; generous free tier, fair one-time price instead of forced subscription."
+  },
+  {
+   "appId": "com.watch.life",
+   "title": "VeryFit",
+   "developer": "Smart Wearable Devices",
+   "icon": "https://play-lh.googleusercontent.com/ovCgtoHIy_ZZdE5suYg_y7znwNHfEyF_i97CCFh00_BXR1x8BqqocGW3eBgFoEDSHoO0EPumR9fRdglBxLI7Lg",
+   "url": "https://play.google.com/store/apps/details?id=com.watch.life&hl=en&gl=us",
+   "rating": 4.42,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 191,
+   "opportunityScore": 62,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 46,
+     "share": 24,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "Absolutely useless with your full page screaming ads. As soon as my new watch gets here I will delete you!",
+      "having loud ads anytime you start up the app was an idiotic choice. it taking 20 seconds just to get to the app because of the ad is also an idiotic choice. I didn't expect a lot getting a knockoff watch it was fine until you shoved ads down my throat."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 36,
+     "share": 19,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "i just wanted the watch updated. Nothing to write on. No watch faces, adds aplenty and doesn't seem to have customization to the watch either. Thank you",
+      "Since the last update(nov 2026), watch sleep patterns do not calculate the REM sleep anymore. why why why?"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 15,
+     "share": 8,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "DO NOT PAY FOR SUBSCRIPTION!!! they will take your money and if your device is defective and you have to return it they WONT cancel your subscription or refund and they can no human help, all AI chat",
+      "it was good years ago. now it is a money grad with no helpful health information even from the watch"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 14,
+     "share": 7,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "The app is awful. It kept crashing and freezing my phone. Disconnecting my other Bluetooth devices. And over all was just a nightmare to have open. It force paired Bluetooth and kept looking for the first arch whenever I turned on Bluetooth. Had to uninstall",
+      "App doesn't work. You can refresh all you want. It won't load."
+     ]
+    },
+    {
+     "theme": "notifications",
+     "label": "Spammy notifications",
+     "mentions": 12,
+     "share": 6,
+     "fix": "Quiet by default, fully controllable notifications",
+     "quotes": [
+      "nice but lacking in features . like discord notifications, it's an app I use a lot.",
+      "I'm unable to add my main messaging app (Signal) to the VeryFit app & smartwatch. Therefore I'm unable to receive notifications from that particular one. Disappointed."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to fix this",
+    "need to get reading glasses to see a tiny font YOU put on the app",
+    "need to change the 24-hour display to twelve",
+    "I wish I could send it back",
+    "please add the option to shut off all possible notifications when we load the app",
+    "add the option to shut off all possible notifications when we load the app",
+    "need to watch an ad to login to this app which is a fitness tracker app",
+    "need to be updated) the upsides (long battery life, decent functionality, low price) seemed to work for me"
+   ],
+   "pitch": "A Health & Fitness app like VeryFit, but: few or no ads (or a one-time \"remove ads\" purchase); keep the features users loved in the old version; generous free tier, fair one-time price instead of forced subscription."
+  },
+  {
+   "appId": "com.calm.android",
+   "title": "Calm - Sleep, Meditate, Relax",
+   "developer": "Calm.com, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/Xkdn4M50zGD8JQk4jsNSAu_s5XaaPJDDTifjTi52R3lnKYYhva9mnNsxKG3rE2Ib-yspI90WWXrIqneMHlL0ag",
+   "url": "https://play.google.com/store/apps/details?id=com.calm.android&hl=en&gl=us",
+   "rating": 4.48,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 155,
+   "opportunityScore": 57,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 89,
+     "share": 57,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "charges you every time you even attempt to use it",
+      "hate the fact that most stories and tracks require premium. let the people who cant afford premium have something nice for a change."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 19,
+     "share": 12,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "30-day free trial doesnt open many options. App options ask for additional signing in names and 7-day offers. if",
+      "make an account to use an app I've been using for over a year? why... uninstall"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 14,
+     "share": 9,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "When I paid for the calm app online, right before I entered my email address, it kicked me out. My card was charged and for weeks, I have had no response but generic emails from customer service. Horrible customer service.",
+      "the app is fine but there customer service is a nightmare. After multiple requests and emails still no answer. they decided suddenly to double my yearly payment. Horrible after being a user for some years"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 13,
+     "share": 8,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Awful cash grab. 0/10, disgusting money grubbing design.",
+      "Audio stutter, AI slop and confusing navigation."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 8,
+     "share": 5,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "I used to use Calm and it was free. If you wanted Premium, you would pay more. Now you have to pay. IT'S NOT FREE LIKE IT SAYS. It's time to find a different app.",
+      "Okay well the app changed. I used to be able to change the background and just listen to it. Now it's impossible to find tha part of the app. It was at the top when first opened. Now it's hidden somewhere."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "should have been played on New Years day as this is what Tamara was talking about",
+    "need to make money, however, considering Calm's status at this point, it seems they're either desperate for money or money hungry",
+    "Why can't you assist your paying customers",
+    "need to cancel subscription asap",
+    "i wish it did not make me log in every time i open it",
+    "Should have stayed with Headspace",
+    "need to create an account and a payment plan to play white noise",
+    "I wish it was free, I'm grateful for the free content on here"
+   ],
+   "pitch": "A Health & Fitness app like Calm - Sleep, Meditate, Relax, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.ifit.atlasapp",
+   "title": "iFIT Personal Trainer",
+   "developer": "iFit",
+   "icon": "https://play-lh.googleusercontent.com/R3LDkGbwjvS_DhWMpuZr-lOZFutDwNiDq6QbRILpWLkFg_cT0otCOD3vYDBNAsKoYUeCVyW6J4IopdRI3vrEaQM",
+   "url": "https://play.google.com/store/apps/details?id=com.ifit.atlasapp&hl=en&gl=us",
+   "rating": 4.26,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 114,
+   "lowStarReviews": 62,
+   "opportunityScore": 49,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 12,
+     "share": 19,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "can't get past the pictures to log in. doesn't tell you which pictures to choose. Uninstalled.",
+      "I couldn't get the app to work it kept signing me out no matter what I tried and when I tried to sign back in the questions malfunctioned and I couldn't do anything"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 10,
+     "share": 16,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "this app doesn't actually work if you're a true beginner. it assumes a base level of fitness and assumes a base amount of strength training knowledge. i wanted to like it but it doesn't work for actual beginners.",
+      "App has been glitching, I can't even see my plan."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "App was great until it updated today and now it will not let me complete my sessions without upgrading to tailor +."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "haptic vibrating is ridiculous. I couldn't even give the app a chance because it vibrates every time you respond to the ai bot. there's no way to turn it off even in the phone system settings. ended the trial immediately.",
+      "wants you to pay monthly subscription"
+     ]
+    },
+    {
+     "theme": "offline",
+     "label": "Needs internet / no offline mode",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Full offline mode",
+     "quotes": [
+      "app is stuck on the screen \"Tailoring your fitness plan\" tried several times for hours on different wifi and without wifi"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "would be great that someone contact me and try work this out",
+    "need to wait 18 days to workout again",
+    "would be nice not to have to re order them myself"
+   ],
+   "pitch": "A Health & Fitness app like iFIT Personal Trainer, but: works without an account, or simple one-tap login; rock-solid stability as the #1 selling point; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.alltrails.alltrails",
+   "title": "AllTrails: Hike, Bike & Run",
+   "developer": "AllTrails, LLC",
+   "icon": "https://play-lh.googleusercontent.com/VGEJRpXhcohBLp64CcZkufSHI97tfN1LQBJsvcNojlHZZTy6bQRFxr6xogqlEv-f5RwkLIcvVLiBAEfkZqrXqA",
+   "url": "https://play.google.com/store/apps/details?id=com.alltrails.alltrails&hl=en&gl=us",
+   "rating": 4.54,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 133,
+   "opportunityScore": 48,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 50,
+     "share": 38,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "It keeps interrupting my experience because it keeps asking me to purchase a premium subscription. I'm not spending money on anymore freaking subscriptions. Especially when the ads for it annoy the heck out of me.",
+      "The way this app intensively promotes it's subscription has convinced me to find an alternative. It feels impossible to use without paying."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 18,
+     "share": 14,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "please update the trail length slide indicator. you can't see what you're choosing, it's so stupid. just let people type in the length they want. it also crashes if I slide the indicator too fast or too many times",
+      "Useless since the latest update. Unable to download maps, and it crashes every time I try to access my saved maps. Enough of the unnecessary bells and whistles - make the features that people pay for actually work."
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 17,
+     "share": 13,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "It keeps interrupting my experience because it keeps asking me to purchase a premium subscription. I'm not spending money on anymore freaking subscriptions. Especially when the ads for it annoy the heck out of me.",
+      "invasive to use. can't even load a trail without popup popup popup. why bother? spotty service already, lets waste MORE data. right?"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 17,
+     "share": 13,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Cluttered interface these days. can't get a full-screen map in planning or use.",
+      "if their goal is just annoying you with pop ups, they're doing a great job"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 8,
+     "share": 6,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "please update the trail length slide indicator. you can't see what you're choosing, it's so stupid. just let people type in the length they want. it also crashes if I slide the indicator too fast or too many times",
+      "Useless since the latest update. Unable to download maps, and it crashes every time I try to access my saved maps. Enough of the unnecessary bells and whistles - make the features that people pay for actually work."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to accomplish anything costs $$",
+    "needs a simple version for people who just want to find a trail to hike on",
+    "need to be reminded every two clicks with large pop ups",
+    "I wish the map had a view of trails already visited, trails you want to try, and trails you have completed",
+    "need to see the search results on a map",
+    "would be great if it worked",
+    "need to upgrade to an even higher tier subscription",
+    "need to find an alternative if this isn't resolved"
+   ],
+   "pitch": "A Health & Fitness app like AllTrails: Hike, Bike & Run, but: generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version; few or no ads (or a one-time \"remove ads\" purchase)."
+  },
+  {
+   "appId": "com.strava",
+   "title": "Strava: Run, Bike, Walk",
+   "developer": "Strava Inc.",
+   "icon": "https://play-lh.googleusercontent.com/J4LN2qH2PQkZ3sFQonz-HWYkd7M38BtEO4Grzh1Xn7L2J6NUILHPkhYvPjdhMZQzrdm4BarUj547wfthyMz_vWM",
+   "url": "https://play.google.com/store/apps/details?id=com.strava&hl=en&gl=us",
+   "rating": 4.61,
+   "installs": "100,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 147,
+   "opportunityScore": 47,
+   "painPoints": [
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 34,
+     "share": 23,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "ever since the latest update, I can't scroll down to select the shoe that I want for my runs. Someone vibe coded something and didn't test before releasing. Thanks Strava",
+      "Used to be great, now drops GPS on the same walks I've done for years, which makes it useless"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 28,
+     "share": 19,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "app keeps crashing back to the login screen",
+      "Another bug today, we can't scroll down the shoe list. Strava definitely not great at testing their release."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 21,
+     "share": 14,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Too much promotional banner and pop-up for purchase their subscription. so annoying.",
+      "Purposely bug the app so that you pay the subscription. If you don't want headache after you save so many progress please do not install this app"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 20,
+     "share": 14,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "app keeps crashing back to the login screen",
+      "I can't even register or login. The app just keep going back to the front page. very unhappy"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 11,
+     "share": 7,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "error presist. new version keep reset and shut down due to errors. i always lost recent activity and cannot resume",
+      "I used to love the app. But if you use the battery saver, it gives such wild statistics. Also it is requested to create a local backup of the activity before posting it there"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to stop nagging me",
+    "needs to be brought back, I don't want to have to start running before I know if it's being tracked properly or not"
+   ],
+   "pitch": "A Health & Fitness app like Strava: Run, Bike, Walk, but: keep the features users loved in the old version; rock-solid stability as the #1 selling point; generous free tier, fair one-time price instead of forced subscription."
+  },
+  {
+   "appId": "com.ecw.healow",
+   "title": "healow",
+   "developer": "eClinicalWorks LLC",
+   "icon": "https://play-lh.googleusercontent.com/mqgrDQVkFmdDoLcO78kINkrON1L2oM_fQyRc0eK5uX9rJJN7yH9rvWfvoJ2aEEjHTd68CrnKpA0uWe57axJN_w",
+   "url": "https://play.google.com/store/apps/details?id=com.ecw.healow&hl=en&gl=us",
+   "rating": 4.57,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 154,
+   "opportunityScore": 45,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 21,
+     "share": 14,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "app doesn't let me log in from another device. Uninstalled and reinstalled ... still insists on making me \"get started\" rather than log in.",
+      "all my doctors use it, and I get them all confused!!!! My phone gets my passwords confused, and I HATE IT!!"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 16,
+     "share": 10,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "App not working, two years trying. Doctor's office couldn't get it to work. 😡",
+      "This site is either freezing up, not saving information, the like. It's very unstable and impossible to pre-register as it pertains to my primary appointments."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 16,
+     "share": 10,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Horrible clunky app with an awful UI. But I don't have a choice because my Dr uses it.",
+      "very confusing app, no support."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 8,
+     "share": 5,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "It is very nerve-wracking trying to update my information within the portal such as phone number email , etc",
+      "List of pharmacies not up to date on mobile app. Mariano's pharmacy in Vernon Hills Illinois needs to be added to app. Desktop version has the update."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 6,
+     "share": 4,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "very poor communications with contacting BE WELL PRIMARY CARE.",
+      "very confusing app, no support."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "WHY ISN'T THIS AVAILABLE IN MYCHART",
+    "need to see which prescriptions were sent",
+    "need to keep asking same questions when it should be memorialized",
+    "need to enter, yet once I hit submit the app crashes",
+    "need to check my calendar in another window), it kicks you out of your appt",
+    "needs to be added to app",
+    "I wish my provider didn't even use Healow",
+    "need to switch apps to get the verification code healow sent me and requires me to access their app"
+   ],
+   "pitch": "A Health & Fitness app like healow, but: works without an account, or simple one-tap login; rock-solid stability as the #1 selling point; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.garmin.android.apps.connectmobile",
+   "title": "Garmin Connect™",
+   "developer": "Garmin",
+   "icon": "https://play-lh.googleusercontent.com/wQVBsxZBX7buxjAlBIsBTRth7hknBOcbOUbzxNprfH22T9_ejF6VO5QC3CrMpvNivFvkyHHKvmiTnFO9P39S",
+   "url": "https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile&hl=en&gl=us",
+   "rating": 4.4,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 68,
+   "opportunityScore": 45,
+   "painPoints": [
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 13,
+     "share": 19,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "new update (Nov 26) has stopped instinct 2 watch from syncing to app. no issues until now. have restarted both and still stuck with syncing. sleep data, activities and elevation not syncing. Steps are connecting though??",
+      "app will not start after recent update"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 11,
+     "share": 16,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "new update (Nov 26) has stopped instinct 2 watch from syncing to app. no issues until now. have restarted both and still stuck with syncing. sleep data, activities and elevation not syncing. Steps are connecting though??",
+      "Feels like a downgrade from the Fitbit. Worse sleep tracking, less reliable syncing, and naps don't get tracked in same detail as each night of sleep. Would not get again."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 8,
+     "share": 12,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "helpful and annoying at the same time. nothing is as awesome as I want to get home from a 16-hour shift fall asleep for 20 minutes and get a notification and vibration telling me to get up and move 🙄🙄🙄",
+      "US focused app, dates are always month day, and many other details, where it's confusing the operating system is overruled"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 7,
+     "share": 10,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Not working at all on new Samsung S26.. was ok on Xiaomi T14. Can't pass thru login. Keeps kicking out",
+      "unable to select plan getting this error"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 6,
+     "share": 9,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "The app is constantly getting stuck at the loading screen.",
+      "Garmin Connect used 18% of my phone's battery and I haven't opened the app in 24 hours. What is it doing in the background!?"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to buy their power meter for \"only\" $500",
+    "Needs a complete UI overhaul",
+    "NEED to mess with user settings during/after updates",
+    "need to tell it the exact hours you plan on sleeping that night and it's still completely inaccurate"
+   ],
+   "pitch": "A Health & Fitness app like Garmin Connect™, but: keep the features users loved in the old version; reliable local storage + easy backup/export; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "chairworkout.homeworkout.seniorsworkout.easy.loseweight",
+   "title": "Chair Workout at Home",
+   "developer": "BLUEBASE",
+   "icon": "https://play-lh.googleusercontent.com/SI6qfczpt5n5DBg0uERPyHxgOHvmutDC2C2KiHHQw0f0dyfTOhdeHKZv0tearhRBkJprNAU8SzjTxOMLoWWGdg",
+   "url": "https://play.google.com/store/apps/details?id=chairworkout.homeworkout.seniorsworkout.easy.loseweight&hl=en&gl=us",
+   "rating": 4.19,
+   "installs": "500,000+",
+   "free": true,
+   "reviewsSampled": 106,
+   "lowStarReviews": 13,
+   "opportunityScore": 36,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 5,
+     "share": 38,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "I just started using this app. I did 3 different exercises, n I'm feeling good!! Too many ads, its annoying, I Uninstalled it!!",
+      "too many predatory ads that never shut up fix this or I go up the food chain and get your company erased"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 15,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "I just started using this app. I did 3 different exercises, n I'm feeling good!! Too many ads, its annoying, I Uninstalled it!!",
+      "I like the app a lot but there are waaay too many ads. Every time I touch anything it takes me to an ad first. I put up with it because I like the workout, but the ads are annoying."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 1,
+     "share": 8,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": []
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 8,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": []
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 1,
+     "share": 8,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Health & Fitness app like Chair Workout at Home, but: few or no ads (or a one-time \"remove ads\" purchase); clean, simple interface that does one thing well; generous free tier, fair one-time price instead of forced subscription."
+  },
+  {
+   "appId": "com.tracerofficial",
+   "title": "AHEALTH: Get Healthy Get Paid",
+   "developer": "Gravity Ltd",
+   "icon": "https://play-lh.googleusercontent.com/31YSDUvKDVaNAodv1jk6DTOHI2RMHWYlpX_SPMOcIC_Y0z--9xcDVeH5cOla9QTEn1KZ6KOyODb_TSCS0IkB",
+   "url": "https://play.google.com/store/apps/details?id=com.tracerofficial&hl=en&gl=us",
+   "rating": 4.65,
+   "installs": "5,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 117,
+   "opportunityScore": 32,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 36,
+     "share": 31,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "Do not bother. Just stopped loading. I had over $8 worth of points I was going to cash in at $10 and the app just stopped opening. I watched probably a hundred ads for nothing. I wish I'd read the reviews before spending time with it.",
+      "Riddled with ads. In order to claim points you need to watch ads 80% of the time."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 16,
+     "share": 14,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "this app is a scam can't even cash out to my PayPal account",
+      "It was good but now it won't even open. Unable to open for 3 days straight. Sitting with 51,000+ points on my account. Missed out on 3 days worth of points. Recent update fixed this but I have still lost 3 days worth of points"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 10,
+     "share": 9,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "I swear this is the most annoying app. I had to turn off notifications due to it ignoring me personalizing them in the app. I kept getting notifications reminding me to do things that I already checked off in the app over and over again.",
+      "Good concept but ads are so annoying. Lost my motivation mid workout. The ad was way too long."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 9,
+     "share": 8,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "Do not bother. Just stopped loading. I had over $8 worth of points I was going to cash in at $10 and the app just stopped opening. I watched probably a hundred ads for nothing. I wish I'd read the reviews before spending time with it.",
+      "there's no way to silence the app. and it takes forever to earn enough to do anything with. i unistalled it, there are better apps out there to earn money."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 9,
+     "share": 8,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "this app needs to work on its ad videos that keep freezing and won't give me the points for the ad",
+      "getting an error when I try to redeem"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "would be great to connect this app to the ring",
+    "I wish I'd read the reviews before spending time with it",
+    "needs to work on its ad videos that keep freezing and won't give me the points for the ad",
+    "need to watch ads 80% of the time",
+    "I wish I could give it 0 stars",
+    "need to send email to xoxodays",
+    "needs to be a place I can add steps because I don't always carry my phone on me and my smart watch isn't a Fitbit, Garmin, Samsung or Apple",
+    "I wish I could give zero Stars"
+   ],
+   "pitch": "A Health & Fitness app like AHEALTH: Get Healthy Get Paid, but: few or no ads (or a one-time \"remove ads\" purchase); works without an account, or simple one-tap login; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.stepcounter.pedometer.steptracker.fitness.android",
+   "title": "Step Tracker Launcher",
+   "developer": "AtomApplications",
+   "icon": "https://play-lh.googleusercontent.com/BaRlnkAe-S_hMN-WdiPAOs6ilm2rUQXiivIdeaLTy6ZSV8dGkJvw1_SsJPkx6jT9_BxJVWNYLfi5AUTGfVVQ",
+   "url": "https://play.google.com/store/apps/details?id=com.stepcounter.pedometer.steptracker.fitness.android&hl=en&gl=us",
+   "rating": 4.43,
+   "installs": "500,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 53,
+   "opportunityScore": 30,
+   "painPoints": [
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 3,
+     "share": 6,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "it's a bit slow we keeping up with my steps",
+      "I counted my steps I counted 32 and it said 18 total scam don't waste your storage on this app"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 3,
+     "share": 6,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "It's OK but I think my old iPad nano does a better job of tracking my steps.",
+      "not good this app put a bunch of other apps on my phone without permission."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 3,
+     "share": 6,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "this app was keeping track of all my day's.. now it is skipping at least one day a week. I walk 5 days a week, weekly. doesn't need an update, so confusing."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I did not know there was a 19.99 charge for this app. I want to uninstall it and get that charge paid back."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "this app was keeping track of all my day's.. now it is skipping at least one day a week. I walk 5 days a week, weekly. doesn't need an update, so confusing."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need an update, so confusing",
+    "need to be the default home app",
+    "i wish i could rate this a 0 star terrible app",
+    "why cant apps be simple you download it then uninstall when you want to get rid of it"
+   ],
+   "pitch": "A Health & Fitness app like Step Tracker Launcher, but: lightweight, fast app that works on cheap phones; privacy-first: minimal permissions, no tracking, works offline; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "org.iggymedia.periodtracker",
+   "title": "Flo Ovulation & Period Tracker",
+   "developer": "Flo Health Inc.",
+   "icon": "https://play-lh.googleusercontent.com/OvzRuefx4NHjHu5YIcWsuIbmSL4Oam6-G7QsvWg4RBmkv4h5g76z98IJ-A1QFW5A0KdySfQ-gEkByDqSTU8DyXI",
+   "url": "https://play.google.com/store/apps/details?id=org.iggymedia.periodtracker&hl=en&gl=us",
+   "rating": 4.73,
+   "installs": "100,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 76,
+   "opportunityScore": 28,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 28,
+     "share": 37,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "they have very good programs to use for hel but you have to pay so this is not very useful as an app I dont recomad!",
+      "Having to pay for an app that tracks my period for free, but is gatekeeper to good information that could help anyone with their womanhood is crazy work. Cancel this app."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 15,
+     "share": 20,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "was cool until I got a new phone and the app keeps glitching and trying to make me log in through Google when I have a separate log in. after enough uninstalls and reinstalls and still no luck, just deleting. I'll try another tracker app.",
+      "i was charged at 499 pesos even though i didn't make a subscription. i just realized in my digital bank app that i lost my money. again, i didn't purchase any subscription to this app. also after the payment, i can't open my account too."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 7,
+     "share": 9,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "was cool until I got a new phone and the app keeps glitching and trying to make me log in through Google when I have a separate log in. after enough uninstalls and reinstalls and still no luck, just deleting. I'll try another tracker app.",
+      "there's a bug in the system when login into a new phone I can't access my account"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 4,
+     "share": 5,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "i was about to cancel but I got charged a day in advance. the support team does not respond. this is a scam.",
+      "horrible customer service no features unless you pay."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 4,
+     "share": 5,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "i was charged at 499 pesos even though i didn't make a subscription. i just realized in my digital bank app that i lost my money. again, i didn't purchase any subscription to this app. also after the payment, i can't open my account too.",
+      "For some reason, ive gone to log my period, I clock on the day it started, 13th, but it says 12th. The calendar is glitching saying it's a day behind.....fix this ? I like using this app, I don't want to have to find a knew one 😭🥴😖"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "why can't you just tell me what MY partner logged",
+    "needs to be fixed it won't let me sign into Google",
+    "would be better if there were an \"edit ovulation\" or something like how there is for periods if they're longer or sooner or shorter then expected",
+    "needs a subscription and I can't do the free trial and the subscription is shoved into my face at all times"
+   ],
+   "pitch": "A Health & Fitness app like Flo Ovulation & Period Tracker, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "io.yuka.android",
+   "title": "Yuka - Food & Cosmetic Scanner",
+   "developer": "Yuka App",
+   "icon": "https://play-lh.googleusercontent.com/as1IRIQbc_-ARQtfqpjZ_H2LRLipmnjm1rMHKVHJJ_WpST7AWaHXEw7F5dIyOdizcN6KL0V84f5LN48uSr98Vg",
+   "url": "https://play.google.com/store/apps/details?id=io.yuka.android&hl=en&gl=us",
+   "rating": 4.72,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 54,
+   "opportunityScore": 23,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 8,
+     "share": 15,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "What's with the Google account thing? There really isn't any need for email verification unless the user would like regular communication from the devs?",
+      "When I was first shown Yuka I thought it was great. Finding that it requires persistant Google login was a huge disappointment. It has been uninstalled."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 4,
+     "share": 7,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "App doesn't work unless you give them your email. 🤮"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 3,
+     "share": 6,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "everything costs money??? and you have to invite a freind for accses to literally everything and even when I tried it didnt work.",
+      "This app is trash, they rate food that has many bad chemicals 100 just because they get paid."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 3,
+     "share": 6,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "first product I scanned was \"unknown\" I immediately deleted the app"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "drains battery, have to take extra effort to shut off"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to give out an email to anyone I do not know",
+    "need to register"
+   ],
+   "pitch": "A Health & Fitness app like Yuka - Food & Cosmetic Scanner, but: works without an account, or simple one-tap login; rock-solid stability as the #1 selling point; generous free tier, fair one-time price instead of forced subscription."
+  },
+  {
+   "appId": "com.health.care.sleep.sound.pulse.heartbeat",
+   "title": "Health Care - Heart & Sleep",
+   "developer": "HealthCare Fitness calorie mental for Android App",
+   "icon": "https://play-lh.googleusercontent.com/Unw-IVkf7nCcZC33TzzdV71kj0A4bBgcR2GA0V18jnS7qovXR4pyWO-DoDOvvQFs0ZHzO50rk37HFOsAzPi6hQ",
+   "url": "https://play.google.com/store/apps/details?id=com.health.care.sleep.sound.pulse.heartbeat&hl=en&gl=us",
+   "rating": 4.71,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 54,
+   "opportunityScore": 20,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 18,
+     "share": 33,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "Couldn't even check out the app. I was bombarded with ads before I could even get it fully open. Waste of time!",
+      "bakwas application hai open hote he ads ads bs only ads"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 9,
+     "share": 17,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "only personal data collected dont use this",
+      "Fake app, only deliver ads. play store should remove this scam."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": []
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "this app scam & store your data personal security like finger as well face lock to withdraw your money through muel account be careful guy's it's a fake aap"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "this app scam & store your data personal security like finger as well face lock to withdraw your money through muel account be careful guy's it's a fake aap",
+      "this app has too many ads !!! and to get the features you have to pay a monthly subscription fee! nothing is ever really free any more!"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Health & Fitness app like Health Care - Heart & Sleep, but: few or no ads (or a one-time \"remove ads\" purchase); privacy-first: minimal permissions, no tracking, works offline; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "stepcounter.pedometer.stepstracker",
+   "title": "Step Counter - Pedometer",
+   "developer": "Hitchhike Tech",
+   "icon": "https://play-lh.googleusercontent.com/Uu1pOWEEy69n3yeU5Yx-vd03n1gLg9ens7OJHE4K4vUPELPGaAjXQ0GOjV2F_RzDUe_CN8mm3A3uMRWMzgfshw",
+   "url": "https://play.google.com/store/apps/details?id=stepcounter.pedometer.stepstracker&hl=en&gl=us",
+   "rating": 4.79,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 23,
+   "opportunityScore": 18,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 9,
+     "share": 39,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "I thought I finally found a good step counter but it's just constant intrusive ads and I also don't want kcal. I want calories! I'd pass on this one.",
+      "before the app even finished opening it showed me an ad. get lost"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 1,
+     "share": 4,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "before the app even finished opening it showed me an ad. get lost"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 1,
+     "share": 4,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": []
+    },
+    {
+     "theme": "offline",
+     "label": "Needs internet / no offline mode",
+     "mentions": 1,
+     "share": 4,
+     "fix": "Full offline mode",
+     "quotes": []
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 4,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "NOT WORKING!! not sure if its because I've got it on my rollater or what ? but no way to walk and hold onto my cellphone at the same time,** UPDATED we'll its not Working PERIOD !!"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Health & Fitness app like Step Counter - Pedometer, but: few or no ads (or a one-time \"remove ads\" purchase); reliable local storage + easy backup/export; privacy-first: minimal permissions, no tracking, works offline."
+  },
+  {
+   "appId": "com.finch.finch",
+   "title": "Finch: Self-Care Pet",
+   "developer": "Finch Care Public Benefit Corporation",
+   "icon": "https://play-lh.googleusercontent.com/fsYShU5YDNZxBQgZF-UjT-cq7Mxtqmz71_Q8isHj3DzpOX9Me4KZLD780Oe2DxTRVPzA76xlDNigl9SXjEsPfw",
+   "url": "https://play.google.com/store/apps/details?id=com.finch.finch&hl=en&gl=us",
+   "rating": 4.88,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 33,
+   "opportunityScore": 14,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 12,
+     "share": 36,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Not for me, it's too much like Duolingo with the daily engagement requirement, I don't want something this punitive if I don't open the app for a day. Awful experience that is far more focused on taking your money and time than helping with self care.",
+      "If this game charges you money and you try to get a refund it will do everything within its power to not give you your money back leading you to constant dead ends."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 5,
+     "share": 15,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "Not happy at all right now. I signed in to find all my friends gone from my friends list. Thought I could fix it by uninstalling and reinstalling and now my 111 day streak is gone. Where did my friends go? This is not cool."
+     ]
+    },
+    {
+     "theme": "notifications",
+     "label": "Spammy notifications",
+     "mentions": 4,
+     "share": 12,
+     "fix": "Quiet by default, fully controllable notifications",
+     "quotes": [
+      "i like the app. but i am sick of it pushing notification every minute or so. why is it asking what im thinking. why is it thinking about me. why is it asking me how was my day."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 4,
+     "share": 12,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "newest forced update is SUPER laggy"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 3,
+     "share": 9,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "need to get rid of them",
+    "need to be worked through",
+    "need to do everyday just need a tracker, it's perfect"
+   ],
+   "pitch": "A Health & Fitness app like Finch: Self-Care Pet, but: generous free tier, fair one-time price instead of forced subscription; reliable local storage + easy backup/export; quiet by default, fully controllable notifications."
+  },
+  {
+   "appId": "com.healthBloodPressure.TrackerPro",
+   "title": "Blood Pressure: BP Tracker",
+   "developer": "HealthCare meditation planner mindfulness Tools",
+   "icon": "https://play-lh.googleusercontent.com/dKBQH2fs4Qw8olIRrkWKejFQwth282sRB2xqv0yEsBlW78O5AgdT9_ujEXi8FCshmjaGiHhU1QEprg7T06DlEc4",
+   "url": "https://play.google.com/store/apps/details?id=com.healthBloodPressure.TrackerPro&hl=en&gl=us",
+   "rating": 4.71,
+   "installs": "100,000+",
+   "free": true,
+   "reviewsSampled": 50,
+   "lowStarReviews": 9,
+   "opportunityScore": 8,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 2,
+     "share": 22,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "The amount of ads is ridiculous! I open the app and automatically an ad pops up. Than they have ads on the screen that look like part of the app and it's just. A headache"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 11,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": []
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 11,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "simply waste. not working app. only advertisement. recommended another app..."
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Health & Fitness app like Blood Pressure: BP Tracker, but: few or no ads (or a one-time \"remove ads\" purchase); clean, simple interface that does one thing well; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "me.rtrt.app.phila",
+   "title": "Philadelphia Marathon Weekend",
+   "developer": "RTRT.me",
+   "icon": "https://play-lh.googleusercontent.com/rc6QB-JhPI2Bb_MXhVdWEXx-pnSeElG2gE0H1oeSh6eNKl8qKzNVIAlJceowF6wZuh_0a0e1ekrKWsaGWrnV",
+   "url": "https://play.google.com/store/apps/details?id=me.rtrt.app.phila&hl=en&gl=us",
+   "rating": 4.76,
+   "installs": "10,000+",
+   "free": true,
+   "reviewsSampled": 23,
+   "lowStarReviews": 1,
+   "opportunityScore": 2,
+   "painPoints": [],
+   "featureRequests": [],
+   "pitch": "Not enough complaints found — users seem happy."
+  }
+ ]
+}

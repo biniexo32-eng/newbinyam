@@ -1,0 +1,1435 @@
+{
+ "category": "PRODUCTIVITY",
+ "generatedAt": "2026-11-24T00:25:01.342Z",
+ "apps": [
+  {
+   "appId": "com.xfinity.digitalhome",
+   "title": "Xfinity",
+   "developer": "Comcast",
+   "icon": "https://play-lh.googleusercontent.com/SIah4Awg5p7-zQmnKmmlFsMO5UX4A3tGX4pDHmzO9osI3Ozq6JUA1TgLzqN7zt8YwcC4wdbqWmtzX-QGHTJQ",
+   "url": "https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en&gl=us",
+   "rating": 3.84,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 225,
+   "opportunityScore": 119,
+   "painPoints": [
+    {
+     "theme": "offline",
+     "label": "Needs internet / no offline mode",
+     "mentions": 42,
+     "share": 19,
+     "fix": "Full offline mode",
+     "quotes": [
+      "My internet is constantly going offline,all day every day!!!! It also takes a long time for it to come back on correctly!!!!",
+      "internet freezes up everyday after update."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 41,
+     "share": 18,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "one of the worst companies in the world as far as giving a good product. the fact I still pay every month for cable TV shows that I am not a smart person.",
+      "App tells me it needs to update to work even though it's on the latest version. When it does work it tells me I have internet even though it's down. Don't know why I pay for Xfinity."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 34,
+     "share": 15,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "I updated my xfinity account and clicked on open and got the message again that I need an update.",
+      "App says I need to update. Updated the app and it installed. When I tried to open the app after updating it still tells me I need to update and there are no more updates available."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 33,
+     "share": 15,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "internet freezes up everyday after update.",
+      "need to update it constantly. sometimes it just crashes.."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 28,
+     "share": 12,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "terrible AI! Can't contact an actual person to fix a service issue!",
+      "Horrible customer service with their robots! they lied to u about prices/plans. spend hours chatting with robots not resolving & still unable to get a human on phone to resolve! but customer feedback matters! 🤣"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need an account verification problem resolved and it didn't help at all",
+    "needs to updated, even though I downloaded the latest version",
+    "Need a zero star option",
+    "need a technician, this is about the 10th time in 2 years, and why do they wait until I call",
+    "need to update so often",
+    "need to update it constantly",
+    "needs to update to work even though it's on the latest version",
+    "needs and just tells you \"something went wrong\""
+   ],
+   "pitch": "A Productivity app like Xfinity, but: full offline mode; generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.hp.printercontrol",
+   "title": "HP",
+   "developer": "HP Inc.",
+   "icon": "https://play-lh.googleusercontent.com/zI-V09mhI1jZoRIHgTJ9FJ8KN02NKoOYC787uRFbS9e0UQzwkXR_2DojHB4qWj1vFvh289S-gC1RRE0wMBYM4Q",
+   "url": "https://play.google.com/store/apps/details?id=com.hp.printercontrol&hl=en&gl=us",
+   "rating": 4.17,
+   "installs": "100,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 196,
+   "opportunityScore": 95,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 26,
+     "share": 13,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "App freezes on loading instead of printing pictures. Absolutely awful app",
+      "half of time it's not working. takes ages to load, long waiting times when it's working, but what to expect from HP. you used to be cool HP, what happened?"
+     ]
+    },
+    {
+     "theme": "offline",
+     "label": "Needs internet / no offline mode",
+     "mentions": 22,
+     "share": 11,
+     "fix": "Full offline mode",
+     "quotes": [
+      "It won't detect my HP Envy 6132e printer that is connected to wifi and prints from my computer.",
+      "useless, drops of wifi each time i go to use it. simply cant be bothered with it anymore"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 16,
+     "share": 8,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "Worst HP update. Better HP Smart",
+      "half of time it's not working. takes ages to load, long waiting times when it's working, but what to expect from HP. you used to be cool HP, what happened?"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 14,
+     "share": 7,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "App freezes on loading instead of printing pictures. Absolutely awful app",
+      "the app is sluggish and clunky. Long loading screens that often get stuck"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 11,
+     "share": 6,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I hate this garbage. I'm willing to pay more for a simple printer. I despise all these \"smart\" devices. Supposed to make life more convenient, instead causes frustration and more tedious. Burn it down.",
+      "really poor experience with this printer. extremely slow and zero real support from this company, just a number of steps that lead to the same result no more how much you try. save your money and invest in some different product"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "I wish I could give the app a rating of 0",
+    "need to uninstall the app and redo everything but this shouldn't be how this app operates at all and I'm frustrated by this",
+    "should allow users to freely resize and stretch pictures when printing photos",
+    "need to get advertised too for your printers and your ink constantly",
+    "need to get these bugs fixed",
+    "Why can't I just buy a simple printer that just prints, i don't want this app, i don't want nonsense about ink subscriptions, i just want to print",
+    "need to speed it up a little",
+    "Why can't this just be installed with the printer when you buy it, I have to download the scanner app now"
+   ],
+   "pitch": "A Productivity app like HP, but: rock-solid stability as the #1 selling point; full offline mode; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.google.android.apps.subscriptions.red",
+   "title": "Google One",
+   "developer": "Google LLC",
+   "icon": "https://play-lh.googleusercontent.com/pnaxOl9i4YnkYKGMYkH17y_hA_FJOZRahlRGHQaaEGuLwPme68AfPShN2na5dEGOsem3hEzFvWXMz62WPVx8",
+   "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red&hl=en&gl=us",
+   "rating": 4.13,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 107,
+   "opportunityScore": 82,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 37,
+     "share": 35,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I am trying to cancel this subscription and others on Google and cannot find a section to do this. At the moment I do not need this app",
+      "why u taking money from my account with out my consent your app sucks"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 14,
+     "share": 13,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "why u taking money from my account with out my consent your app sucks",
+      "This google one is nonsense they took payment for £1.59 from my account yesterday for 100 GB now they have blocked my emails its there complaints team to make a complaint"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 10,
+     "share": 9,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "im paying for the 2tb of memory but ive only got 200gb",
+      "This is not the best choice to use for storage. I paid for a year of Google one and it added to a different account. but no refund or added to my Google account. Scam"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 6,
+     "share": 6,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "Terrible. Sync overwrote my stored media and caused me to lose the things I was trying to retain",
+      "This google one is a huge scam!! There are many options without paying them to backup everything! Guys stop paying this Google one, cause they stealing your money fir nothing!!!"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 5,
+     "share": 5,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "This is not the best choice to use for storage. I paid for a year of Google one and it added to a different account. but no refund or added to my Google account. Scam",
+      "This google one is a huge scam!! There are many options without paying them to backup everything! Guys stop paying this Google one, cause they stealing your money fir nothing!!!"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "Please add bKash for Bangladesh",
+    "need to clear away files but won't let me trash the ones we both know need to go",
+    "need to buy😡 you are all greedy did you know that"
+   ],
+   "pitch": "A Productivity app like Google One, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; lightweight, fast app that works on cheap phones."
+  },
+  {
+   "appId": "com.eet.settings.launcher",
+   "title": "Settings Home",
+   "developer": "Utility Apps Home",
+   "icon": "https://play-lh.googleusercontent.com/H-wlWWzGUh4WwunfCJ_ZQuI6AnY6wThH5i_7pUuuxamwG9EJf9QQ8TT_LR_11yWJEuyT_rchwvfy73HmZ_L0Aw",
+   "url": "https://play.google.com/store/apps/details?id=com.eet.settings.launcher&hl=en&gl=us",
+   "rating": 4.31,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 181,
+   "opportunityScore": 59,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 10,
+     "share": 6,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "too many annoying pop-ups phone calls getting blocked ...... tried to reset options on help",
+      "This App is Horrible. I have a Google Pixel phone and it totally changed all of my settings and ADs were popping up everywhere. Not a good App in my opinion."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 7,
+     "share": 4,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "This is a despicable invasion of my privacy! How DARE take over my phone without permissions. Any place I can leave a bad review I WILL!!! I thought I would have to reset my phone to factory settings!!",
+      "scam app. you thugs messed up my whole phone."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 7,
+     "share": 4,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "I need to uninstall this app it replace all my apps and It's very confusing. can't find my settings seeing two of each app and apps that I don't need it.",
+      "too many annoying pop-ups phone calls getting blocked ...... tried to reset options on help"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 5,
+     "share": 3,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "This app replaced my display pages w/some stuff I never use; now I'm looking for a way to back track to my original displays. I discovered Chrome app doesn't work w/ 'extensions' & am totally annoyed.",
+      "It doesn't work. I can't open it."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 3,
+     "share": 2,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "I don't upstand this update to me it is very confusing no one to help me I want go back to the old way",
+      "I do not update my setting and now I cannot see or log in to my apps"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to uninstall this trash",
+    "need to uninstall this app it replace all my apps and It's very confusing",
+    "needs to be easier to use"
+   ],
+   "pitch": "A Productivity app like Settings Home, but: few or no ads (or a one-time \"remove ads\" purchase); privacy-first: minimal permissions, no tracking, works offline; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.wake.box.ryan",
+   "title": "WakeBox",
+   "developer": "BLYTHEWOOD NY LLC",
+   "icon": "https://play-lh.googleusercontent.com/yMHZppNDXIR5pYy_6uZN55QkE8aOhgAhc624wiIgXMwvXIVZ4Wh3NzHh6o11hETTPfe5PYwTCRvU8AwFD69ey_8",
+   "url": "https://play.google.com/store/apps/details?id=com.wake.box.ryan&hl=en&gl=us",
+   "rating": 4.17,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 128,
+   "opportunityScore": 57,
+   "painPoints": [
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 17,
+     "share": 13,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "Not as advertised,no music but full access to my email. Seems like a scam!!!!",
+      "I'm convinced this app has spyware or something I'll never ever use this app again, Samsung S24 Ultra."
+     ]
+    },
+    {
+     "theme": "notifications",
+     "label": "Spammy notifications",
+     "mentions": 12,
+     "share": 9,
+     "fix": "Quiet by default, fully controllable notifications",
+     "quotes": [
+      "you dont need to read and write my emails. total breach of trust",
+      "Very Bad! It hi-jacks your email accounts! you will start getting massive spam! I had only had it on for about 8 minutes & got over 100 spam emails!"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 10,
+     "share": 8,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "I got an ad I could even close.",
+      "I had to figure out which app it was and it was this one that kept opening Chrome pop-ups on me almost like a freaking virus I was like what the hell"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 9,
+     "share": 7,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "Very Bad! It hi-jacks your email accounts! you will start getting massive spam! I had only had it on for about 8 minutes & got over 100 spam emails!",
+      "tried to create account but kept getting error. so just Uninstaller it."
+     ]
+    },
+    {
+     "theme": "offline",
+     "label": "Needs internet / no offline mode",
+     "mentions": 4,
+     "share": 3,
+     "fix": "Full offline mode",
+     "quotes": [
+      "tells me I don't have Internet connection. yes I do",
+      "it keeps telling me I have no Internet"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to read and write my emails",
+    "need to do is my name front first and last and that's it",
+    "need to read, write, or compose emails from my account"
+   ],
+   "pitch": "A Productivity app like WakeBox, but: privacy-first: minimal permissions, no tracking, works offline; quiet by default, fully controllable notifications; few or no ads (or a one-time \"remove ads\" purchase)."
+  },
+  {
+   "appId": "com.adobe.reader",
+   "title": "Acrobat Reader: PDF Converter",
+   "developer": "Adobe",
+   "icon": "https://play-lh.googleusercontent.com/VIohTA3wyJgKJ-SZzoJeYuykxyVFCbSmXFAjefIGQybY57FX44VCHyVa3CTOZROzWLbMc-VFwL4CEDj47LeRpM0",
+   "url": "https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en&gl=us",
+   "rating": 4.51,
+   "installs": "500,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 92,
+   "opportunityScore": 48,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 23,
+     "share": 25,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "You need a subscription to do anything.",
+      "it keeps asking me to pay and this should be a free service"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 8,
+     "share": 9,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "used to be a classic, now sooo much bloat.",
+      "Too many terrible updates. Its starting to inconvenience me in many ways."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 7,
+     "share": 8,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "Cluttered, bloated, intrusive, annoying mess of an app. Adobe is a perfect example of a garbage company with garbage business practices and products. Finally looking into alternatives to Acrobat which do only what I need them to do: view PDFs.",
+      "too complicated and tons of unneeded messages. older adobe better"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 7,
+     "share": 8,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "i have pro version even after its always shoes error for compression and other pdf, it's so much better to use pdfcraft instead of this",
+      "so much ads and it gets freeze all the time"
+     ]
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 5,
+     "share": 5,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "disgusting app. always shows a pop up to purchase a plan and never opens the pdf to view.",
+      "so much ads and it gets freeze all the time"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need a subscription to do anything",
+    "why can't I read my documents",
+    "need too much subscription with pc",
+    "need Acrobat for that, i have paid claude and gemini",
+    "needs to stop asking me to log in",
+    "I wish there was a folder kind of thing where I can store things according to subject/etc",
+    "need to pay premium just to make a pdf as if it isnt the sole purpose of this app"
+   ],
+   "pitch": "A Productivity app like Acrobat Reader: PDF Converter, but: generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.google.android.apps.bard",
+   "title": "Google Gemini",
+   "developer": "Google LLC",
+   "icon": "https://play-lh.googleusercontent.com/C64IqPWyFoCZzXVxXVl0Y6mliiNlG_sZJsqul-SBvk9ZL0wJHlU0Eho2wvsBHhho0FT5XQtH55RVGerIwXF_MA",
+   "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=en&gl=us",
+   "rating": 4.54,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 69,
+   "opportunityScore": 43,
+   "painPoints": [
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 6,
+     "share": 9,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "no matter how many times I delete the app and uninstall to factory setting or disable it, updates keep trying to advertise to me. not interested, now or ever in a scam of an ai!",
+      "crashes every few seconds since last update"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I paid for the 2TB Monthly plan which includes Gemini. IT SUCKS!!! I asked it to do simple tasks and it didn't do it. Grok does a better job. The only thing it's worth is the storage beyond that, it's not worth it.",
+      "Absolutely worst AI there is unless you pay insane amounts of money for their top model. Use literally any other frontier AI provider"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "no matter how many times I delete the app and uninstall to factory setting or disable it, updates keep trying to advertise to me. not interested, now or ever in a scam of an ai!",
+      "I never wanted ai pushed on me in windows I don't want it pushed on me in android or apple. no privacy."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "crashes every few seconds since last update",
+      "It stopped working. I guess they what me to pay for it so I guess it's not of any use."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "There are times it doesn't listen and takes forever to respond or takes forever to process things.",
+      "I paid for the 2TB Monthly plan which includes Gemini. IT SUCKS!!! I asked it to do simple tasks and it didn't do it. Grok does a better job. The only thing it's worth is the storage beyond that, it's not worth it."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to be removed completely"
+   ],
+   "pitch": "A Productivity app like Google Gemini, but: keep the features users loved in the old version; generous free tier, fair one-time price instead of forced subscription; privacy-first: minimal permissions, no tracking, works offline."
+  },
+  {
+   "appId": "com.anthropic.claude",
+   "title": "Claude by Anthropic",
+   "developer": "Anthropic PBC",
+   "icon": "https://play-lh.googleusercontent.com/YeFCFSW5LkBVdsEAL_fjzxDxTbhKz31j1uZUfDbSaCeM0t4Bi3SqyHTWzWsUsZnbwjofXhYajitG_gr2_B2xil8",
+   "url": "https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=en&gl=us",
+   "rating": 4.55,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 89,
+   "opportunityScore": 40,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 26,
+     "share": 29,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "i was using the app, then 3-4 days later i got banned for being \"underage\" even tho i am over 18.I am still confused as to why yall banned me..",
+      "it bans ur account without any reason"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 11,
+     "share": 12,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "I pay you $200 a month and you're going to tell me that you can't enter Windows settings and use remote control on things I give you permission for? you are a joke compared to deep seek",
+      "When i first subrobed Claud was amazing on Sonel medium then my second month Claud started being dumb like it had a labotomy so cancelled my subscription. But when you put it on high, all wass good. Seems anthropic trying to push you to higher model"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 6,
+     "share": 7,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "The application is pretty good with a lot of tools alongside great writing skills but flagged me as a child and my account was suspended and the recovery even doesn't work leading to another application and I uninstalled it 😤😤",
+      "Doesn't work on oppo find x7 Ultra. App states that my Google Account or Google Play is not up to date, but it is"
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 3,
+     "share": 3,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": []
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 3,
+     "share": 3,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "One short prompt and the free limit is already gone—even on the basic models? Terribly frustrating experience.",
+      "the worker stole amd deleted my ideas and history with claude"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to improve",
+    "need to hear that someone talks to ai",
+    "need a humans eyes on this it fin refuses to help so I get no help and no reason why my account gets flagged",
+    "needs a age review even tho im 18 and keeps logging me out",
+    "I wish it were more integrated"
+   ],
+   "pitch": "A Productivity app like Claude by Anthropic, but: works without an account, or simple one-tap login; generous free tier, fair one-time price instead of forced subscription; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.notes.todolist.notebook.checklist.notepad.android",
+   "title": "Notes, Notepad, To Do Launcher",
+   "developer": "AtomApplications",
+   "icon": "https://play-lh.googleusercontent.com/dfxXWUDA8IAkeQFbekN6gih5moykiV1Zf3lUUv4_a6yTQGBfp4x6JK2WGC7pNlbdI-mUrNoC0IfFBxpohMryqRo",
+   "url": "https://play.google.com/store/apps/details?id=com.notes.todolist.notebook.checklist.notepad.android&hl=en&gl=us",
+   "rating": 4.39,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 73,
+   "opportunityScore": 36,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 8,
+     "share": 11,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "bad experiencd inappropriate ads phone glitches",
+      "immediately received pornographic ads"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 6,
+     "share": 8,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "didn't appreciate the forced removal of one ui with its own flavor of how it wants my android to look, gone!",
+      "Completely wrecks your phone DO NOT DOWNLOAD it will wreck your ui completely change everything about your phone and poorly at that, it's just supposed to be a note pad it is not."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 5,
+     "share": 7,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "bad experiencd inappropriate ads phone glitches",
+      "do NOT install this app!! if I could I would rate this app with a big fat 0% it changed my home screen.. and crashed my other apps!! 😡😡😡😡 this app should be removed from play store!!"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "BE CAREFUL!!! It's invasive... and Dangerous. It changed my whole home screen, and layout without permission. It was so difficult to restore back to my original settings. The better.... UNINSTALL!!!!!!!",
+      "This app is a scam app it will hijack your home screen and force you to use it constantly or it will not work."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "changed phone layout and slowed my phone"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs to be retained to begin with",
+    "need a notepad, not something that wants to take over my device",
+    "need to speak to someone immediately"
+   ],
+   "pitch": "A Productivity app like Notes, Notepad, To Do Launcher, but: few or no ads (or a one-time \"remove ads\" purchase); clean, simple interface that does one thing well; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.facebook.stella",
+   "title": "Meta AI",
+   "developer": "Meta Platforms, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/o3R5N2Pz3oLVfMCbDWhAWA1WNUxewxwhRgLJUCHVR3QQA57oWXt6Yw5lYN-Huj0ZYxLZ3_7ZwcnvmbfDiv4q",
+   "url": "https://play.google.com/store/apps/details?id=com.facebook.stella&hl=en&gl=us",
+   "rating": 4.6,
+   "installs": "100,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 48,
+   "opportunityScore": 32,
+   "painPoints": [
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Высокий процент искажения (додумывания) при интерпретации (понимании) ответа пользователя. Fix the error, please."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Please fix the search conversation, it's so hard to find information I've forgotten about. It would be very inconvenient if you let your users suffer. And if you let them, it's just proof that your company is worthless and only cares about money.",
+      "is it free meta also linked to my WhatsApp no I dont no to useuse it unsubscribe my cell no is on Facebook WhatsApp 3rd no is hacked unsubscribe me from if it charges any apps on A56 5G g"
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": []
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": []
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "so hard to use, we need a person to talk with the issue not an AI"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need a person to talk with the issue not an AI",
+    "need to add video"
+   ],
+   "pitch": "A Productivity app like Meta AI, but: rock-solid stability as the #1 selling point; generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login."
+  },
+  {
+   "appId": "com.google.android.apps.docs.editors.docs",
+   "title": "Google Docs",
+   "developer": "Google LLC",
+   "icon": "https://play-lh.googleusercontent.com/fzQ8TFqWZQ34NVL5veaXOFtymoGSVqI5YisBw3sgl6mc0AMKAGgKw5st2YMiSzTanSWbCDrmLipI7bD_epry",
+   "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=us",
+   "rating": 4.72,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 64,
+   "opportunityScore": 31,
+   "painPoints": [
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 4,
+     "share": 6,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "I cannot access a file that's been deleted. Even worse, I can't access a website that's in my Favorites. What's going on?"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 4,
+     "share": 6,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "I keep having this error where my docs get corrupted or something and I can't open them from my phone"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "it is very annoying (to me) when i click on the text and the layout makes the text being on the very top and makes it difficult to see and edit it. like, so annoying. cant even highlight the texts properly."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "I need to know where my $1,000 is n why it isn't in my PayPal account!!!!",
+      "sometimes i get locked out of my own documents on mobile."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "scrolling so slow for years now, yet no fix",
+      "not reccomend tbh, slow, lags alot, very bad if ur in a rush to do something."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need to make a copy",
+    "need a read only mode",
+    "need to know where my $1,000 is n why it isn't in my PayPal account",
+    "Please add a PDF viewer and editing Feature"
+   ],
+   "pitch": "A Productivity app like Google Docs, but: reliable local storage + easy backup/export; rock-solid stability as the #1 selling point; clean, simple interface that does one thing well."
+  },
+  {
+   "appId": "com.google.android.apps.docs.editors.sheets",
+   "title": "Google Sheets",
+   "developer": "Google LLC",
+   "icon": "https://play-lh.googleusercontent.com/NjfIWrzr4KXjVVUpihoWNJ1ZFfDBqjr3l4lsrbXG9fcYNJlpiH4wCxFXrQsgqMt7fXgKCmk33mvI2arRyzo5hGY",
+   "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&hl=en&gl=us",
+   "rating": 4.75,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 44,
+   "opportunityScore": 26,
+   "painPoints": [
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 2,
+     "share": 5,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "doesn't support password protected"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 5,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "New update is very confusing, we have to find things we are looking for."
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 2,
+     "share": 5,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "New update is very confusing, we have to find things we are looking for."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "doesn't support password protected"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Too much crashes observed in google sheet app while running. Google now lossing its reputation and image. Its very sad....."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "why can't I see edit history in the app",
+    "need more unique, copy paste of excel",
+    "need an update just allow the app to continue to function as it had for years"
+   ],
+   "pitch": "A Productivity app like Google Sheets, but: fast, human support and a public roadmap; clean, simple interface that does one thing well; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.microsoft.office.word",
+   "title": "Microsoft Word: Edit Documents",
+   "developer": "Microsoft Corporation",
+   "icon": "https://play-lh.googleusercontent.com/UPPHK323_gvNZWTnmq_lgp_qrSXwdXI8aYNfqNF27MtuujT2YAytdueWIKncRh5YfNB_rfpCBfImzo95iYC1Fw",
+   "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word&hl=en&gl=us",
+   "rating": 4.79,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 56,
+   "opportunityScore": 25,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 10,
+     "share": 18,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "Requires login. Had enough of that.",
+      "aplikasi tolol! dikit2 suruh sign in padahal udah sign in berkali2. ngerepotin lu tot"
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 4,
+     "share": 7,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "This app is absolutely useless. A person can't even sign up. It just keeps showing troubleshooting when I try to verify that I'm human and not a robot. It won't let me proceed any further. I've tried almost a hundred times, but it still doesn't work.",
+      "Why do I always get a bug every time I log in, I keep repeating the same process over and over again, fix it, I'm tired."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "useless. cant even open a document it just demands money"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 2,
+     "share": 4,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "You guys just lost me a client..... good job"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Productivity app like Microsoft Word: Edit Documents, but: works without an account, or simple one-tap login; rock-solid stability as the #1 selling point; generous free tier, fair one-time price instead of forced subscription."
+  },
+  {
+   "appId": "com.duckduckgo.mobile.android",
+   "title": "DuckDuckGo, optional Duck.ai",
+   "developer": "DuckDuckGo",
+   "icon": "https://play-lh.googleusercontent.com/R9-3PbO5ywKx6dA5OQI2wkesOpmgY9CzKhB_1Eqn-GC_vRjeqwtG-CLVs2o55wuRhiLS0pd1Sui_kUyn7Q4dng",
+   "url": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&hl=en&gl=us",
+   "rating": 4.69,
+   "installs": "50,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 39,
+   "opportunityScore": 25,
+   "painPoints": [
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 6,
+     "share": 15,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "This is terrible. I have a default browser where I can find my bookmarks, all easily organised into folders, by swiping right. It is much faster and more efficient than the clunky technique used here. Please update it.",
+      "I was moderately satisfied prior to update. now the AI lunacy has struck down this browser. pages do not load correctly too often and those which do are un-navigable rendering it useless to me. do not want any part of any \"AI\". my confidence evaporated. ymmv."
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 4,
+     "share": 10,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": [
+      "Never had a problem until today. Friday, November 20th, 2026. App rebooted itself and deleted all of my saved bookmarks twice. Maybe it's time to find a different browser."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 3,
+     "share": 8,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Starting to lose patience with glitches e.g. bookmarks often revert back to homepage, web forms close and have to be reopened when flipping between apps e.g. to copy/paste details, lack of local results despite having preferred country selected."
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 2,
+     "share": 5,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "if you paid for a site it will end getting you blocked since it clears everything. Brave is better"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 2,
+     "share": 5,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": [
+      "the browser works well and I like the privacy . I would give it a 5 for that, but some websites don't work, yes I know that is because the websites are too intrusive. reason for low rating is the updates keep erasing my bookmarks. very annoying.",
+      "bad search result. cant rember. to much loggin. settings to complicated"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "need a browser without AI, not even wasting my phone and time by even being there as optional or \"optional"
+   ],
+   "pitch": "A Productivity app like DuckDuckGo, optional Duck.ai, but: keep the features users loved in the old version; reliable local storage + easy backup/export; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.microsoft.office.excel",
+   "title": "Microsoft Excel: Spreadsheets",
+   "developer": "Microsoft Corporation",
+   "icon": "https://play-lh.googleusercontent.com/yycGmvRqYttLxLsu_2mMo17jb5KVfrSSj0W67w5nN6QcOn30HIxQ7DBwdNVtbTRTFCQNd5vNyd-bgeGfmiSS",
+   "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.excel&hl=en&gl=us",
+   "rating": 4.78,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 41,
+   "opportunityScore": 24,
+   "painPoints": [
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 5,
+     "share": 12,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "i can't login to this app please fix it",
+      "Having to sign in multiple times per day to be able to upload changes is extremely tedious."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 3,
+     "share": 7,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": []
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 3,
+     "share": 7,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "even I updated my software version some file can't be opened",
+      "Updated 5 days ago, now just says \"Fetching Files\" and never advances forward. Can't open spreadsheets on my Tablet now."
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": []
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Productivity app like Microsoft Excel: Spreadsheets, but: works without an account, or simple one-tap login; lightweight, fast app that works on cheap phones; keep the features users loved in the old version."
+  },
+  {
+   "appId": "com.openai.chatgpt",
+   "title": "ChatGPT",
+   "developer": "OpenAI",
+   "icon": "https://play-lh.googleusercontent.com/T9J8e9oxxPd600j_KPM4KK2GHfNpUpGBdTy8lHPXBXpOUfGusRuZXj0UMgFNrP8we6LVt9V-AibEgcLootE6VK4",
+   "url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=us",
+   "rating": 4.78,
+   "installs": "1,000,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 34,
+   "opportunityScore": 23,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 4,
+     "share": 12,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "you can ask it a couple of questions before it says you need to get premium.",
+      "My go subscription expired and suddenly i can't talk beyond 12 messeges....where as it says Unlimited text chat...seems time to uninstall has come..."
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 1,
+     "share": 3,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "worst app full of bugs. uninstalled and installed multiple times still no response from the app"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 1,
+     "share": 3,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": []
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 1,
+     "share": 3,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": [
+      "this app is always depending on my gigabyte so so this is a one star because it's so depended on the gb or your or your storage and my phone is only small gigabytes"
+     ]
+    },
+    {
+     "theme": "ux",
+     "label": "Confusing / cluttered design",
+     "mentions": 1,
+     "share": 3,
+     "fix": "Clean, simple interface that does one thing well",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "need to get premium"
+   ],
+   "pitch": "A Productivity app like ChatGPT, but: generous free tier, fair one-time price instead of forced subscription; fast, human support and a public roadmap; keep the features users loved in the old version."
+  },
+  {
+   "appId": "ai.x.grok",
+   "title": "Grok",
+   "developer": "SpaceX Super Intelligence",
+   "icon": "https://play-lh.googleusercontent.com/-VnI9BrQO0PYyZG15YE6wt68KOmZ7AXGAqGti58g25ES1XdXWDBaaWUMIewHaiROwge6ibvn_b3WalmpgWGG",
+   "url": "https://play.google.com/store/apps/details?id=ai.x.grok&hl=en&gl=us",
+   "rating": 4.9,
+   "installs": "100,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 60,
+   "opportunityScore": 17,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 20,
+     "share": 33,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "Very low tokens available for use, compared to charges",
+      "it used to give me at least 50 questions a day, now it's only been giving me 7!! what happened??? did the trillionare get more greedy with his money?"
+     ]
+    },
+    {
+     "theme": "updates",
+     "label": "New update made it worse",
+     "mentions": 4,
+     "share": 7,
+     "fix": "Keep the features users loved in the old version",
+     "quotes": [
+      "it used to give me at least 50 questions a day, now it's only been giving me 7!! what happened??? did the trillionare get more greedy with his money?",
+      "the new update is awful, the limit it has makes the application useless."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 3,
+     "share": 5,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "tolong hilangkan sedikit upgrade premium nya,bikin risih dan sering bug limited 🙏🏻😞",
+      "Paid ₹6500 for SuperGrok yearly, but the daily video limits are too low. Failed, blurry, bugged, noisy, moderation-error videos also get counted in the limit. This is unfair for paid users. Please improve video stability and stop counting failed generations."
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "Image limit scam. Doesn't reset on free version after 48 hours even if it stated '24 hours to reset'"
+     ]
+    },
+    {
+     "theme": "dataLoss",
+     "label": "Lost data / sync issues",
+     "mentions": 1,
+     "share": 2,
+     "fix": "Reliable local storage + easy backup/export",
+     "quotes": []
+    }
+   ],
+   "featureRequests": [
+    "need to wait for 24 hours until it renews",
+    "need to re-promopt and re-prompt before you get what you want",
+    "need more length each response cuz it felt short and boring"
+   ],
+   "pitch": "A Productivity app like Grok, but: generous free tier, fair one-time price instead of forced subscription; keep the features users loved in the old version; rock-solid stability as the #1 selling point."
+  },
+  {
+   "appId": "com.facebook.aura",
+   "title": "Muse from Meta",
+   "developer": "Meta Platforms, Inc.",
+   "icon": "https://play-lh.googleusercontent.com/qDQUfohqN-eZh_a_YuWYlTsBPwjgrayoh2-Nf9o49kzN5Yjwk4yTyNUIFRI3o3PYks5lVAgEPrEPvFRYqxLP",
+   "url": "https://play.google.com/store/apps/details?id=com.facebook.aura&hl=en&gl=us",
+   "rating": 4.81,
+   "installs": "10,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 31,
+   "opportunityScore": 16,
+   "painPoints": [
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 4,
+     "share": 13,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "The sheer amount of permissions that you have to give this thing to do anything is mind-boggling."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 3,
+     "share": 10,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "this kept trying to download....so I did this so I can send you this mistake....still doing this error",
+      "muse voice is not working I had it it and it disappeared, submitted ticket and nothing got fixed, it's been a week of waiting..."
+     ]
+    },
+    {
+     "theme": "performance",
+     "label": "Slow / heavy / battery drain",
+     "mentions": 2,
+     "share": 6,
+     "fix": "Lightweight, fast app that works on cheap phones",
+     "quotes": []
+    },
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 2,
+     "share": 6,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "I hate you. pop up where I can't see anything an won't stop"
+     ]
+    },
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 2,
+     "share": 6,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "lousy could not get subscription canceled",
+      "awful hacked my phone In l3 hours flat and had completey in unresponsive and useless except to the phone it would only accept commands from itself hack my cash app in banking app tried to borrow money in my name worthless terrible app"
+     ]
+    }
+   ],
+   "featureRequests": [
+    "needs a lot of improvement"
+   ],
+   "pitch": "A Productivity app like Muse from Meta, but: privacy-first: minimal permissions, no tracking, works offline; rock-solid stability as the #1 selling point; lightweight, fast app that works on cheap phones."
+  },
+  {
+   "appId": "ai.x.grok.bot",
+   "title": "Grok Bot",
+   "developer": "SpaceX Super Intelligence",
+   "icon": "https://play-lh.googleusercontent.com/yQblC3CCrdtX-XRHUKXsKwEGGFOPTwBWkKr-XeBZiouALcVDdh6liKbxNstwllkyUUpb_0EkzkYtDI1mVx8Q",
+   "url": "https://play.google.com/store/apps/details?id=ai.x.grok.bot&hl=en&gl=us",
+   "rating": 4.83,
+   "installs": "1,000,000+",
+   "free": true,
+   "reviewsSampled": 300,
+   "lowStarReviews": 72,
+   "opportunityScore": 16,
+   "painPoints": [
+    {
+     "theme": "pricing",
+     "label": "Paywall / subscription too expensive",
+     "mentions": 30,
+     "share": 42,
+     "fix": "Generous free tier, fair one-time price instead of forced subscription",
+     "quotes": [
+      "useless app until you pay the premium version on X.",
+      "absolutely scam. They only try and force you on to a premium membership."
+     ]
+    },
+    {
+     "theme": "account",
+     "label": "Login / account problems",
+     "mentions": 12,
+     "share": 17,
+     "fix": "Works without an account, or simple one-tap login",
+     "quotes": [
+      "i don't feel my information & account is private enough with this company i chose not to use it",
+      "the app factory reset my phone not more than 40 minutes after downloading it. It also changed my password to my email I can't access it or any associated accounts because of this"
+     ]
+    },
+    {
+     "theme": "support",
+     "label": "Bad customer support",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Fast, human support and a public roadmap",
+     "quotes": [
+      "bot wasted like 50% credits developing in a stuck environment now I have to waste time contacting xai for refund as waste of half a days work because the ai sucks",
+      "I paid for this upgraded update. now I have not been able to use this app for days. the help center is a joke. im being ignored. telling me that I'll have to wait days before anyone can help me."
+     ]
+    },
+    {
+     "theme": "crashes",
+     "label": "Crashes & bugs",
+     "mentions": 3,
+     "share": 4,
+     "fix": "Rock-solid stability as the #1 selling point",
+     "quotes": [
+      "Way too expensive for AI being as young as it is. Too many errors and misunderstandings to justify paying for top offs that only give you 5% more use.",
+      "free version not working at all"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 2,
+     "share": 3,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "absolutely scam. They only try and force you on to a premium membership."
+     ]
+    }
+   ],
+   "featureRequests": [
+    "should have more free usage to see what you're going to be paying for",
+    "needs to be raised some atleast",
+    "need a free app with all the bells and whistles",
+    "need a subscription just to use Grokbot",
+    "need to have a clear money back guarantee or at least a trial period best of luck with the app",
+    "need to go for Grok Bot while Gpt"
+   ],
+   "pitch": "A Productivity app like Grok Bot, but: generous free tier, fair one-time price instead of forced subscription; works without an account, or simple one-tap login; fast, human support and a public roadmap."
+  },
+  {
+   "appId": "com.document.reader.viewer.office.file.text.presentation.spreadsheet",
+   "title": "PDF Reader & Document Viewer",
+   "developer": "EAGLE SERVICES",
+   "icon": "https://play-lh.googleusercontent.com/beXQU2FHjIhOw_tBvK8iGmq1Llx05BwAu3r2fKfUhCfEyi7ve40aj1UQDFnGGbGw-cy2DhdSsMQjf1KyCAhWcg",
+   "url": "https://play.google.com/store/apps/details?id=com.document.reader.viewer.office.file.text.presentation.spreadsheet&hl=en&gl=us",
+   "rating": 3.77,
+   "installs": "500,000+",
+   "free": true,
+   "reviewsSampled": 11,
+   "lowStarReviews": 4,
+   "opportunityScore": 8,
+   "painPoints": [
+    {
+     "theme": "ads",
+     "label": "Too many ads",
+     "mentions": 1,
+     "share": 25,
+     "fix": "Few or no ads (or a one-time \"remove ads\" purchase)",
+     "quotes": [
+      "what is scam forwards you too endless downloads ads that don't do anything don't waste your time"
+     ]
+    },
+    {
+     "theme": "privacy",
+     "label": "Privacy / permissions worries",
+     "mentions": 1,
+     "share": 25,
+     "fix": "Privacy-first: minimal permissions, no tracking, works offline",
+     "quotes": [
+      "what is scam forwards you too endless downloads ads that don't do anything don't waste your time"
+     ]
+    }
+   ],
+   "featureRequests": [],
+   "pitch": "A Productivity app like PDF Reader & Document Viewer, but: few or no ads (or a one-time \"remove ads\" purchase); privacy-first: minimal permissions, no tracking, works offline."
+  }
+ ]
+}
