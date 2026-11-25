@@ -1,0 +1,5 @@
+# Only needed if you deploy from a computer with `npx wrangler deploy`.
+# From a phone, use the Cloudflare dashboard instead (see README.md).
+name = "anymusicplayer"
+main = "worker.js"
+compatibility_date = "2025-06-01"
